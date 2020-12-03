@@ -2,108 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7d17be9-02bb-47d5-a3c0-f87d769a00d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/e54f505d-8011-40b9-84b8-5dfa647fcff2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/e54f505d-8011-40b9-84b8-5dfa647fcff2/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Tag.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2016_01_01_000000_create_pages_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2016_01_01_000000_create_posts_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2016_02_15_204651_create_categories_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2017_04_11_000000_alter_post_nullable_fields_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/seeds/CategoriesTableSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/seeds/PagesTableSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/seeds/PostsTableSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/passwords/confirm.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/verify.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/commandlinetools/Laravel_12_1_20__10_32_AM.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/commandlinetools/Laravel_12_2_20__12_47_PM.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_ide_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot?" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot?v=4.7.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg?v=4.7.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf?v=4.7.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff2?v=4.7.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff?v=4.7.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/about-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/about-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ad-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ad-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/post-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/post-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/post-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/post-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/post-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/post-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/post-page.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/widget-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/widget-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/widget-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/widget-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/laravel-blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel-blog.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Post.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Tag.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Tag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/hooks.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/hooks.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/voyager-hooks.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/voyager-hooks.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/voyager.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/voyager.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_12_01_104242_create_posts_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_12_02_135919_create_tags_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DataRowsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DataRowsTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DataTypesTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DataTypesTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/MenuItemsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/MenuItemsTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/MenusTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/MenusTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/PermissionRoleTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/PermissionRoleTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/PermissionsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/PermissionsTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/RolesTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/RolesTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/SettingsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/SettingsTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/TranslationsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/TranslationsTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/VoyagerDatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/VoyagerDatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/VoyagerDummyDatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/VoyagerDummyDatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/hooks.json" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/hooks.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot?v=4.7.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg?v=4.7.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf?v=4.7.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff2?v=4.7.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff?v=4.7.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/about-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/about-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/ad-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/ad-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/author.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/post-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/post-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/post-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/post-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/post-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/post-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/post-page.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/widget-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/widget-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/widget-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/widget-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/main.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/Aside.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/Aside.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/Footer.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -233,6 +179,8 @@
       <path value="$PROJECT_DIR$/vendor/larapack/voyager-hooks" />
       <path value="$PROJECT_DIR$/vendor/larapack/doctrine-support" />
       <path value="$PROJECT_DIR$/vendor/larapack/hooks" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/reflection-docblock" />
     </include_path>
   </component>
   <component name="ProjectId" id="1l5tVdKkXfGLGJBorRi0rqa6Ykf" />
@@ -248,11 +196,18 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/js" />
+      <recent name="$PROJECT_DIR$/public/css" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -269,6 +224,12 @@
       <option name="presentableId" value="Default" />
       <updated>1606898806283</updated>
       <workItem from="1606898807844" duration="14884000" />
+      <workItem from="1606980105168" duration="113000" />
+      <workItem from="1606980248232" duration="97000" />
+      <workItem from="1606980362438" duration="234000" />
+      <workItem from="1606980622617" duration="135000" />
+      <workItem from="1606980782934" duration="102000" />
+      <workItem from="1606980904237" duration="5530000" />
     </task>
     <servers />
   </component>
@@ -283,17 +244,25 @@
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
     <state x="545" y="146" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1048@0.0.1920.1048" timestamp="1606901619792" />
+    <state x="693" y="282" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606982360744">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="693" y="282" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1048@0.0.1920.1048" timestamp="1606982360744" />
     <state width="207" height="456" key="HiddenNamespacesPopup" timestamp="1606901635869">
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
     <state width="207" height="456" key="HiddenNamespacesPopup/0.0.1920.1048@0.0.1920.1048" timestamp="1606901635869" />
+    <state x="464" y="159" width="992" height="737" key="SettingsEditor" timestamp="1606980848369">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="464" y="159" width="992" height="737" key="SettingsEditor/0.0.1920.1048@0.0.1920.1048" timestamp="1606980848369" />
     <state x="778" y="0" width="334" height="1048" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1606901650256">
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
     <state x="778" y="0" width="334" height="1048" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1048@0.0.1920.1048" timestamp="1606901650256" />
-    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1606911919356">
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1606982324688">
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
-    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1048@0.0.1920.1048" timestamp="1606911919356" />
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1048@0.0.1920.1048" timestamp="1606982324688" />
   </component>
 </project>

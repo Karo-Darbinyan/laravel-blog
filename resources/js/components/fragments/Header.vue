@@ -8,20 +8,20 @@
                 <div class="container">
                     <!-- logo -->
                     <div class="nav-logo">
-                        <a href="/" class="logo"><img src="img/logo.png" alt=""></a>
+                        <router-link to="/" class="logo"><img src="img/logo.png" alt=""></router-link>
                     </div>
                     <!-- /logo -->
 
                     <!-- nav -->
                     <ul class="nav-menu nav navbar-nav">
                         <li v-for="item in nav_fixed" v-bind:class="item.class">
-                            <a :href="item.href">{{ item.title }}</a></li>
+                            <router-link :to="item.href">{{ item.title }}</router-link></li>
                     </ul>
                     <!-- /nav -->
 
                     <!-- search & aside toggle -->
                     <div class="nav-btns">
-                        <button class="aside-btn" v-on:click="aside"><i class="fa fa-bars"></i></button>
+                        <button class="aside-btn"><i class="fa fa-bars"></i></button>
                         <button class="search-btn"><i class="fa fa-search"></i></button>
                         <div class="search-form">
                             <label>
@@ -40,7 +40,7 @@
                 <!-- nav -->
                 <div class="section-row">
                     <ul class="nav-aside-menu">
-                        <li v-for="item in nav_aside"><a :href="item.href">{{ item.title }}</a></li>
+                        <li v-for="item in nav_aside"><router-link :to="item.href">{{ item.title }}</router-link></li>
                     </ul>
                 </div>
                 <!-- /nav -->
@@ -103,19 +103,19 @@ export default {
     data() {
         return {
             nav_fixed: [
-                {title: "News", href: "/category", class: ""},
-                {title: "Popular", href: "/category", class: ""},
-                {title: "Web Design", href: "/category", class: "cat-1"},
-                {title: "JavaScript", href: "/category", class: "cat-2"},
-                {title: "Css", href: "/category", class: "cat-3"},
-                {title: "Jquery", href: "/category", class: "cat-4"}
+                {title: "News", href: "/news", class: ""},
+                {title: "Popular", href: "/popular", class: ""},
+                {title: "Web Design", href: "/category/web-design", class: "cat-1"},
+                {title: "JavaScript", href: "/category/javascript", class: "cat-2"},
+                {title: "Css", href: "/category/css", class: "cat-3"},
+                {title: "Jquery", href: "/category/jquery", class: "cat-4"}
             ],
             nav_aside: [
-                {title: "Home", href: "/category"},
-                {title: "About Us", href: "/category"},
-                {title: "Join Us", href: "/category"},
-                {title: "Advertisement", href: "/category"},
-                {title: "Contacts", href: "/category"}
+                {title: "Home", href: "/"},
+                {title: "About Us", href: "/about-us"},
+                {title: "Join Us", href: "/join-us"},
+                {title: "Advertisement", href: "/advertisement"},
+                {title: "Contacts", href: "/contacts"}
             ]
         }
     }
