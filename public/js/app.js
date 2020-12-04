@@ -1988,6 +1988,93 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "Footer",
   data: function data() {
@@ -2008,6 +2095,212 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -2158,6 +2451,174 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/fragments/Slider.vue?vue&type=script&lang=js&":
+/*!***************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/fragments/Slider.vue?vue&type=script&lang=js& ***!
+  \***************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  name: "Slider"
+});
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/views/category/Index.vue?vue&type=script&lang=js&":
 /*!*******************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/views/category/Index.vue?vue&type=script&lang=js& ***!
@@ -2186,6 +2647,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _fragments_Slider__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../fragments/Slider */ "./resources/js/components/fragments/Slider.vue");
 //
 //
 //
@@ -2755,8 +3217,646 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
 /* harmony default export */ __webpack_exports__["default"] = ({
-  name: "Index"
+  name: "Index",
+  components: {
+    Slider: _fragments_Slider__WEBPACK_IMPORTED_MODULE_0__["default"]
+  }
 });
 
 /***/ }),
@@ -2770,6 +3870,648 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -2795,6 +4537,573 @@ __webpack_require__.r(__webpack_exports__);
 //
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "Popular"
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/views/post/View.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/views/post/View.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  name: "View"
 });
 
 /***/ }),
@@ -38465,41 +40774,322 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("footer", { attrs: { id: "footer" } }, [
-    _c("div", { staticClass: "container" }, [
-      _c("div", { staticClass: "row" }, [
-        _c("div", { staticClass: "col-md-5" }, [
-          _c("div", { staticClass: "footer-widget" }, [
-            _vm._m(0),
+  return _c("footer", { staticClass: "footer-bg" }, [
+    _c("div", { staticClass: "subscribe-area pt-100 pb-80" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "subscribe-separator pt-50 pb-20" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-xl-2 col-lg-12" }, [
+              _c(
+                "div",
+                { staticClass: "footer-logo mb-30" },
+                [
+                  _c("router-link", { attrs: { to: "/index-2" } }, [
+                    _c("img", {
+                      attrs: { src: "/img/logo/footer-logo.png", alt: "" }
+                    })
+                  ])
+                ],
+                1
+              )
+            ]),
             _vm._v(" "),
-            _vm._m(1),
-            _vm._v(" "),
-            _c("div", { staticClass: "footer-copyright" }, [
-              _c("span", [
-                _vm._v("©\n                                    "),
+            _vm._m(0)
+          ])
+        ])
+      ])
+    ]),
+    _vm._v(" "),
+    _c("div", { staticClass: "footer-bottom-area pb-70" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-xl-4" }, [
+            _c("div", { staticClass: "footer-widget mb-30" }, [
+              _c("p", [
                 _vm._v(
-                  "\n                                    Copyright © " +
-                    _vm._s(_vm.date) +
-                    " All rights reserved | This template is made with\n                                    "
-                ),
-                _c("i", {
-                  staticClass: "fa fa-heart-o",
-                  attrs: { "aria-hidden": "true" }
-                }),
-                _vm._v("\n                                    by "),
-                _c(
-                  "a",
-                  { attrs: { href: "https://colorlib.com", target: "_blank" } },
-                  [_vm._v("Colorlib")]
+                  "But I must explain to you how all this mistaken idea of denouncing pleasure and praising\n                            pain was born and I will give you\n                            a complete account of the system, and expound the actual teachings of the great explorer\n                            of\n                            the truth, the master-builder\n                            of human happiness."
+                )
+              ]),
+              _vm._v(" "),
+              _c(
+                "div",
+                { staticClass: "footer-social" },
+                [
+                  _c(
+                    "router-link",
+                    { staticClass: "facebook", attrs: { to: "/index-2" } },
+                    [_c("i", { staticClass: "fab fa-facebook-f" })]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "router-link",
+                    { staticClass: "twitter", attrs: { to: "/index-2" } },
+                    [_c("i", { staticClass: "fab fa-twitter" })]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "router-link",
+                    { staticClass: "instagram", attrs: { to: "/index-2" } },
+                    [_c("i", { staticClass: "fab fa-instagram" })]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "router-link",
+                    { staticClass: "dribbble", attrs: { to: "/index-2" } },
+                    [_c("i", { staticClass: "fab fa-dribbble" })]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "router-link",
+                    { staticClass: "pinterest", attrs: { to: "/index-2" } },
+                    [_c("i", { staticClass: "fab fa-pinterest-p" })]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "router-link",
+                    { staticClass: "google-plus", attrs: { to: "/index-2" } },
+                    [_c("i", { staticClass: "fab fa-google-plus-g" })]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "router-link",
+                    { staticClass: "pinterest", attrs: { to: "/index-2" } },
+                    [_c("i", { staticClass: "fab fa-pinterest-p" })]
+                  )
+                ],
+                1
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-xl-8" }, [
+            _c("div", { staticClass: "widget-box mb-30" }, [
+              _c("div", { staticClass: "row" }, [
+                _c("div", { staticClass: "col-xl-3 col-lg-3" }, [
+                  _c("div", { staticClass: "footer-widget mb-30" }, [
+                    _c("h3", [_vm._v("Quick Link")]),
+                    _vm._v(" "),
+                    _c("ul", [
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _vm._v("Politic")
+                          ])
+                        ],
+                        1
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _vm._v("Travel")
+                          ])
+                        ],
+                        1
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _vm._v("Study")
+                          ])
+                        ],
+                        1
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _vm._v("Country")
+                          ])
+                        ],
+                        1
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _vm._v("Sports")
+                          ])
+                        ],
+                        1
+                      )
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "col-xl-3 col-lg-3" }, [
+                  _c("div", { staticClass: "footer-widget mb-30" }, [
+                    _c("h3", [_vm._v("Most Visited")]),
+                    _vm._v(" "),
+                    _c("ul", [
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _vm._v("Latest News")
+                          ])
+                        ],
+                        1
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _vm._v("Most Visited")
+                          ])
+                        ],
+                        1
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _vm._v("Recent News")
+                          ])
+                        ],
+                        1
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _vm._v("International")
+                          ])
+                        ],
+                        1
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _vm._v("Entertainment")
+                          ])
+                        ],
+                        1
+                      )
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "col-xl-3 col-lg-3" }, [
+                  _c("div", { staticClass: "footer-widget mb-30" }, [
+                    _c("h3", [_vm._v("About Us")]),
+                    _vm._v(" "),
+                    _c("ul", [
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _vm._v("Feature")
+                          ])
+                        ],
+                        1
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _vm._v("About Us")
+                          ])
+                        ],
+                        1
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _vm._v("Life Style")
+                          ])
+                        ],
+                        1
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _vm._v("Economic")
+                          ])
+                        ],
+                        1
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _vm._v("Business")
+                          ])
+                        ],
+                        1
+                      )
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "col-xl-3 col-lg-3" }, [
+                  _c("div", { staticClass: "footer-widget pt-50 mb-30" }, [
+                    _c("ul", [
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _c("i", { staticClass: "fas fa-video" }),
+                            _vm._v(
+                              " Video\n                                            "
+                            )
+                          ])
+                        ],
+                        1
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        [
+                          _c("router-link", { attrs: { to: "/index-2" } }, [
+                            _c("i", { staticClass: "fas fa-camera-retro" }),
+                            _vm._v(
+                              " Picture\n                                            "
+                            )
+                          ])
+                        ],
+                        1
+                      )
+                    ])
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ]),
+    _vm._v(" "),
+    _c("div", { staticClass: "copyright-area pt-25 pb-25" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-12" }, [
+            _c("div", { staticClass: "copyright text-center" }, [
+              _c("p", [
+                _vm._v(
+                  "© Copyrights " + _vm._s(_vm.date) + ". All rights reserved."
                 )
               ])
             ])
           ])
-        ]),
-        _vm._v(" "),
-        _vm._m(2),
-        _vm._v(" "),
-        _vm._m(3)
+        ])
       ])
     ])
   ])
@@ -38509,135 +41099,26 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "footer-logo" }, [
-      _c("a", { staticClass: "logo", attrs: { href: "index.html" } }, [
-        _c("img", { attrs: { src: "img/logo.png", alt: "" } })
-      ])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("ul", { staticClass: "footer-nav" }, [
-      _c("li", [
-        _c("a", { attrs: { href: "index.html#" } }, [_vm._v("Privacy Policy")])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _c("a", { attrs: { href: "index.html#" } }, [_vm._v("Advertisement")])
-      ])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "col-md-4" }, [
+    return _c("div", { staticClass: "col-xl-10 col-lg-12" }, [
       _c("div", { staticClass: "row" }, [
-        _c("div", { staticClass: "col-md-6" }, [
-          _c("div", { staticClass: "footer-widget" }, [
-            _c("h3", { staticClass: "footer-title" }, [_vm._v("About Us")]),
-            _vm._v(" "),
-            _c("ul", { staticClass: "footer-links" }, [
-              _c("li", [
-                _c("a", { attrs: { href: "about.html" } }, [_vm._v("About Us")])
-              ]),
+        _c("div", { staticClass: "col-xl-7 col-lg-7" }, [
+          _c("div", { staticClass: "subscribe-title" }, [
+            _c("h2", [_vm._v("subscribe our newsletter")])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "col-xl-5 col-lg-5" }, [
+          _c("div", { staticClass: "subscribe-form mb-30" }, [
+            _c("form", { attrs: { action: "index-2.html#" } }, [
+              _c("input", {
+                attrs: { type: "email", placeholder: "Enter your email" }
+              }),
               _vm._v(" "),
-              _c("li", [
-                _c("a", { attrs: { href: "index.html#" } }, [_vm._v("Join Us")])
-              ]),
-              _vm._v(" "),
-              _c("li", [
-                _c("a", { attrs: { href: "contact.html" } }, [
-                  _vm._v("Contacts")
-                ])
+              _c("button", { attrs: { type: "submit" } }, [
+                _vm._v(
+                  "\n                                            subscribe\n                                        "
+                )
               ])
-            ])
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-md-6" }, [
-          _c("div", { staticClass: "footer-widget" }, [
-            _c("h3", { staticClass: "footer-title" }, [_vm._v("Catagories")]),
-            _vm._v(" "),
-            _c("ul", { staticClass: "footer-links" }, [
-              _c("li", [
-                _c("a", { attrs: { href: "category.html" } }, [
-                  _vm._v("Web Design")
-                ])
-              ]),
-              _vm._v(" "),
-              _c("li", [
-                _c("a", { attrs: { href: "category.html" } }, [
-                  _vm._v("JavaScript")
-                ])
-              ]),
-              _vm._v(" "),
-              _c("li", [
-                _c("a", { attrs: { href: "category.html" } }, [_vm._v("Css")])
-              ]),
-              _vm._v(" "),
-              _c("li", [
-                _c("a", { attrs: { href: "category.html" } }, [
-                  _vm._v("Jquery")
-                ])
-              ])
-            ])
-          ])
-        ])
-      ])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "col-md-3" }, [
-      _c("div", { staticClass: "footer-widget" }, [
-        _c("h3", { staticClass: "footer-title" }, [
-          _vm._v("Join our Newsletter")
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "footer-newsletter" }, [
-          _c("form", [
-            _c("input", {
-              staticClass: "input",
-              attrs: {
-                type: "email",
-                name: "newsletter",
-                placeholder: "Enter your email"
-              }
-            }),
-            _vm._v(" "),
-            _c("button", { staticClass: "newsletter-btn" }, [
-              _c("i", { staticClass: "fa fa-paper-plane" })
-            ])
-          ])
-        ]),
-        _vm._v(" "),
-        _c("ul", { staticClass: "footer-social" }, [
-          _c("li", [
-            _c("a", { attrs: { href: "index.html#" } }, [
-              _c("i", { staticClass: "fa fa-facebook" })
-            ])
-          ]),
-          _vm._v(" "),
-          _c("li", [
-            _c("a", { attrs: { href: "index.html#" } }, [
-              _c("i", { staticClass: "fa fa-twitter" })
-            ])
-          ]),
-          _vm._v(" "),
-          _c("li", [
-            _c("a", { attrs: { href: "index.html#" } }, [
-              _c("i", { staticClass: "fa fa-google-plus" })
-            ])
-          ]),
-          _vm._v(" "),
-          _c("li", [
-            _c("a", { attrs: { href: "index.html#" } }, [
-              _c("i", { staticClass: "fa fa-pinterest" })
             ])
           ])
         ])
@@ -38666,69 +41147,929 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("header", { attrs: { id: "header" } }, [
-    _c("div", { attrs: { id: "nav" } }, [
-      _c("div", { attrs: { id: "nav-fixed" } }, [
-        _c("div", { staticClass: "container" }, [
+  return _c("header", { staticClass: "header" }, [
+    _c("div", { staticClass: "header__top-area header-top-border" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-xl-4 col-lg-5 col-md-6" }, [
+            _c("div", { staticClass: "header__top-menu top-menu-black" }, [
+              _c("ul", [
+                _c(
+                  "li",
+                  [
+                    _c("router-link", { attrs: { to: "/about" } }, [
+                      _vm._v("About")
+                    ])
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  [
+                    _c("router-link", { attrs: { to: "/advertise" } }, [
+                      _vm._v("Advertise")
+                    ])
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      { attrs: { to: "/privacy-and-policy" } },
+                      [_vm._v("Privacy & Policy")]
+                    )
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  [
+                    _c("router-link", { attrs: { to: "/contact-us" } }, [
+                      _vm._v("Contact Us")
+                    ])
+                  ],
+                  1
+                )
+              ])
+            ])
+          ]),
+          _vm._v(" "),
+          _vm._m(0),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-xl-5 col-lg-5 col-md-6" }, [
+            _vm._m(1),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass: "header__social header-social-black f-right mt-10"
+              },
+              [
+                _c("router-link", { attrs: { to: "/index" } }, [
+                  _c("i", { staticClass: "fab fa-facebook-f" })
+                ]),
+                _vm._v(" "),
+                _c("router-link", { attrs: { to: "/index" } }, [
+                  _c("i", { staticClass: "fab fa-twitter" })
+                ]),
+                _vm._v(" "),
+                _c("router-link", { attrs: { to: "/index" } }, [
+                  _c("i", { staticClass: "fab fa-linkedin-in" })
+                ]),
+                _vm._v(" "),
+                _c("router-link", { attrs: { to: "/index" } }, [
+                  _c("i", { staticClass: "fab fa-google-plus-g" })
+                ])
+              ],
+              1
+            )
+          ])
+        ])
+      ])
+    ]),
+    _vm._v(" "),
+    _c("div", { staticClass: "header__middle pt-20" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
           _c(
             "div",
-            { staticClass: "nav-logo" },
+            {
+              staticClass:
+                "col-xl-4 col-lg-4 col-md-3 d-flex align-items-center justify-content-md-start justify-content-center"
+            },
             [
-              _c("router-link", { staticClass: "logo", attrs: { to: "/" } }, [
-                _c("img", { attrs: { src: "img/logo.png", alt: "" } })
+              _c(
+                "div",
+                { staticClass: "header__logo text-center text-md-left mb-20" },
+                [
+                  _c("router-link", { attrs: { to: "/" } }, [
+                    _c("img", {
+                      attrs: { src: "/img/logo/logo.png", alt: "Header Logo" }
+                    })
+                  ])
+                ],
+                1
+              )
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-xl-8 col-lg-8 col-md-9" }, [
+            _c(
+              "div",
+              { staticClass: "header__add text-center text-md-right mb-20" },
+              [
+                _c("router-link", { attrs: { to: "/index-2" } }, [
+                  _c("img", {
+                    attrs: { src: "/img/add/header-add.jpg", alt: "" }
+                  })
+                ])
+              ],
+              1
+            )
+          ])
+        ])
+      ])
+    ]),
+    _vm._v(" "),
+    _c("div", { staticClass: "header__menu-area menu__border white__header" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-xl-12" }, [
+            _vm._m(2),
+            _vm._v(" "),
+            _c(
+              "div",
+              { staticClass: "header__menu header__menu-white f-left" },
+              [
+                _c("nav", { attrs: { id: "mobile-menu" } }, [
+                  _c("ul", [
+                    _c(
+                      "li",
+                      [
+                        _c("router-link", { attrs: { to: "/news" } }, [
+                          _vm._v("News")
+                        ])
+                      ],
+                      1
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "li",
+                      [
+                        _c("router-link", { attrs: { to: "/tech" } }, [
+                          _vm._v("Tech")
+                        ])
+                      ],
+                      1
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "li",
+                      [
+                        _c("router-link", { attrs: { to: "/lifestyle" } }, [
+                          _vm._v("Enterteinment")
+                        ])
+                      ],
+                      1
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "li",
+                      [
+                        _c("router-link", { attrs: { to: "/lifestyle" } }, [
+                          _vm._v("Lifestyle")
+                        ])
+                      ],
+                      1
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "li",
+                      [
+                        _c("router-link", { attrs: { to: "/blog-standard" } }, [
+                          _vm._v("Blog")
+                        ]),
+                        _vm._v(" "),
+                        _c("ul", { staticClass: "submenu" }, [
+                          _c(
+                            "li",
+                            [
+                              _c(
+                                "router-link",
+                                { attrs: { to: "/blog-3-column" } },
+                                [_vm._v("BLog 3 Column")]
+                              )
+                            ],
+                            1
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "li",
+                            [
+                              _c(
+                                "router-link",
+                                { attrs: { to: "/blog-standard" } },
+                                [_vm._v("BLog Sidebar")]
+                              )
+                            ],
+                            1
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "li",
+                            [
+                              _c(
+                                "router-link",
+                                { attrs: { to: "/post-details" } },
+                                [_vm._v("BLog Details")]
+                              )
+                            ],
+                            1
+                          )
+                        ])
+                      ],
+                      1
+                    ),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "javascript:void(0)" } }, [
+                        _vm._v("Portfolio")
+                      ]),
+                      _vm._v(" "),
+                      _c("ul", { staticClass: "submenu" }, [
+                        _c(
+                          "li",
+                          [
+                            _c(
+                              "router-link",
+                              { attrs: { to: "/portfolio-box" } },
+                              [_vm._v("Portfolio Box")]
+                            )
+                          ],
+                          1
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "li",
+                          [
+                            _c(
+                              "router-link",
+                              { attrs: { to: "/portfolio-full" } },
+                              [_vm._v("Portfolio Box")]
+                            )
+                          ],
+                          1
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "javascript:void(0)" } }, [
+                        _vm._v("Pages")
+                      ]),
+                      _vm._v(" "),
+                      _c("ul", { staticClass: "submenu" }, [
+                        _c(
+                          "li",
+                          [
+                            _c("router-link", { attrs: { to: "/contact" } }, [
+                              _vm._v("Contact")
+                            ])
+                          ],
+                          1
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "li",
+                          [
+                            _c("router-link", { attrs: { to: "/lifestyle" } }, [
+                              _vm._v("Lifestyle")
+                            ])
+                          ],
+                          1
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "li",
+                          [
+                            _c("router-link", { attrs: { to: "/politic" } }, [
+                              _vm._v("Politic")
+                            ])
+                          ],
+                          1
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "li",
+                          [
+                            _c("router-link", { attrs: { to: "/tech" } }, [
+                              _vm._v("Technology")
+                            ])
+                          ],
+                          1
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "li",
+                          [
+                            _c(
+                              "router-link",
+                              { attrs: { to: "/post-details" } },
+                              [_vm._v("Post Details")]
+                            )
+                          ],
+                          1
+                        )
+                      ])
+                    ])
+                  ])
+                ])
+              ]
+            ),
+            _vm._v(" "),
+            _c("div", { staticClass: "mobile-menu" })
+          ])
+        ])
+      ])
+    ]),
+    _vm._v(" "),
+    _c("div", { staticClass: "extra-info" }, [
+      _vm._m(3),
+      _vm._v(" "),
+      _c(
+        "div",
+        { staticClass: "header__logo" },
+        [
+          _c("router-link", { attrs: { to: "/index-2" } }, [
+            _c("img", {
+              attrs: { src: "/img/logo/footer-logo.png", alt: "Header Logo" }
+            })
+          ])
+        ],
+        1
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        { staticClass: "social-icon-right mt-30 mb-50" },
+        [
+          _c("router-link", { attrs: { to: "/index-2" } }, [
+            _c("i", { staticClass: "fab fa-facebook-f" })
+          ]),
+          _vm._v(" "),
+          _c("router-link", { attrs: { to: "/index-2" } }, [
+            _c("i", { staticClass: "fab fa-twitter" })
+          ]),
+          _vm._v(" "),
+          _c("router-link", { attrs: { to: "/index-2" } }, [
+            _c("i", { staticClass: "fab fa-google-plus-g" })
+          ]),
+          _vm._v(" "),
+          _c("router-link", { attrs: { to: "/index-2" } }, [
+            _c("i", { staticClass: "fab fa-instagram" })
+          ])
+        ],
+        1
+      ),
+      _vm._v(" "),
+      _c("div", { staticClass: "side-menu mb-30" }, [
+        _c("ul", [
+          _c(
+            "li",
+            [
+              _c("router-link", { attrs: { to: "/index-2" } }, [
+                _vm._v("Features")
               ])
             ],
             1
           ),
           _vm._v(" "),
           _c(
-            "ul",
-            { staticClass: "nav-menu nav navbar-nav" },
-            _vm._l(_vm.nav_fixed, function(item) {
-              return _c(
-                "li",
-                { class: item.class },
-                [
-                  _c("router-link", { attrs: { to: item.href } }, [
-                    _vm._v(_vm._s(item.title))
-                  ])
-                ],
-                1
-              )
-            }),
-            0
+            "li",
+            [
+              _c("router-link", { attrs: { to: "/index-2" } }, [_vm._v("News")])
+            ],
+            1
           ),
           _vm._v(" "),
-          _vm._m(0)
+          _c(
+            "li",
+            [
+              _c("router-link", { attrs: { to: "/index-2" } }, [_vm._v("Tech")])
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "li",
+            [
+              _c("router-link", { attrs: { to: "/index-2" } }, [
+                _vm._v("Enterteinment")
+              ])
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "li",
+            [
+              _c("router-link", { attrs: { to: "/index-2" } }, [
+                _vm._v("Lifestyle")
+              ])
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "li",
+            [
+              _c("router-link", { attrs: { to: "/index-2" } }, [
+                _vm._v("Review")
+              ])
+            ],
+            1
+          )
         ])
       ]),
       _vm._v(" "),
-      _c("div", { attrs: { id: "nav-aside" } }, [
-        _c("div", { staticClass: "section-row" }, [
+      _c("div", { staticClass: "side-post" }, [
+        _c("h3", [_vm._v("Popular Post")]),
+        _vm._v(" "),
+        _c("div", { staticClass: "post__small mb-20" }, [
           _c(
-            "ul",
-            { staticClass: "nav-aside-menu" },
-            _vm._l(_vm.nav_aside, function(item) {
-              return _c(
-                "li",
-                [
-                  _c("router-link", { attrs: { to: item.href } }, [
-                    _vm._v(_vm._s(item.title))
-                  ])
-                ],
-                1
-              )
-            }),
-            0
-          )
+            "div",
+            { staticClass: "post__small-thumb f-left" },
+            [
+              _c("router-link", { attrs: { to: "/index-2" } }, [
+                _c("img", {
+                  attrs: { src: "img/trendy/xs/xs-1.jpg", alt: "hero image" }
+                })
+              ])
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "post__small-text fix pl-10" }, [
+            _vm._m(4),
+            _vm._v(" "),
+            _c(
+              "h4",
+              { staticClass: "title-13 pr-0" },
+              [
+                _c("router-link", { attrs: { to: "/index-2" } }, [
+                  _vm._v("Storm in aw ame home away.")
+                ])
+              ],
+              1
+            ),
+            _vm._v(" "),
+            _vm._m(5)
+          ])
         ]),
         _vm._v(" "),
-        _vm._m(1),
+        _c("div", { staticClass: "post__small mb-20" }, [
+          _c(
+            "div",
+            { staticClass: "post__small-thumb f-left" },
+            [
+              _c("router-link", { attrs: { to: "/index-2" } }, [
+                _c("img", {
+                  attrs: { src: "/img/trendy/xs/xs-2.jpg", alt: "hero image" }
+                })
+              ])
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "post__small-text fix pl-10" }, [
+            _c(
+              "span",
+              { staticClass: "sm-cat" },
+              [
+                _c("router-link", { attrs: { to: "/index-2" } }, [
+                  _vm._v("Fashion")
+                ])
+              ],
+              1
+            ),
+            _vm._v(" "),
+            _c(
+              "h4",
+              { staticClass: "title-13 pr-0" },
+              [
+                _c("router-link", { attrs: { to: "/index-2" } }, [
+                  _vm._v("Good ridre urants bid farewell.")
+                ])
+              ],
+              1
+            ),
+            _vm._v(" "),
+            _vm._m(6)
+          ])
+        ]),
         _vm._v(" "),
-        _vm._m(2),
+        _c("div", { staticClass: "post__small mb-20" }, [
+          _c(
+            "div",
+            { staticClass: "post__small-thumb f-left" },
+            [
+              _c("router-link", { attrs: { to: "/index-2" } }, [
+                _c("img", {
+                  attrs: { src: "/img/trendy/xs/xs-3.jpg", alt: "hero image" }
+                })
+              ])
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "post__small-text fix pl-10" }, [
+            _c(
+              "span",
+              { staticClass: "sm-cat" },
+              [
+                _c("router-link", { attrs: { to: "/index-2" } }, [
+                  _vm._v("Fashion")
+                ])
+              ],
+              1
+            ),
+            _vm._v(" "),
+            _c(
+              "h4",
+              { staticClass: "title-13 pr-0" },
+              [
+                _c("router-link", { attrs: { to: "/index-2" } }, [
+                  _vm._v("Nahan dow plays Lieral lership..")
+                ])
+              ],
+              1
+            ),
+            _vm._v(" "),
+            _vm._m(7)
+          ])
+        ]),
         _vm._v(" "),
-        _vm._m(3)
+        _c("div", { staticClass: "post__small mb-20" }, [
+          _c(
+            "div",
+            { staticClass: "post__small-thumb f-left" },
+            [
+              _c("router-link", { attrs: { to: "/index-2" } }, [
+                _c("img", {
+                  attrs: { src: "/img/trendy/xs/xs-4.jpg", alt: "hero image" }
+                })
+              ])
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "post__small-text fix pl-10" }, [
+            _c(
+              "span",
+              { staticClass: "sm-cat" },
+              [
+                _c("router-link", { attrs: { to: "/index-2" } }, [
+                  _vm._v("Travel")
+                ])
+              ],
+              1
+            ),
+            _vm._v(" "),
+            _c(
+              "h4",
+              { staticClass: "title-13 pr-0" },
+              [
+                _c("router-link", { attrs: { to: "/index-2" } }, [
+                  _vm._v("Weinstein pushs for dismissal.")
+                ])
+              ],
+              1
+            ),
+            _vm._v(" "),
+            _vm._m(8)
+          ])
+        ])
       ])
+    ]),
+    _vm._v(" "),
+    _vm._m(9)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "col-xl-3 col-lg-2 d-none d-lg-block" }, [
+      _c("div", { staticClass: "header-date text-center" }, [
+        _c("span", [_vm._v("Friday, 29 July 2018")])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "top-form f-right ml-20 " }, [
+      _c("form", { attrs: { action: "index-2.html#" } }, [
+        _c("input", { attrs: { type: "email", placeholder: "Search" } }),
+        _vm._v(" "),
+        _c("button", { attrs: { type: "submit" } }, [
+          _c("i", { staticClass: "fas fa-search" })
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      { staticClass: "header__right-icon header__icon-black f-right mt-17" },
+      [
+        _c(
+          "a",
+          {
+            attrs: {
+              href: "#",
+              "data-toggle": "modal",
+              "data-target": "#search-modal"
+            }
+          },
+          [_c("i", { staticClass: "fas fa-search" })]
+        ),
+        _vm._v(" "),
+        _c(
+          "a",
+          { staticClass: "info-bar", attrs: { href: "javascript:void(0)" } },
+          [_c("i", { staticClass: "fas fa-bars" })]
+        )
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "close-icon" }, [
+      _c("button", [_c("i", { staticClass: "far fa-window-close" })])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("span", { staticClass: "sm-cat" }, [
+      _c("a", { attrs: { href: "index-2.html#" } }, [_vm._v("Fashion")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "post__small-text-meta" }, [
+      _c("ul", [
+        _c("li", [
+          _c("i", { staticClass: "fas fa-calendar-alt" }),
+          _vm._v(" "),
+          _c("span", [_vm._v("01 Sep 2018")])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "post__small-text-meta" }, [
+      _c("ul", [
+        _c("li", [
+          _c("i", { staticClass: "fas fa-calendar-alt" }),
+          _vm._v(" "),
+          _c("span", [_vm._v("01 Sep 2018")])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "post__small-text-meta" }, [
+      _c("ul", [
+        _c("li", [
+          _c("i", { staticClass: "fas fa-calendar-alt" }),
+          _vm._v(" "),
+          _c("span", [_vm._v("01 Sep 2018")])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "post__small-text-meta" }, [
+      _c("ul", [
+        _c("li", [
+          _c("i", { staticClass: "fas fa-calendar-alt" }),
+          _vm._v(" "),
+          _c("span", [_vm._v("01 Sep 2018")])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      {
+        staticClass: "modal fade",
+        attrs: {
+          id: "search-modal",
+          tabindex: "-1",
+          role: "dialog",
+          "aria-hidden": "true"
+        }
+      },
+      [
+        _c(
+          "div",
+          { staticClass: "modal-dialog", attrs: { role: "document" } },
+          [
+            _c("div", { staticClass: "modal-content" }, [
+              _c("form", [
+                _c("input", {
+                  attrs: { type: "text", placeholder: "Search here..." }
+                }),
+                _vm._v(" "),
+                _c("button", [_c("i", { staticClass: "fa fa-search" })])
+              ])
+            ])
+          ]
+        )
+      ]
+    )
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/fragments/Slider.vue?vue&type=template&id=282c6038&scoped=true&":
+/*!*******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/fragments/Slider.vue?vue&type=template&id=282c6038&scoped=true& ***!
+  \*******************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("section", { staticClass: "hero-area" }, [
+    _c("div", { staticClass: "slider-active-stage slider-arrow" }, [
+      _c(
+        "div",
+        {
+          staticClass: "single-slider slide-height d-flex align-items-end",
+          staticStyle: { "background-image": "url(img/hero/part3/hero1.jpg)" },
+          attrs: { "data-overlay": "dark-gradient" }
+        },
+        [
+          _c("div", { staticClass: "container" }, [
+            _c("div", { staticClass: "row" }, [
+              _c("div", { staticClass: "col-lg-8" }, [
+                _c("div", { staticClass: "slider pb-60 pl-20" }, [
+                  _c("div", { staticClass: "slider__text" }, [
+                    _vm._m(0),
+                    _vm._v(" "),
+                    _c(
+                      "h3",
+                      { staticClass: "mb-15" },
+                      [
+                        _c("router-link", { attrs: { to: "/post/1" } }, [
+                          _vm._v(
+                            "Presidential Hopefuls Are Using Hamptons Raise Big\n                                        Bucks"
+                          )
+                        ])
+                      ],
+                      1
+                    ),
+                    _vm._v(" "),
+                    _vm._m(1)
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "single-slider slide-height d-flex align-items-end",
+          staticStyle: { "background-image": "url(img/hero/part3/hero2.jpg)" },
+          attrs: { "data-overlay": "dark-gradient" }
+        },
+        [
+          _c("div", { staticClass: "container" }, [
+            _c("div", { staticClass: "row" }, [
+              _c("div", { staticClass: "col-lg-8" }, [
+                _c("div", { staticClass: "slider pb-60 pl-20" }, [
+                  _c("div", { staticClass: "slider__text" }, [
+                    _vm._m(2),
+                    _vm._v(" "),
+                    _c(
+                      "h3",
+                      { staticClass: "mb-15" },
+                      [
+                        _c("router-link", { attrs: { to: "/post/2" } }, [
+                          _vm._v(
+                            "Presidential Hopefuls Are Using Hamptons Raise Big\n                                        Bucks"
+                          )
+                        ])
+                      ],
+                      1
+                    ),
+                    _vm._v(" "),
+                    _vm._m(3)
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "single-slider slide-height d-flex align-items-end",
+          staticStyle: { "background-image": "url(img/hero/part3/hero3.jpg)" },
+          attrs: { "data-overlay": "dark-gradient" }
+        },
+        [
+          _c("div", { staticClass: "container" }, [
+            _c("div", { staticClass: "row" }, [
+              _c("div", { staticClass: "col-lg-8" }, [
+                _c("div", { staticClass: "slider pb-60 pl-20" }, [
+                  _c("div", { staticClass: "slider__text" }, [
+                    _vm._m(4),
+                    _vm._v(" "),
+                    _c(
+                      "h3",
+                      { staticClass: "mb-15" },
+                      [
+                        _c("router-link", { attrs: { to: "/post/3" } }, [
+                          _vm._v(
+                            "Presidential Hopefuls Are Using Hamptons Raise Big\n                                        Bucks"
+                          )
+                        ])
+                      ],
+                      1
+                    ),
+                    _vm._v(" "),
+                    _vm._m(5)
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "single-slider slide-height d-flex align-items-end",
+          staticStyle: { "background-image": "url(img/hero/part3/hero2.jpg)" },
+          attrs: { "data-overlay": "dark-gradient" }
+        },
+        [
+          _c("div", { staticClass: "container" }, [
+            _c("div", { staticClass: "row" }, [
+              _c("div", { staticClass: "col-lg-8" }, [
+                _c("div", { staticClass: "slider pb-60 pl-20" }, [
+                  _c("div", { staticClass: "slider__text" }, [
+                    _vm._m(6),
+                    _vm._v(" "),
+                    _c(
+                      "h3",
+                      { staticClass: "mb-15" },
+                      [
+                        _c("router-link", { attrs: { to: "/post/4" } }, [
+                          _vm._v(
+                            "Presidential Hopefuls Are Using Hamptons Raise Big\n                                        Bucks"
+                          )
+                        ])
+                      ],
+                      1
+                    ),
+                    _vm._v(" "),
+                    _vm._m(7)
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ]
+      )
     ])
   ])
 }
@@ -38737,29 +42078,32 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "nav-btns" }, [
-      _c("button", { staticClass: "aside-btn" }, [
-        _c("i", { staticClass: "fa fa-bars" })
-      ]),
-      _vm._v(" "),
-      _c("button", { staticClass: "search-btn" }, [
-        _c("i", { staticClass: "fa fa-search" })
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "search-form" }, [
-        _c("label", [
-          _c("input", {
-            staticClass: "search-input",
-            attrs: {
-              type: "text",
-              name: "search",
-              placeholder: "Enter Your Search ..."
-            }
-          })
+    return _c("span", { staticClass: "post-cat mb-10" }, [
+      _c("a", { attrs: { href: "index-2.html#" } }, [_vm._v("politics")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "postbox__text-meta slider-meta pb-10" }, [
+      _c("ul", [
+        _c("li", [
+          _c("i", { staticClass: "far fa-user-circle" }),
+          _vm._v(" "),
+          _c("span", [_vm._v("Jonathon Doe")])
         ]),
         _vm._v(" "),
-        _c("button", { staticClass: "search-close" }, [
-          _c("i", { staticClass: "fa fa-times" })
+        _c("li", [
+          _c("i", { staticClass: "fas fa-calendar-alt" }),
+          _vm._v(" "),
+          _c("span", [_vm._v("01 Sep 2018")])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _c("i", { staticClass: "far fa-comment" }),
+          _vm._v(" "),
+          _c("span", [_vm._v("(03)")])
         ])
       ])
     ])
@@ -38768,60 +42112,32 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "section-row" }, [
-      _c("h3", [_vm._v("Recent Posts")]),
-      _vm._v(" "),
-      _c("div", { staticClass: "post post-widget" }, [
-        _c(
-          "a",
-          { staticClass: "post-img", attrs: { href: "blog-post.html" } },
-          [_c("img", { attrs: { src: "img/widget-2.jpg", alt: "" } })]
-        ),
+    return _c("span", { staticClass: "post-cat mb-10" }, [
+      _c("a", { attrs: { href: "index-2.html#" } }, [_vm._v("politics")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "postbox__text-meta slider-meta pb-10" }, [
+      _c("ul", [
+        _c("li", [
+          _c("i", { staticClass: "far fa-user-circle" }),
+          _vm._v(" "),
+          _c("span", [_vm._v("Jonathon Doe")])
+        ]),
         _vm._v(" "),
-        _c("div", { staticClass: "post-body" }, [
-          _c("h3", { staticClass: "post-title" }, [
-            _c("a", { attrs: { href: "blog-post.html" } }, [
-              _vm._v(
-                "Pagedraw UI Builder Turns Your Website\n                            Design Mockup Into Code Automatically"
-              )
-            ])
-          ])
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "post post-widget" }, [
-        _c(
-          "a",
-          { staticClass: "post-img", attrs: { href: "blog-post.html" } },
-          [_c("img", { attrs: { src: "img/widget-3.jpg", alt: "" } })]
-        ),
+        _c("li", [
+          _c("i", { staticClass: "fas fa-calendar-alt" }),
+          _vm._v(" "),
+          _c("span", [_vm._v("01 Sep 2018")])
+        ]),
         _vm._v(" "),
-        _c("div", { staticClass: "post-body" }, [
-          _c("h3", { staticClass: "post-title" }, [
-            _c("a", { attrs: { href: "blog-post.html" } }, [
-              _vm._v(
-                "Why Node.js Is The Coolest Kid On The\n                            Backend Development Block!"
-              )
-            ])
-          ])
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "post post-widget" }, [
-        _c(
-          "a",
-          { staticClass: "post-img", attrs: { href: "blog-post.html" } },
-          [_c("img", { attrs: { src: "img/widget-4.jpg", alt: "" } })]
-        ),
-        _vm._v(" "),
-        _c("div", { staticClass: "post-body" }, [
-          _c("h3", { staticClass: "post-title" }, [
-            _c("a", { attrs: { href: "blog-post.html" } }, [
-              _vm._v(
-                "Tell-A-Tool: Guide To Web Design And\n                            Development Tools"
-              )
-            ])
-          ])
+        _c("li", [
+          _c("i", { staticClass: "far fa-comment" }),
+          _vm._v(" "),
+          _c("span", [_vm._v("(03)")])
         ])
       ])
     ])
@@ -38830,32 +42146,32 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "section-row" }, [
-      _c("h3", [_vm._v("Follow us")]),
-      _vm._v(" "),
-      _c("ul", { staticClass: "nav-aside-social" }, [
+    return _c("span", { staticClass: "post-cat mb-10" }, [
+      _c("a", { attrs: { href: "index-2.html#" } }, [_vm._v("politics")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "postbox__text-meta slider-meta pb-10" }, [
+      _c("ul", [
         _c("li", [
-          _c("a", { attrs: { href: "index.html#" } }, [
-            _c("i", { staticClass: "fa fa-facebook" })
-          ])
+          _c("i", { staticClass: "far fa-user-circle" }),
+          _vm._v(" "),
+          _c("span", [_vm._v("Jonathon Doe")])
         ]),
         _vm._v(" "),
         _c("li", [
-          _c("a", { attrs: { href: "index.html#" } }, [
-            _c("i", { staticClass: "fa fa-twitter" })
-          ])
+          _c("i", { staticClass: "fas fa-calendar-alt" }),
+          _vm._v(" "),
+          _c("span", [_vm._v("01 Sep 2018")])
         ]),
         _vm._v(" "),
         _c("li", [
-          _c("a", { attrs: { href: "index.html#" } }, [
-            _c("i", { staticClass: "fa fa-google-plus" })
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _c("a", { attrs: { href: "index.html#" } }, [
-            _c("i", { staticClass: "fa fa-pinterest" })
-          ])
+          _c("i", { staticClass: "far fa-comment" }),
+          _vm._v(" "),
+          _c("span", [_vm._v("(03)")])
         ])
       ])
     ])
@@ -38864,8 +42180,34 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("button", { staticClass: "nav-aside-close" }, [
-      _c("i", { staticClass: "fa fa-times" })
+    return _c("span", { staticClass: "post-cat mb-10" }, [
+      _c("a", { attrs: { href: "index-2.html#" } }, [_vm._v("politics")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "postbox__text-meta slider-meta pb-10" }, [
+      _c("ul", [
+        _c("li", [
+          _c("i", { staticClass: "far fa-user-circle" }),
+          _vm._v(" "),
+          _c("span", [_vm._v("Jonathon Doe")])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _c("i", { staticClass: "fas fa-calendar-alt" }),
+          _vm._v(" "),
+          _c("span", [_vm._v("01 Sep 2018")])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _c("i", { staticClass: "far fa-comment" }),
+          _vm._v(" "),
+          _c("span", [_vm._v("(03)")])
+        ])
+      ])
     ])
   }
 ]
@@ -38914,1241 +42256,2765 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c(
+    "main",
+    [
+      _c("slider"),
+      _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _vm._m(1),
+      _vm._v(" "),
+      _vm._m(2),
+      _vm._v(" "),
+      _vm._m(3)
+    ],
+    1
+  )
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", [
-      _c("h1", [_vm._v("/")]),
-      _vm._v(" "),
-      _c("div", { staticClass: "section" }, [
-        _c("div", { staticClass: "container" }, [
-          _c("div", { staticClass: "row" }, [
-            _c("div", { staticClass: "col-md-6" }, [
-              _c("div", { staticClass: "post post-thumb" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "post-img",
-                    attrs: { href: "blog-post.html" }
-                  },
-                  [_c("img", { attrs: { src: "img/post-1.jpg", alt: "" } })]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "post-body" }, [
-                  _c("div", { staticClass: "post-meta" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-category cat-2",
-                        attrs: { href: "category.html" }
-                      },
-                      [_vm._v("JavaScript")]
-                    ),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "post-date" }, [
-                      _vm._v("March 27, 2018")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("h3", { staticClass: "post-title" }, [
-                    _c("a", { attrs: { href: "blog-post.html" } }, [
-                      _vm._v(
-                        "Chrome Extension Protects Against\n                                JavaScript-Based CPU Side-Channel Attacks"
-                      )
-                    ])
+    return _c("section", { staticClass: "features-area pt-60 pb-30" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-xl-3 col-lg-4 col-md-6" }, [
+            _c("div", { staticClass: "post__features mb-30" }, [
+              _c(
+                "div",
+                {
+                  staticClass: "post__features-thumb",
+                  attrs: { "data-opacity": "4", "data-overlay": "dark" }
+                },
+                [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _c("img", {
+                      staticClass: "img-100",
+                      attrs: { src: "img/features/fea1.jpg", alt: "" }
+                    })
                   ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-6" }, [
-              _c("div", { staticClass: "post post-thumb" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "post-img",
-                    attrs: { href: "blog-post.html" }
-                  },
-                  [_c("img", { attrs: { src: "img/post-2.jpg", alt: "" } })]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "post-body" }, [
-                  _c("div", { staticClass: "post-meta" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-category cat-3",
-                        attrs: { href: "category.html" }
-                      },
-                      [_vm._v("Jquery")]
-                    ),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "post-date" }, [
-                      _vm._v("March 27, 2018")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("h3", { staticClass: "post-title" }, [
-                    _c("a", { attrs: { href: "blog-post.html" } }, [
-                      _vm._v("Ask HN: Does Anybody Still Use JQuery?")
-                    ])
+                ]
+              ),
+              _vm._v(" "),
+              _c("div", { staticClass: "post__features-content" }, [
+                _c("h4", [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _vm._v("8 Month old rocks out as one man band in music")
                   ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post__features-author" }, [
+                  _c("span", [_vm._v("Michel Delax")])
                 ])
               ])
             ])
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "row" }, [
-            _c("div", { staticClass: "col-md-12" }, [
-              _c("div", { staticClass: "section-title" }, [
-                _c("h2", [_vm._v("Recent Posts")])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-4" }, [
-              _c("div", { staticClass: "post" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "post-img",
-                    attrs: { href: "blog-post.html" }
-                  },
-                  [_c("img", { attrs: { src: "img/post-3.jpg", alt: "" } })]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "post-body" }, [
-                  _c("div", { staticClass: "post-meta" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-category cat-1",
-                        attrs: { href: "category.html" }
-                      },
-                      [_vm._v("Web Design")]
-                    ),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "post-date" }, [
-                      _vm._v("March 27, 2018")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("h3", { staticClass: "post-title" }, [
-                    _c("a", { attrs: { href: "blog-post.html" } }, [
-                      _vm._v(
-                        "Pagedraw UI Builder Turns Your Website\n                                Design Mockup Into Code Automatically"
-                      )
-                    ])
+          _c("div", { staticClass: "col-xl-3 col-lg-4 col-md-6" }, [
+            _c("div", { staticClass: "post__features mb-30" }, [
+              _c(
+                "div",
+                {
+                  staticClass: "post__features-thumb",
+                  attrs: { "data-opacity": "4", "data-overlay": "dark" }
+                },
+                [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _c("img", {
+                      staticClass: "img-100",
+                      attrs: { src: "img/features/fea2.jpg", alt: "" }
+                    })
                   ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-4" }, [
-              _c("div", { staticClass: "post" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "post-img",
-                    attrs: { href: "blog-post.html" }
-                  },
-                  [_c("img", { attrs: { src: "img/post-4.jpg", alt: "" } })]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "post-body" }, [
-                  _c("div", { staticClass: "post-meta" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-category cat-2",
-                        attrs: { href: "category.html" }
-                      },
-                      [_vm._v("JavaScript")]
-                    ),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "post-date" }, [
-                      _vm._v("March 27, 2018")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("h3", { staticClass: "post-title" }, [
-                    _c("a", { attrs: { href: "blog-post.html" } }, [
-                      _vm._v(
-                        "Chrome Extension Protects Against\n                                JavaScript-Based CPU Side-Channel Attacks"
-                      )
-                    ])
+                ]
+              ),
+              _vm._v(" "),
+              _c("div", { staticClass: "post__features-content" }, [
+                _c("h4", [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _vm._v("Discover the world look and the world fresh nature")
                   ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-4" }, [
-              _c("div", { staticClass: "post" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "post-img",
-                    attrs: { href: "blog-post.html" }
-                  },
-                  [_c("img", { attrs: { src: "img/post-5.jpg", alt: "" } })]
-                ),
+                ]),
                 _vm._v(" "),
-                _c("div", { staticClass: "post-body" }, [
-                  _c("div", { staticClass: "post-meta" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-category cat-3",
-                        attrs: { href: "category.html" }
-                      },
-                      [_vm._v("Jquery")]
-                    ),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "post-date" }, [
-                      _vm._v("March 27, 2018")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("h3", { staticClass: "post-title" }, [
-                    _c("a", { attrs: { href: "blog-post.html" } }, [
-                      _vm._v("Ask HN: Does Anybody Still Use JQuery?")
-                    ])
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "clearfix visible-md visible-lg" }),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-4" }, [
-              _c("div", { staticClass: "post" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "post-img",
-                    attrs: { href: "blog-post.html" }
-                  },
-                  [_c("img", { attrs: { src: "img/post-6.jpg", alt: "" } })]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "post-body" }, [
-                  _c("div", { staticClass: "post-meta" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-category cat-2",
-                        attrs: { href: "category.html" }
-                      },
-                      [_vm._v("JavaScript")]
-                    ),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "post-date" }, [
-                      _vm._v("March 27, 2018")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("h3", { staticClass: "post-title" }, [
-                    _c("a", { attrs: { href: "blog-post.html" } }, [
-                      _vm._v(
-                        "Why Node.js Is The Coolest Kid On The\n                                Backend Development Block!"
-                      )
-                    ])
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-4" }, [
-              _c("div", { staticClass: "post" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "post-img",
-                    attrs: { href: "blog-post.html" }
-                  },
-                  [_c("img", { attrs: { src: "img/post-1.jpg", alt: "" } })]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "post-body" }, [
-                  _c("div", { staticClass: "post-meta" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-category cat-4",
-                        attrs: { href: "category.html" }
-                      },
-                      [_vm._v("Css")]
-                    ),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "post-date" }, [
-                      _vm._v("March 27, 2018")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("h3", { staticClass: "post-title" }, [
-                    _c("a", { attrs: { href: "blog-post.html" } }, [
-                      _vm._v("CSS Float: A Tutorial")
-                    ])
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-4" }, [
-              _c("div", { staticClass: "post" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "post-img",
-                    attrs: { href: "blog-post.html" }
-                  },
-                  [_c("img", { attrs: { src: "img/post-2.jpg", alt: "" } })]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "post-body" }, [
-                  _c("div", { staticClass: "post-meta" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-category cat-1",
-                        attrs: { href: "category.html" }
-                      },
-                      [_vm._v("Web Design")]
-                    ),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "post-date" }, [
-                      _vm._v("March 27, 2018")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("h3", { staticClass: "post-title" }, [
-                    _c("a", { attrs: { href: "blog-post.html" } }, [
-                      _vm._v(
-                        "Tell-A-Tool: Guide To Web Design And\n                                Development Tools"
-                      )
-                    ])
-                  ])
+                _c("div", { staticClass: "post__features-author" }, [
+                  _c("span", [_vm._v("Michel Delax")])
                 ])
               ])
             ])
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "row" }, [
-            _c("div", { staticClass: "col-md-8" }, [
-              _c("div", { staticClass: "row" }, [
-                _c("div", { staticClass: "col-md-12" }, [
-                  _c("div", { staticClass: "post post-thumb" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-img",
-                        attrs: { href: "blog-post.html" }
-                      },
-                      [_c("img", { attrs: { src: "img/post-2.jpg", alt: "" } })]
-                    ),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "post-body" }, [
-                      _c("div", { staticClass: "post-meta" }, [
-                        _c(
-                          "a",
-                          {
-                            staticClass: "post-category cat-3",
-                            attrs: { href: "category.html" }
-                          },
-                          [_vm._v("Jquery")]
-                        ),
-                        _vm._v(" "),
-                        _c("span", { staticClass: "post-date" }, [
-                          _vm._v("March 27, 2018")
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("h3", { staticClass: "post-title" }, [
-                        _c("a", { attrs: { href: "blog-post.html" } }, [
-                          _vm._v(
-                            "Ask HN: Does Anybody Still Use\n                                        JQuery?"
-                          )
-                        ])
-                      ])
-                    ])
+          _c("div", { staticClass: "col-xl-3 col-lg-4 col-md-6" }, [
+            _c("div", { staticClass: "post__features mb-30" }, [
+              _c(
+                "div",
+                {
+                  staticClass: "post__features-thumb",
+                  attrs: { "data-opacity": "4", "data-overlay": "dark" }
+                },
+                [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _c("img", {
+                      staticClass: "img-100",
+                      attrs: { src: "img/features/fea3.jpg", alt: "" }
+                    })
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c("div", { staticClass: "post__features-content" }, [
+                _c("h4", [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _vm._v("The wave that’s building for not be blue so much")
                   ])
                 ]),
                 _vm._v(" "),
-                _c("div", { staticClass: "col-md-6" }, [
-                  _c("div", { staticClass: "post" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-img",
-                        attrs: { href: "blog-post.html" }
-                      },
-                      [_c("img", { attrs: { src: "img/post-1.jpg", alt: "" } })]
-                    ),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "post-body" }, [
-                      _c("div", { staticClass: "post-meta" }, [
-                        _c(
-                          "a",
-                          {
-                            staticClass: "post-category cat-4",
-                            attrs: { href: "category.html" }
-                          },
-                          [_vm._v("Css")]
-                        ),
-                        _vm._v(" "),
-                        _c("span", { staticClass: "post-date" }, [
-                          _vm._v("March 27, 2018")
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("h3", { staticClass: "post-title" }, [
-                        _c("a", { attrs: { href: "blog-post.html" } }, [
-                          _vm._v("CSS Float: A Tutorial")
-                        ])
-                      ])
-                    ])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "col-md-6" }, [
-                  _c("div", { staticClass: "post" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-img",
-                        attrs: { href: "blog-post.html" }
-                      },
-                      [_c("img", { attrs: { src: "img/post-2.jpg", alt: "" } })]
-                    ),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "post-body" }, [
-                      _c("div", { staticClass: "post-meta" }, [
-                        _c(
-                          "a",
-                          {
-                            staticClass: "post-category cat-1",
-                            attrs: { href: "category.html" }
-                          },
-                          [_vm._v("Web Design")]
-                        ),
-                        _vm._v(" "),
-                        _c("span", { staticClass: "post-date" }, [
-                          _vm._v("March 27, 2018")
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("h3", { staticClass: "post-title" }, [
-                        _c("a", { attrs: { href: "blog-post.html" } }, [
-                          _vm._v(
-                            "Tell-A-Tool: Guide To Web Design And\n                                        Development Tools"
-                          )
-                        ])
-                      ])
-                    ])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "clearfix visible-md visible-lg" }),
-                _vm._v(" "),
-                _c("div", { staticClass: "col-md-6" }, [
-                  _c("div", { staticClass: "post" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-img",
-                        attrs: { href: "blog-post.html" }
-                      },
-                      [_c("img", { attrs: { src: "img/post-4.jpg", alt: "" } })]
-                    ),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "post-body" }, [
-                      _c("div", { staticClass: "post-meta" }, [
-                        _c(
-                          "a",
-                          {
-                            staticClass: "post-category cat-2",
-                            attrs: { href: "category.html" }
-                          },
-                          [_vm._v("JavaScript")]
-                        ),
-                        _vm._v(" "),
-                        _c("span", { staticClass: "post-date" }, [
-                          _vm._v("March 27, 2018")
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("h3", { staticClass: "post-title" }, [
-                        _c("a", { attrs: { href: "blog-post.html" } }, [
-                          _vm._v(
-                            "Chrome Extension Protects Against\n                                        JavaScript-Based CPU Side-Channel Attacks"
-                          )
-                        ])
-                      ])
-                    ])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "col-md-6" }, [
-                  _c("div", { staticClass: "post" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-img",
-                        attrs: { href: "blog-post.html" }
-                      },
-                      [_c("img", { attrs: { src: "img/post-5.jpg", alt: "" } })]
-                    ),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "post-body" }, [
-                      _c("div", { staticClass: "post-meta" }, [
-                        _c(
-                          "a",
-                          {
-                            staticClass: "post-category cat-3",
-                            attrs: { href: "category.html" }
-                          },
-                          [_vm._v("Jquery")]
-                        ),
-                        _vm._v(" "),
-                        _c("span", { staticClass: "post-date" }, [
-                          _vm._v("March 27, 2018")
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("h3", { staticClass: "post-title" }, [
-                        _c("a", { attrs: { href: "blog-post.html" } }, [
-                          _vm._v(
-                            "Ask HN: Does Anybody Still Use\n                                        JQuery?"
-                          )
-                        ])
-                      ])
-                    ])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "clearfix visible-md visible-lg" }),
-                _vm._v(" "),
-                _c("div", { staticClass: "col-md-6" }, [
-                  _c("div", { staticClass: "post" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-img",
-                        attrs: { href: "blog-post.html" }
-                      },
-                      [_c("img", { attrs: { src: "img/post-3.jpg", alt: "" } })]
-                    ),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "post-body" }, [
-                      _c("div", { staticClass: "post-meta" }, [
-                        _c(
-                          "a",
-                          {
-                            staticClass: "post-category cat-1",
-                            attrs: { href: "category.html" }
-                          },
-                          [_vm._v("Web Design")]
-                        ),
-                        _vm._v(" "),
-                        _c("span", { staticClass: "post-date" }, [
-                          _vm._v("March 27, 2018")
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("h3", { staticClass: "post-title" }, [
-                        _c("a", { attrs: { href: "blog-post.html" } }, [
-                          _vm._v(
-                            "Pagedraw UI Builder Turns Your\n                                        Website Design Mockup Into Code Automatically"
-                          )
-                        ])
-                      ])
-                    ])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "col-md-6" }, [
-                  _c("div", { staticClass: "post" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-img",
-                        attrs: { href: "blog-post.html" }
-                      },
-                      [_c("img", { attrs: { src: "img/post-4.jpg", alt: "" } })]
-                    ),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "post-body" }, [
-                      _c("div", { staticClass: "post-meta" }, [
-                        _c(
-                          "a",
-                          {
-                            staticClass: "post-category cat-2",
-                            attrs: { href: "category.html" }
-                          },
-                          [_vm._v("JavaScript")]
-                        ),
-                        _vm._v(" "),
-                        _c("span", { staticClass: "post-date" }, [
-                          _vm._v("March 27, 2018")
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("h3", { staticClass: "post-title" }, [
-                        _c("a", { attrs: { href: "blog-post.html" } }, [
-                          _vm._v(
-                            "Chrome Extension Protects Against\n                                        JavaScript-Based CPU Side-Channel Attacks"
-                          )
-                        ])
-                      ])
-                    ])
-                  ])
+                _c("div", { staticClass: "post__features-author" }, [
+                  _c("span", [_vm._v("Michel Delax")])
                 ])
               ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-4" }, [
-              _c("div", { staticClass: "aside-widget" }, [
-                _c("div", { staticClass: "section-title" }, [
-                  _c("h2", [_vm._v("Most Read")])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "post post-widget" }, [
-                  _c(
-                    "a",
-                    {
-                      staticClass: "post-img",
-                      attrs: { href: "blog-post.html" }
-                    },
-                    [_c("img", { attrs: { src: "img/widget-1.jpg", alt: "" } })]
-                  ),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "post-body" }, [
-                    _c("h3", { staticClass: "post-title" }, [
-                      _c("a", { attrs: { href: "blog-post.html" } }, [
-                        _vm._v(
-                          "Tell-A-Tool: Guide To Web Design And\n                                    Development Tools"
-                        )
-                      ])
-                    ])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "post post-widget" }, [
-                  _c(
-                    "a",
-                    {
-                      staticClass: "post-img",
-                      attrs: { href: "blog-post.html" }
-                    },
-                    [_c("img", { attrs: { src: "img/widget-2.jpg", alt: "" } })]
-                  ),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "post-body" }, [
-                    _c("h3", { staticClass: "post-title" }, [
-                      _c("a", { attrs: { href: "blog-post.html" } }, [
-                        _vm._v(
-                          "Pagedraw UI Builder Turns Your Website\n                                    Design Mockup Into Code Automatically"
-                        )
-                      ])
-                    ])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "post post-widget" }, [
-                  _c(
-                    "a",
-                    {
-                      staticClass: "post-img",
-                      attrs: { href: "blog-post.html" }
-                    },
-                    [_c("img", { attrs: { src: "img/widget-3.jpg", alt: "" } })]
-                  ),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "post-body" }, [
-                    _c("h3", { staticClass: "post-title" }, [
-                      _c("a", { attrs: { href: "blog-post.html" } }, [
-                        _vm._v(
-                          "Why Node.js Is The Coolest Kid On The\n                                    Backend Development Block!"
-                        )
-                      ])
-                    ])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "post post-widget" }, [
-                  _c(
-                    "a",
-                    {
-                      staticClass: "post-img",
-                      attrs: { href: "blog-post.html" }
-                    },
-                    [_c("img", { attrs: { src: "img/widget-4.jpg", alt: "" } })]
-                  ),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "post-body" }, [
-                    _c("h3", { staticClass: "post-title" }, [
-                      _c("a", { attrs: { href: "blog-post.html" } }, [
-                        _vm._v(
-                          "Tell-A-Tool: Guide To Web Design And\n                                    Development Tools"
-                        )
-                      ])
-                    ])
-                  ])
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "aside-widget" }, [
-                _c("div", { staticClass: "section-title" }, [
-                  _c("h2", [_vm._v("Featured Posts")])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "post post-thumb" }, [
-                  _c(
-                    "a",
-                    {
-                      staticClass: "post-img",
-                      attrs: { href: "blog-post.html" }
-                    },
-                    [_c("img", { attrs: { src: "img/post-2.jpg", alt: "" } })]
-                  ),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "post-body" }, [
-                    _c("div", { staticClass: "post-meta" }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "post-category cat-3",
-                          attrs: { href: "category.html" }
-                        },
-                        [_vm._v("Jquery")]
-                      ),
-                      _vm._v(" "),
-                      _c("span", { staticClass: "post-date" }, [
-                        _vm._v("March 27, 2018")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("h3", { staticClass: "post-title" }, [
-                      _c("a", { attrs: { href: "blog-post.html" } }, [
-                        _vm._v(
-                          "Ask HN: Does Anybody Still Use\n                                    JQuery?"
-                        )
-                      ])
-                    ])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "post post-thumb" }, [
-                  _c(
-                    "a",
-                    {
-                      staticClass: "post-img",
-                      attrs: { href: "blog-post.html" }
-                    },
-                    [_c("img", { attrs: { src: "img/post-1.jpg", alt: "" } })]
-                  ),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "post-body" }, [
-                    _c("div", { staticClass: "post-meta" }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "post-category cat-2",
-                          attrs: { href: "category.html" }
-                        },
-                        [_vm._v("JavaScript")]
-                      ),
-                      _vm._v(" "),
-                      _c("span", { staticClass: "post-date" }, [
-                        _vm._v("March 27, 2018")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("h3", { staticClass: "post-title" }, [
-                      _c("a", { attrs: { href: "blog-post.html" } }, [
-                        _vm._v(
-                          "Chrome Extension Protects Against\n                                    JavaScript-Based CPU Side-Channel Attacks"
-                        )
-                      ])
-                    ])
-                  ])
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "aside-widget text-center" }, [
+            ])
+          ]),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticClass: "col-xl-3 col-lg-3 col-md-6 d-lg-none d-xl-block" },
+            [
+              _c("div", { staticClass: "post__features mb-30" }, [
                 _c(
-                  "a",
+                  "div",
                   {
-                    staticStyle: { display: "inline-block", margin: "auto" },
-                    attrs: { href: "index.html#" }
+                    staticClass: "post__features-thumb",
+                    attrs: { "data-opacity": "4", "data-overlay": "dark" }
                   },
                   [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "img/ad-1.jpg", alt: "" }
-                    })
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
+                      _c("img", {
+                        staticClass: "img-100",
+                        attrs: { src: "img/features/fea4.jpg", alt: "" }
+                      })
+                    ])
                   ]
-                )
-              ])
-            ])
-          ])
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "section section-grey" }, [
-        _c("div", { staticClass: "container" }, [
-          _c("div", { staticClass: "row" }, [
-            _c("div", { staticClass: "col-md-12" }, [
-              _c("div", { staticClass: "section-title text-center" }, [
-                _c("h2", [_vm._v("Featured Posts")])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-4" }, [
-              _c("div", { staticClass: "post" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "post-img",
-                    attrs: { href: "blog-post.html" }
-                  },
-                  [_c("img", { attrs: { src: "img/post-4.jpg", alt: "" } })]
                 ),
                 _vm._v(" "),
-                _c("div", { staticClass: "post-body" }, [
-                  _c("div", { staticClass: "post-meta" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-category cat-2",
-                        attrs: { href: "category.html" }
-                      },
-                      [_vm._v("JavaScript")]
-                    ),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "post-date" }, [
-                      _vm._v("March 27, 2018")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("h3", { staticClass: "post-title" }, [
-                    _c("a", { attrs: { href: "blog-post.html" } }, [
+                _c("div", { staticClass: "post__features-content" }, [
+                  _c("h4", [
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
                       _vm._v(
-                        "Chrome Extension Protects Against\n                                JavaScript-Based CPU Side-Channel Attacks"
+                        "AgoHorse-riding could impro your child’s intelligence"
                       )
                     ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "post__features-author" }, [
+                    _c("span", [_vm._v("Michel Delax")])
                   ])
                 ])
               ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-4" }, [
-              _c("div", { staticClass: "post" }, [
+            ]
+          )
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "features-area pb-30" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "content-pad border pb-0" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-xl-3 col-lg-4 col-md-6" }, [
+              _c("div", { staticClass: "postbox mb-25" }, [
                 _c(
-                  "a",
+                  "div",
                   {
-                    staticClass: "post-img",
-                    attrs: { href: "blog-post.html" }
+                    staticClass: "postbox__thumb",
+                    attrs: { "data-overlay": "dark", "data-opacity": "2" }
                   },
-                  [_c("img", { attrs: { src: "img/post-5.jpg", alt: "" } })]
+                  [
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
+                      _c("img", {
+                        attrs: {
+                          src: "img/features/fea2/img1.jpg",
+                          alt: "hero image"
+                        }
+                      })
+                    ])
+                  ]
                 ),
                 _vm._v(" "),
-                _c("div", { staticClass: "post-body" }, [
-                  _c("div", { staticClass: "post-meta" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-category cat-3",
-                        attrs: { href: "category.html" }
-                      },
-                      [_vm._v("Jquery")]
-                    ),
+                _c("div", { staticClass: "postbox__text pt-20" }, [
+                  _c("div", { staticClass: "meta-top" }, [
+                    _c("span", { staticClass: "post-cat mb-10 mr-10" }, [
+                      _c(
+                        "a",
+                        { attrs: { href: "index-2.html#", tabindex: "0" } },
+                        [_vm._v("politics")]
+                      )
+                    ]),
                     _vm._v(" "),
-                    _c("span", { staticClass: "post-date" }, [
-                      _vm._v("March 27, 2018")
+                    _c("span", [
+                      _c("i", { staticClass: "fas fa-calendar-alt" }),
+                      _vm._v(" 01 Sep 2018")
                     ])
                   ]),
                   _vm._v(" "),
-                  _c("h3", { staticClass: "post-title" }, [
-                    _c("a", { attrs: { href: "blog-post.html" } }, [
-                      _vm._v("Ask HN: Does Anybody Still Use JQuery?")
-                    ])
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-4" }, [
-              _c("div", { staticClass: "post" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "post-img",
-                    attrs: { href: "blog-post.html" }
-                  },
-                  [_c("img", { attrs: { src: "img/post-3.jpg", alt: "" } })]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "post-body" }, [
-                  _c("div", { staticClass: "post-meta" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-category cat-1",
-                        attrs: { href: "category.html" }
-                      },
-                      [_vm._v("Web Design")]
-                    ),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "post-date" }, [
-                      _vm._v("March 27, 2018")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("h3", { staticClass: "post-title" }, [
-                    _c("a", { attrs: { href: "blog-post.html" } }, [
+                  _c("h4", { staticClass: "title-16 pr-0" }, [
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
                       _vm._v(
-                        "Pagedraw UI Builder Turns Your Website\n                                Design Mockup Into Code Automatically"
+                        "Hamels solid in debut as Cubs throttle Pirates 9-2"
                       )
                     ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                    _c("ul", [
+                      _c("li", [_c("span", [_vm._v("By Adrian M. Romero")])]),
+                      _vm._v(" "),
+                      _c("li", [_c("span", [_vm._v("Comments (05)")])])
+                    ])
                   ])
                 ])
               ])
-            ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-xl-3 col-lg-4 col-md-6" }, [
+              _c("div", { staticClass: "postbox mb-25" }, [
+                _c(
+                  "div",
+                  {
+                    staticClass: "postbox__thumb",
+                    attrs: { "data-overlay": "dark", "data-opacity": "2" }
+                  },
+                  [
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
+                      _c("img", {
+                        attrs: {
+                          src: "img/features/fea2/img2.jpg",
+                          alt: "hero image"
+                        }
+                      })
+                    ])
+                  ]
+                ),
+                _vm._v(" "),
+                _c("div", { staticClass: "postbox__text pt-20" }, [
+                  _c("div", { staticClass: "meta-top" }, [
+                    _c("span", { staticClass: "post-cat mb-10 mr-10" }, [
+                      _c(
+                        "a",
+                        { attrs: { href: "index-2.html#", tabindex: "0" } },
+                        [_vm._v("sports")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("span", [
+                      _c("i", { staticClass: "fas fa-calendar-alt" }),
+                      _vm._v(" 01 Sep 2018")
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("h4", { staticClass: "title-16 pr-0" }, [
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
+                      _vm._v("Flight attendants Regulate temperatures planes")
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                    _c("ul", [
+                      _c("li", [_c("span", [_vm._v("By Adrian M. Romero")])]),
+                      _vm._v(" "),
+                      _c("li", [_c("span", [_vm._v("Comments (05)")])])
+                    ])
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-xl-3 col-lg-4 col-md-6" }, [
+              _c("div", { staticClass: "postbox mb-25" }, [
+                _c(
+                  "div",
+                  {
+                    staticClass: "postbox__thumb",
+                    attrs: { "data-overlay": "dark", "data-opacity": "2" }
+                  },
+                  [
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
+                      _c("img", {
+                        attrs: {
+                          src: "img/features/fea2/img3.jpg",
+                          alt: "hero image"
+                        }
+                      })
+                    ])
+                  ]
+                ),
+                _vm._v(" "),
+                _c("div", { staticClass: "postbox__text pt-20" }, [
+                  _c("div", { staticClass: "meta-top" }, [
+                    _c("span", { staticClass: "post-cat mb-10 mr-10" }, [
+                      _c(
+                        "a",
+                        { attrs: { href: "index-2.html#", tabindex: "0" } },
+                        [_vm._v("fashion")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("span", [
+                      _c("i", { staticClass: "fas fa-calendar-alt" }),
+                      _vm._v(" 01 Sep 2018")
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("h4", { staticClass: "title-16 pr-0" }, [
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
+                      _vm._v("Aniston dishes sexism Friend reboot ideas")
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                    _c("ul", [
+                      _c("li", [_c("span", [_vm._v("By Adrian M. Romero")])]),
+                      _vm._v(" "),
+                      _c("li", [_c("span", [_vm._v("Comments (05)")])])
+                    ])
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass: "col-xl-3 col-lg-6 col-md-6 d-lg-none d-xl-block"
+              },
+              [
+                _c("div", { staticClass: "postbox mb-25" }, [
+                  _c(
+                    "div",
+                    {
+                      staticClass: "postbox__thumb",
+                      attrs: { "data-overlay": "dark", "data-opacity": "2" }
+                    },
+                    [
+                      _c("a", { attrs: { href: "index-2.html#" } }, [
+                        _c("img", {
+                          attrs: {
+                            src: "img/features/fea2/img4.jpg",
+                            alt: "hero image"
+                          }
+                        })
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "postbox__text pt-20" }, [
+                    _c("div", { staticClass: "meta-top" }, [
+                      _c("span", { staticClass: "post-cat mb-10 mr-10" }, [
+                        _c(
+                          "a",
+                          { attrs: { href: "index-2.html#", tabindex: "0" } },
+                          [_vm._v("travel")]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("span", [
+                        _c("i", { staticClass: "fas fa-calendar-alt" }),
+                        _vm._v(" 01 Sep 2018")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", { staticClass: "title-16 pr-0" }, [
+                      _c("a", { attrs: { href: "index-2.html#" } }, [
+                        _vm._v(
+                          "Killer of president cardiologis was a patient's son,"
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                      _c("ul", [
+                        _c("li", [_c("span", [_vm._v("By Adrian M. Romero")])]),
+                        _vm._v(" "),
+                        _c("li", [_c("span", [_vm._v("Comments (05)")])])
+                      ])
+                    ])
+                  ])
+                ])
+              ]
+            )
           ])
         ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "section" }, [
-        _c("div", { staticClass: "container" }, [
-          _c("div", { staticClass: "row" }, [
-            _c("div", { staticClass: "col-md-8" }, [
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "sidebar-area pt-30 pb-30" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-xl-8 col-lg-8" }, [
+            _c("div", { staticClass: "content-pad border pb-0 mb-50" }, [
               _c("div", { staticClass: "row" }, [
-                _c("div", { staticClass: "col-md-12" }, [
-                  _c("div", { staticClass: "section-title" }, [
-                    _c("h2", [_vm._v("Most Read")])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "col-md-12" }, [
-                  _c("div", { staticClass: "post post-row" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-img",
-                        attrs: { href: "blog-post.html" }
-                      },
-                      [_c("img", { attrs: { src: "img/post-4.jpg", alt: "" } })]
-                    ),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "post-body" }, [
-                      _c("div", { staticClass: "post-meta" }, [
-                        _c(
-                          "a",
-                          {
-                            staticClass: "post-category cat-2",
-                            attrs: { href: "category.html" }
-                          },
-                          [_vm._v("JavaScript")]
-                        ),
-                        _vm._v(" "),
-                        _c("span", { staticClass: "post-date" }, [
-                          _vm._v("March 27, 2018")
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("h3", { staticClass: "post-title" }, [
-                        _c("a", { attrs: { href: "blog-post.html" } }, [
-                          _vm._v(
-                            "Chrome Extension Protects Against\n                                        JavaScript-Based CPU Side-Channel Attacks"
-                          )
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("p", [
-                        _vm._v(
-                          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\n                                        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam..."
-                        )
+                _c("div", { staticClass: "col-xl-6 col-lg-4 col-md-5" }, [
+                  _c("div", { staticClass: "postbox mb-30" }, [
+                    _c("div", { staticClass: "postbox__thumb" }, [
+                      _c("a", { attrs: { href: "index-2.html#" } }, [
+                        _c("img", {
+                          attrs: { src: "img/news2/ns1.jpg", alt: "hero image" }
+                        })
                       ])
                     ])
                   ])
                 ]),
                 _vm._v(" "),
-                _c("div", { staticClass: "col-md-12" }, [
-                  _c("div", { staticClass: "post post-row" }, [
+                _c("div", { staticClass: "col-xl-6 col-lg-8 col-md-7" }, [
+                  _c("div", { staticClass: "postbox__text mb-30" }, [
+                    _c("div", { staticClass: "meta-top" }, [
+                      _c("span", { staticClass: "post-cat mb-10 mr-10" }, [
+                        _c(
+                          "a",
+                          { attrs: { href: "index-2.html#", tabindex: "0" } },
+                          [_vm._v("politics")]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("span", [
+                        _c("i", { staticClass: "fas fa-calendar-alt" }),
+                        _vm._v(" 01 Sep 2018")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", { staticClass: "title-16 pr-0" }, [
+                      _c("a", { attrs: { href: "index-2.html#" } }, [
+                        _vm._v(
+                          "Succession finale: jeremy strong keall’s struggles\n                                            what comes next."
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                      _c("ul", [
+                        _c("li", [
+                          _c("i", { staticClass: "fas fa-calendar-alt" }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("01 Sep 2018")])
+                        ]),
+                        _vm._v(" "),
+                        _c("li", [
+                          _c("i", { staticClass: "far fa-comment" }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("(03)")])
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "desc-text mb-20" }, [
+                      _c("p", [
+                        _vm._v(
+                          "But I must explain to you how all this mistaken idea of denouncing sure\n                                            and praising pain\n                                            was born and I will give you a complete account."
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
                     _c(
                       "a",
                       {
-                        staticClass: "post-img",
-                        attrs: { href: "blog-post.html" }
+                        staticClass: "btn btn-soft",
+                        attrs: { href: "index-2.html#" }
                       },
-                      [_c("img", { attrs: { src: "img/post-6.jpg", alt: "" } })]
-                    ),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "post-body" }, [
-                      _c("div", { staticClass: "post-meta" }, [
-                        _c(
-                          "a",
-                          {
-                            staticClass: "post-category cat-2",
-                            attrs: { href: "category.html" }
-                          },
-                          [_vm._v("JavaScript")]
-                        ),
-                        _vm._v(" "),
-                        _c("span", { staticClass: "post-date" }, [
-                          _vm._v("March 27, 2018")
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("h3", { staticClass: "post-title" }, [
-                        _c("a", { attrs: { href: "blog-post.html" } }, [
-                          _vm._v(
-                            "Why Node.js Is The Coolest Kid On\n                                        The Backend Development Block!"
-                          )
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("p", [
-                        _vm._v(
-                          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\n                                        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam..."
-                        )
+                      [_vm._v("read more")]
+                    )
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "row" }, [
+                _c("div", { staticClass: "col-xl-6 col-lg-4 col-md-5" }, [
+                  _c("div", { staticClass: "postbox mb-30" }, [
+                    _c("div", { staticClass: "postbox__thumb" }, [
+                      _c("a", { attrs: { href: "index-2.html#" } }, [
+                        _c("img", {
+                          attrs: { src: "img/news2/ns2.jpg", alt: "hero image" }
+                        })
                       ])
                     ])
                   ])
                 ]),
                 _vm._v(" "),
-                _c("div", { staticClass: "col-md-12" }, [
-                  _c("div", { staticClass: "post post-row" }, [
+                _c("div", { staticClass: "col-xl-6 col-lg-8 col-md-7" }, [
+                  _c("div", { staticClass: "postbox__text mb-30" }, [
+                    _c("div", { staticClass: "meta-top" }, [
+                      _c("span", { staticClass: "post-cat mb-10 mr-10" }, [
+                        _c(
+                          "a",
+                          { attrs: { href: "index-2.html#", tabindex: "0" } },
+                          [_vm._v("politics")]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("span", [
+                        _c("i", { staticClass: "fas fa-calendar-alt" }),
+                        _vm._v(" 01 Sep 2018")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", { staticClass: "title-16 pr-0" }, [
+                      _c("a", { attrs: { href: "index-2.html#" } }, [
+                        _vm._v(
+                          "Easter Island s limiting tourism in an there no\n                                            attempt to preserve its culture"
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                      _c("ul", [
+                        _c("li", [
+                          _c("i", { staticClass: "fas fa-calendar-alt" }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("01 Sep 2018")])
+                        ]),
+                        _vm._v(" "),
+                        _c("li", [
+                          _c("i", { staticClass: "far fa-comment" }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("(03)")])
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "desc-text mb-20" }, [
+                      _c("p", [
+                        _vm._v(
+                          "But I must explain to you how all this mistaken idea of denouncing sure\n                                            and praising pain\n                                            was born and I will give you a complete account."
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
                     _c(
                       "a",
                       {
-                        staticClass: "post-img",
-                        attrs: { href: "blog-post.html" }
+                        staticClass: "btn btn-soft",
+                        attrs: { href: "index-2.html#" }
                       },
-                      [_c("img", { attrs: { src: "img/post-1.jpg", alt: "" } })]
-                    ),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "post-body" }, [
-                      _c("div", { staticClass: "post-meta" }, [
-                        _c(
-                          "a",
-                          {
-                            staticClass: "post-category cat-4",
-                            attrs: { href: "category.html" }
-                          },
-                          [_vm._v("Css")]
-                        ),
-                        _vm._v(" "),
-                        _c("span", { staticClass: "post-date" }, [
-                          _vm._v("March 27, 2018")
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("h3", { staticClass: "post-title" }, [
-                        _c("a", { attrs: { href: "blog-post.html" } }, [
-                          _vm._v("CSS Float: A Tutorial")
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("p", [
-                        _vm._v(
-                          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\n                                        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam..."
-                        )
-                      ])
-                    ])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "col-md-12" }, [
-                  _c("div", { staticClass: "post post-row" }, [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "post-img",
-                        attrs: { href: "blog-post.html" }
-                      },
-                      [_c("img", { attrs: { src: "img/post-2.jpg", alt: "" } })]
-                    ),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "post-body" }, [
-                      _c("div", { staticClass: "post-meta" }, [
-                        _c(
-                          "a",
-                          {
-                            staticClass: "post-category cat-3",
-                            attrs: { href: "category.html" }
-                          },
-                          [_vm._v("Jquery")]
-                        ),
-                        _vm._v(" "),
-                        _c("span", { staticClass: "post-date" }, [
-                          _vm._v("March 27, 2018")
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("h3", { staticClass: "post-title" }, [
-                        _c("a", { attrs: { href: "blog-post.html" } }, [
-                          _vm._v(
-                            "Ask HN: Does Anybody Still Use\n                                        JQuery?"
-                          )
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("p", [
-                        _vm._v(
-                          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\n                                        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam..."
-                        )
-                      ])
-                    ])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "col-md-12" }, [
-                  _c("div", { staticClass: "section-row" }, [
-                    _c(
-                      "button",
-                      { staticClass: "primary-button center-block" },
-                      [_vm._v("Load More")]
+                      [_vm._v("read more")]
                     )
                   ])
                 ])
               ])
             ]),
             _vm._v(" "),
-            _c("div", { staticClass: "col-md-4" }, [
-              _c("div", { staticClass: "aside-widget text-center" }, [
+            _c("div", { staticClass: "content-pad border pb-0 mb-50" }, [
+              _c("div", { staticClass: "news-tab-area" }, [
                 _c(
-                  "a",
-                  {
-                    staticStyle: { display: "inline-block", margin: "auto" },
-                    attrs: { href: "index.html#" }
-                  },
+                  "div",
+                  { staticClass: "news-tab-part grey-bg clearfix mb-30" },
                   [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "img/ad-1.jpg", alt: "" }
-                    })
+                    _c("div", { staticClass: "title-theme f-left" }, [
+                      _c("h2", [_vm._v("latest news")])
+                    ]),
+                    _vm._v(" "),
+                    _c(
+                      "ul",
+                      {
+                        staticClass: "nav news-tabs f-right",
+                        attrs: { id: "myTab", role: "tablist" }
+                      },
+                      [
+                        _c("li", { staticClass: "nav-item" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "nav-link active",
+                              attrs: {
+                                id: "home-tab",
+                                "data-toggle": "tab",
+                                href: "index-2.html#home",
+                                role: "tab",
+                                "aria-controls": "home",
+                                "aria-selected": "true"
+                              }
+                            },
+                            [_vm._v("science ")]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("li", { staticClass: "nav-item" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "nav-link",
+                              attrs: {
+                                id: "profile-tab",
+                                "data-toggle": "tab",
+                                href: "index-2.html#profile",
+                                role: "tab",
+                                "aria-controls": "profile",
+                                "aria-selected": "false"
+                              }
+                            },
+                            [_vm._v("travel")]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("li", { staticClass: "nav-item" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "nav-link",
+                              attrs: {
+                                id: "contact-tab",
+                                "data-toggle": "tab",
+                                href: "index-2.html#contact",
+                                role: "tab",
+                                "aria-controls": "contact",
+                                "aria-selected": "false"
+                              }
+                            },
+                            [_vm._v("fashion")]
+                          )
+                        ])
+                      ]
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  { staticClass: "tab-content", attrs: { id: "myTabContent" } },
+                  [
+                    _c(
+                      "div",
+                      {
+                        staticClass: "tab-pane fade show active",
+                        attrs: {
+                          id: "home",
+                          role: "tabpanel",
+                          "aria-labelledby": "home-tab"
+                        }
+                      },
+                      [
+                        _c("div", { staticClass: "row" }, [
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab1.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "DNA-testing companies pro mise not\n                                                            to share informa"
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab2.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "Urban Meyer faces questions about\n                                                            domestic viole..."
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab3.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "Giant hands lift new Vietnan bridge\n                                                            toward heavens"
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab4.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "'Mars' actor says working on the\n                                                            NatGeo series"
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab5.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "Congrats! Because you live Dhaka can\n                                                            book these"
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab6.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "Patriots release WR Jordan Matthews\n                                                            after significant"
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "div",
+                      {
+                        staticClass: "tab-pane fade",
+                        attrs: {
+                          id: "profile",
+                          role: "tabpanel",
+                          "aria-labelledby": "profile-tab"
+                        }
+                      },
+                      [
+                        _c("div", { staticClass: "row" }, [
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab6.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "Patriots release WR Jordan Matthews\n                                                            after significant"
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab2.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "Urban Meyer faces questions about\n                                                            domestic viole..."
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab1.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "DNA-testing companies pro mise not\n                                                            to share informa"
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab3.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "Giant hands lift new Vietnan bridge\n                                                            toward heavens"
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab5.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "Congrats! Because you live Dhaka can\n                                                            book these"
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab4.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "'Mars' actor says working on the\n                                                            NatGeo series"
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "div",
+                      {
+                        staticClass: "tab-pane fade",
+                        attrs: {
+                          id: "contact",
+                          role: "tabpanel",
+                          "aria-labelledby": "contact-tab"
+                        }
+                      },
+                      [
+                        _c("div", { staticClass: "row" }, [
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab2.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "Urban Meyer faces questions about\n                                                            domestic viole..."
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab5.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "Congrats! Because you live Dhaka can\n                                                            book these"
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab1.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "DNA-testing companies pro mise not\n                                                            to share informa"
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab6.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "Patriots release WR Jordan Matthews\n                                                            after significant"
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab3.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "Giant hands lift new Vietnan bridge\n                                                            toward heavens"
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "col-xl-4 col-lg-6 col-md-6" },
+                            [
+                              _c("div", { staticClass: "postbox mb-25" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "postbox__thumb",
+                                    attrs: {
+                                      "data-overlay": "dark",
+                                      "data-opacity": "2"
+                                    }
+                                  },
+                                  [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "index-2.html#" } },
+                                      [
+                                        _c("img", {
+                                          attrs: {
+                                            src: "img/news2/tab4.jpg",
+                                            alt: "hero image"
+                                          }
+                                        })
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "postbox__text pt-15" },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "postbox__text-meta pb-10"
+                                      },
+                                      [
+                                        _c("ul", [
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "fas fa-calendar-alt"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("01 Sep 2018")])
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("li", [
+                                            _c("i", {
+                                              staticClass: "far fa-comment"
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", [_vm._v("(03)")])
+                                          ])
+                                        ])
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "h4",
+                                      { staticClass: "title-14 font-600 pr-0" },
+                                      [
+                                        _c(
+                                          "a",
+                                          { attrs: { href: "index-2.html#" } },
+                                          [
+                                            _vm._v(
+                                              "'Mars' actor says working on the\n                                                            NatGeo series"
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]
+                          )
+                        ])
+                      ]
+                    )
                   ]
                 )
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "aside-widget" }, [
-                _c("div", { staticClass: "section-title" }, [
-                  _c("h2", [_vm._v("Catagories")])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "category-widget" }, [
-                  _c("ul", [
-                    _c("li", [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "cat-1",
-                          attrs: { href: "index.html#" }
-                        },
-                        [_vm._v("Web Design"), _c("span", [_vm._v("340")])]
-                      )
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "cat-2",
-                          attrs: { href: "index.html#" }
-                        },
-                        [_vm._v("JavaScript"), _c("span", [_vm._v("74")])]
-                      )
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "cat-4",
-                          attrs: { href: "index.html#" }
-                        },
-                        [_vm._v("JQuery"), _c("span", [_vm._v("41")])]
-                      )
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "cat-3",
-                          attrs: { href: "index.html#" }
-                        },
-                        [_vm._v("CSS"), _c("span", [_vm._v("35")])]
-                      )
-                    ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "content-pad border pb-0 mb-50" }, [
+              _c("div", { staticClass: "video-box" }, [
+                _c("div", { staticClass: "row" }, [
+                  _c("div", { staticClass: "col-xl-6 col-lg-6 col-md-6" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "single-video embed-responsive embed-responsive-16by9 mb-30"
+                      },
+                      [
+                        _c("iframe", {
+                          attrs: {
+                            src: "https://www.youtube.com/embed/X58woEyyPAc"
+                          }
+                        })
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-xl-6 col-lg-6 col-md-6" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "single-video embed-responsive embed-responsive-16by9 mb-30"
+                      },
+                      [
+                        _c("iframe", {
+                          attrs: {
+                            src: "https://www.youtube.com/embed/DcylVx2ex78"
+                          }
+                        })
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-xl-6 col-lg-6 col-md-6" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "single-video embed-responsive embed-responsive-16by9 mb-30"
+                      },
+                      [
+                        _c("iframe", {
+                          attrs: {
+                            src: "https://www.youtube.com/embed/9d8wWcJLnFI"
+                          }
+                        })
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-xl-6 col-lg-6 col-md-6" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "single-video embed-responsive embed-responsive-16by9 mb-30"
+                      },
+                      [
+                        _c("iframe", {
+                          attrs: {
+                            src: "https://www.youtube.com/embed/GOAEIMx39-w"
+                          }
+                        })
+                      ]
+                    )
                   ])
                 ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "aside-widget" }, [
-                _c("div", { staticClass: "tags-widget" }, [
-                  _c("ul", [
-                    _c("li", [
-                      _c("a", { attrs: { href: "index.html#" } }, [
-                        _vm._v("Chrome")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "content-pad border pb-0 mb-50" }, [
+              _c("div", { staticClass: "row" }, [
+                _c("div", { staticClass: "col-xl-6 col-lg-6 col-md-6" }, [
+                  _c("div", { staticClass: "section-title mb-30" }, [
+                    _c("h2", [_vm._v("Science")])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "cat-sm-post" }, [
+                    _c("div", { staticClass: "post__small mb-30" }, [
+                      _c("div", { staticClass: "post__small-thumb f-left" }, [
+                        _c("a", { attrs: { href: "index-2.html#" } }, [
+                          _c("img", {
+                            attrs: {
+                              src: "img/trendy/xs/xs-1.jpg",
+                              alt: "hero image"
+                            }
+                          })
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                        _c("h4", { staticClass: "title-14 pr-0 mt-0" }, [
+                          _c("a", { attrs: { href: "index-2.html#" } }, [
+                            _vm._v(
+                              "Hobots or Job Training: Mnutuers Grapple\n                                                    With How to Improve."
+                            )
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "post__small-text-meta" }, [
+                          _c("ul", [
+                            _c("li", [
+                              _c("i", { staticClass: "fas fa-calendar-alt" }),
+                              _vm._v(" "),
+                              _c("span", [_vm._v("01 Sep 2018")])
+                            ])
+                          ])
+                        ])
                       ])
                     ]),
                     _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "index.html#" } }, [
-                        _vm._v("CSS")
+                    _c("div", { staticClass: "post__small mb-30" }, [
+                      _c("div", { staticClass: "post__small-thumb f-left" }, [
+                        _c("a", { attrs: { href: "index-2.html#" } }, [
+                          _c("img", {
+                            attrs: {
+                              src: "img/trendy/xs/xs-2.jpg",
+                              alt: "hero image"
+                            }
+                          })
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                        _c("h4", { staticClass: "title-14 pr-0 mt-0" }, [
+                          _c("a", { attrs: { href: "index-2.html#" } }, [
+                            _vm._v(
+                              "Robots or Job Training: Manutues Grapple\n                                                    With How to Improve.."
+                            )
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "post__small-text-meta" }, [
+                          _c("ul", [
+                            _c("li", [
+                              _c("i", { staticClass: "fas fa-calendar-alt" }),
+                              _vm._v(" "),
+                              _c("span", [_vm._v("01 Sep 2018")])
+                            ])
+                          ])
+                        ])
                       ])
                     ]),
                     _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "index.html#" } }, [
-                        _vm._v("Tutorial")
+                    _c("div", { staticClass: "post__small mb-30" }, [
+                      _c("div", { staticClass: "post__small-thumb f-left" }, [
+                        _c("a", { attrs: { href: "index-2.html#" } }, [
+                          _c("img", {
+                            attrs: {
+                              src: "img/trendy/xs/xs-3.jpg",
+                              alt: "hero image"
+                            }
+                          })
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                        _c("h4", { staticClass: "title-14 pr-0 mt-0" }, [
+                          _c("a", { attrs: { href: "index-2.html#" } }, [
+                            _vm._v(
+                              "Robots or Job Training: Manutues Grapple\n                                                    With How to Improve.."
+                            )
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "post__small-text-meta" }, [
+                          _c("ul", [
+                            _c("li", [
+                              _c("i", { staticClass: "fas fa-calendar-alt" }),
+                              _vm._v(" "),
+                              _c("span", [_vm._v("01 Sep 2018")])
+                            ])
+                          ])
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "col-xl-6 col-lg-6 col-md-6" }, [
+                  _c("div", { staticClass: "section-title mb-30" }, [
+                    _c("h2", [_vm._v("Travel")])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "cat-sm-post" }, [
+                    _c("div", { staticClass: "post__small mb-30" }, [
+                      _c("div", { staticClass: "post__small-thumb f-left" }, [
+                        _c("a", { attrs: { href: "index-2.html#" } }, [
+                          _c("img", {
+                            attrs: {
+                              src: "img/trendy/xs/xs-4.jpg",
+                              alt: "hero image"
+                            }
+                          })
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                        _c("h4", { staticClass: "title-14 pr-0 mt-0" }, [
+                          _c("a", { attrs: { href: "index-2.html#" } }, [
+                            _vm._v(
+                              "Hobots or Job Training: Mnutuers Grapple\n                                                    With How to Improve."
+                            )
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "post__small-text-meta" }, [
+                          _c("ul", [
+                            _c("li", [
+                              _c("i", { staticClass: "fas fa-calendar-alt" }),
+                              _vm._v(" "),
+                              _c("span", [_vm._v("01 Sep 2018")])
+                            ])
+                          ])
+                        ])
                       ])
                     ]),
                     _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "index.html#" } }, [
-                        _vm._v("Backend")
+                    _c("div", { staticClass: "post__small mb-30" }, [
+                      _c("div", { staticClass: "post__small-thumb f-left" }, [
+                        _c("a", { attrs: { href: "index-2.html#" } }, [
+                          _c("img", {
+                            attrs: {
+                              src: "img/trendy/xs/xs-5.jpg",
+                              alt: "hero image"
+                            }
+                          })
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                        _c("h4", { staticClass: "title-14 pr-0 mt-0" }, [
+                          _c("a", { attrs: { href: "index-2.html#" } }, [
+                            _vm._v(
+                              "Robots or Job Training: Manutues Grapple\n                                                    With How to Improve.."
+                            )
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "post__small-text-meta" }, [
+                          _c("ul", [
+                            _c("li", [
+                              _c("i", { staticClass: "fas fa-calendar-alt" }),
+                              _vm._v(" "),
+                              _c("span", [_vm._v("01 Sep 2018")])
+                            ])
+                          ])
+                        ])
                       ])
                     ]),
                     _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "index.html#" } }, [
-                        _vm._v("JQuery")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "index.html#" } }, [
-                        _vm._v("Design")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "index.html#" } }, [
-                        _vm._v("Development")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "index.html#" } }, [
-                        _vm._v("JavaScript")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "index.html#" } }, [
-                        _vm._v("Website")
+                    _c("div", { staticClass: "post__small mb-30" }, [
+                      _c("div", { staticClass: "post__small-thumb f-left" }, [
+                        _c("a", { attrs: { href: "index-2.html#" } }, [
+                          _c("img", {
+                            attrs: {
+                              src: "img/trendy/xs/xs-6.jpg",
+                              alt: "hero image"
+                            }
+                          })
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                        _c("h4", { staticClass: "title-14 pr-0 mt-0" }, [
+                          _c("a", { attrs: { href: "index-2.html#" } }, [
+                            _vm._v(
+                              "Robots or Job Training: Manutues Grapple\n                                                    With How to Improve.."
+                            )
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "post__small-text-meta" }, [
+                          _c("ul", [
+                            _c("li", [
+                              _c("i", { staticClass: "fas fa-calendar-alt" }),
+                              _vm._v(" "),
+                              _c("span", [_vm._v("01 Sep 2018")])
+                            ])
+                          ])
+                        ])
                       ])
                     ])
                   ])
                 ])
               ])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-xl-4 col-lg-4" }, [
+            _c("div", { staticClass: "widget mb-40" }, [
+              _c("a", { attrs: { href: "index-2.html#" } }, [
+                _c("img", {
+                  attrs: { src: "img/add/add-sidebar.jpg", alt: "" }
+                })
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "widget widget-border mb-40" }, [
+              _c("h3", { staticClass: "widget-title" }, [
+                _vm._v("Popular posts")
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "post__small mb-30" }, [
+                _c("div", { staticClass: "post__small-thumb f-left" }, [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _c("img", {
+                      attrs: {
+                        src: "img/trendy/xs/xs-1.jpg",
+                        alt: "hero image"
+                      }
+                    })
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                  _c("span", { staticClass: "sm-cat" }, [
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
+                      _vm._v("Fashion")
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("h4", { staticClass: "title-13 pr-0" }, [
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
+                      _vm._v(
+                        "Husar asks expenses authority to entitlements after\n                                        Bruno"
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "post__small-text-meta" }, [
+                    _c("ul", [
+                      _c("li", [
+                        _c("i", { staticClass: "fas fa-calendar-alt" }),
+                        _vm._v(" "),
+                        _c("span", [_vm._v("01 Sep 2018")])
+                      ])
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "post__small mb-30" }, [
+                _c("div", { staticClass: "post__small-thumb f-left" }, [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _c("img", {
+                      attrs: {
+                        src: "img/trendy/xs/xs-2.jpg",
+                        alt: "hero image"
+                      }
+                    })
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                  _c("span", { staticClass: "sm-cat" }, [
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
+                      _vm._v("Fashion")
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("h4", { staticClass: "title-13 pr-0" }, [
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
+                      _vm._v(
+                        "Researchers claim majo throug in the fight to cure\n                                        fibrosis"
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "post__small-text-meta" }, [
+                    _c("ul", [
+                      _c("li", [
+                        _c("i", { staticClass: "fas fa-calendar-alt" }),
+                        _vm._v(" "),
+                        _c("span", [_vm._v("01 Sep 2018")])
+                      ])
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "post__small mb-30" }, [
+                _c("div", { staticClass: "post__small-thumb f-left" }, [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _c("img", {
+                      attrs: {
+                        src: "img/trendy/xs/xs-3.jpg",
+                        alt: "hero image"
+                      }
+                    })
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                  _c("span", { staticClass: "sm-cat" }, [
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
+                      _vm._v("Fashion")
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("h4", { staticClass: "title-13 pr-0" }, [
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
+                      _vm._v(
+                        "Nahan downplays Liberal lership tensions after white\n                                        ant"
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "post__small-text-meta" }, [
+                    _c("ul", [
+                      _c("li", [
+                        _c("i", { staticClass: "fas fa-calendar-alt" }),
+                        _vm._v(" "),
+                        _c("span", [_vm._v("01 Sep 2018")])
+                      ])
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "post__small" }, [
+                _c("div", { staticClass: "post__small-thumb f-left" }, [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _c("img", {
+                      attrs: {
+                        src: "img/trendy/xs/xs-4.jpg",
+                        alt: "hero image"
+                      }
+                    })
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                  _c("span", { staticClass: "sm-cat" }, [
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
+                      _vm._v("Travel")
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("h4", { staticClass: "title-13 pr-0" }, [
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
+                      _vm._v(
+                        "Farmers plead for bullets to put down emaciated\n                                        stock"
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "post__small-text-meta" }, [
+                    _c("ul", [
+                      _c("li", [
+                        _c("i", { staticClass: "fas fa-calendar-alt" }),
+                        _vm._v(" "),
+                        _c("span", [_vm._v("01 Sep 2018")])
+                      ])
+                    ])
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "widget widget-border mb-40" }, [
+              _c("h3", { staticClass: "widget-title" }, [_vm._v("Categories")]),
+              _vm._v(" "),
+              _c("ul", [
+                _c("li", [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _vm._v("Business\n                                    "),
+                    _c("span", [_vm._v("02")])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _vm._v("Politic\n                                    "),
+                    _c("span", [_vm._v("05")])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _vm._v("Fashion\n                                    "),
+                    _c("span", [_vm._v("01")])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _vm._v("Corporate\n                                    "),
+                    _c("span", [_vm._v("03")])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _vm._v("Football\n                                    "),
+                    _c("span", [_vm._v("07")])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _vm._v("Magazine\n                                    "),
+                    _c("span", [_vm._v("06")])
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "widget widget-border mb-40" }, [
+              _c("h3", { staticClass: "widget-title" }, [
+                _vm._v("Subscribe our Newsletter!")
+              ]),
+              _vm._v(" "),
+              _c("p", [
+                _vm._v(
+                  "Subscribe to our email newsletter to receive useful articles and special offers."
+                )
+              ]),
+              _vm._v(" "),
+              _c(
+                "form",
+                {
+                  staticClass: "widget-subscribe",
+                  attrs: { action: "index-2.html#" }
+                },
+                [
+                  _c("input", {
+                    attrs: { type: "email", placeholder: "Enter your email :" }
+                  }),
+                  _vm._v(" "),
+                  _c("button", { staticClass: "btn" }, [_vm._v("subscribe")])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "widget widget-border mb-40" }, [
+              _c("h3", { staticClass: "widget-title" }, [
+                _vm._v("Most visited")
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "postbox" }, [
+                _c("div", { staticClass: "postbox__thumb" }, [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _c("img", {
+                      attrs: {
+                        src: "img/details/sidebar-post.jpg",
+                        alt: "hero image"
+                      }
+                    })
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "postbox__text pt-15" }, [
+                  _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                    _c("ul", [
+                      _c("li", [
+                        _c("i", { staticClass: "fas fa-calendar-alt" }),
+                        _vm._v(" "),
+                        _c("span", [_vm._v("01 Sep 2018")])
+                      ]),
+                      _vm._v(" "),
+                      _c("li", [
+                        _c("i", { staticClass: "far fa-comment" }),
+                        _vm._v(" "),
+                        _c("span", [_vm._v("(03)")])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("h4", { staticClass: "title-16 pr-0" }, [
+                    _c("a", { attrs: { href: "index-2.html#" } }, [
+                      _vm._v(
+                        "Paul Manafort’s Accountant Testifies She Helped Alter\n                                        Financial Documents"
+                      )
+                    ])
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "app-area pb-60" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "grey-bg pt-55 pb-55 pl-60 pr-60" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-xl-6 col-lg-12" }, [
+              _c("div", { staticClass: "app-text text-center text-xl-left" }, [
+                _c("h2", [_vm._v("Download our apps now")])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-xl-6 col-lg-12" }, [
+              _c(
+                "div",
+                { staticClass: "app-store text-center text-xl-right" },
+                [
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _c("img", {
+                      attrs: { src: "img/store/apple.png", alt: "" }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "index-2.html#" } }, [
+                    _c("img", {
+                      attrs: { src: "img/store/google.png", alt: "" }
+                    })
+                  ])
+                ]
+              )
             ])
           ])
         ])
@@ -40177,9 +45043,1090 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div")
+  return _vm._m(0)
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("main", [
+      _c("div", { staticClass: "category-banner-area mt-60" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-12" }, [
+              _c(
+                "div",
+                {
+                  staticClass: "category-wrapper",
+                  staticStyle: {
+                    "background-image": "url(/img/bg/politic.jpg)"
+                  }
+                },
+                [
+                  _c("div", { staticClass: "category-inner" }, [
+                    _c("span", { staticClass: "post-cat mb-10 mr-10" }, [
+                      _c(
+                        "a",
+                        { attrs: { href: "politic.html#", tabindex: "0" } },
+                        [_vm._v("politics")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("h1", [
+                      _vm._v(
+                        "California Strikes Back Against the Trump AdminisTration’s Auto Back"
+                      )
+                    ])
+                  ])
+                ]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "category-title-area pt-60 pb-60" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "cat-heading text-center grey-bg" }, [
+            _c("h1", [_vm._v("politics")])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("section", { staticClass: "news-area" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-xl-8 col-lg-8" }, [
+              _c("div", { staticClass: "row" }, [
+                _c("div", { staticClass: "col-xl-4 col-lg-4" }, [
+                  _c("div", { staticClass: "postbox mb-30" }, [
+                    _c("div", { staticClass: "postbox__thumb" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _c("img", {
+                          attrs: {
+                            src: "/img/politic/pol1.jpg",
+                            alt: "hero image"
+                          }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "postbox__text pt-10" }, [
+                      _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                        _c("ul", [
+                          _c("li", [
+                            _c("i", { staticClass: "fas fa-calendar-alt" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("01 Sep 2018")])
+                          ]),
+                          _vm._v(" "),
+                          _c("li", [
+                            _c("i", { staticClass: "far fa-comment" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("(03)")])
+                          ])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h4", { staticClass: "pr-0" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v(
+                            "Paul Manafort’s Accountant Testifie She Helped Alter Financial."
+                          )
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "postbox mb-30" }, [
+                    _c("div", { staticClass: "postbox__thumb" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _c("img", {
+                          attrs: {
+                            src: "/img/politic/pol2.jpg",
+                            alt: "hero image"
+                          }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "postbox__text pt-10" }, [
+                      _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                        _c("ul", [
+                          _c("li", [
+                            _c("i", { staticClass: "fas fa-calendar-alt" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("01 Sep 2018")])
+                          ]),
+                          _vm._v(" "),
+                          _c("li", [
+                            _c("i", { staticClass: "far fa-comment" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("(03)")])
+                          ])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h4", { staticClass: "pr-0" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v(
+                            "Receiving the Summer Sols Honour tice the Swedish Way."
+                          )
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "postbox mb-30" }, [
+                    _c("div", { staticClass: "postbox__thumb" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _c("img", {
+                          attrs: {
+                            src: "/img/politic/pol3.jpg",
+                            alt: "hero image"
+                          }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "postbox__text pt-10" }, [
+                      _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                        _c("ul", [
+                          _c("li", [
+                            _c("i", { staticClass: "fas fa-calendar-alt" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("01 Sep 2018")])
+                          ]),
+                          _vm._v(" "),
+                          _c("li", [
+                            _c("i", { staticClass: "far fa-comment" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("(03)")])
+                          ])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h4", { staticClass: "pr-0" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v(
+                            "The New Health Care: Worklac Wellness Programs.."
+                          )
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "post-btn mb-30" }, [
+                    _c(
+                      "a",
+                      {
+                        staticClass: "btn btn-border",
+                        attrs: { href: "politic.html#" }
+                      },
+                      [_vm._v("view more")]
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "col-xl-8 col-lg-8" }, [
+                  _c("div", { staticClass: "postbox mb-30" }, [
+                    _c("div", { staticClass: "postbox__thumb" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _c("img", {
+                          staticClass: "img-100",
+                          attrs: {
+                            src: "/img/politic/pol-lg1.jpg",
+                            alt: "hero image"
+                          }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "post-cat post-absolute" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v("politic")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "postbox__text pt-10" }, [
+                      _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                        _c("ul", [
+                          _c("li", [
+                            _c("i", { staticClass: "fas fa-calendar-alt" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("01 Sep 2018")])
+                          ]),
+                          _vm._v(" "),
+                          _c("li", [
+                            _c("i", { staticClass: "far fa-comment" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("(03)")])
+                          ])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h4", { staticClass: "title-16 pr-0" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v(
+                            "Trump’s Inaccurate Claims About High ways the world, Immigration and Beyoncé entitlements after."
+                          )
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "postbox mb-30" }, [
+                    _c("div", { staticClass: "postbox__thumb" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _c("img", {
+                          staticClass: "img-100",
+                          attrs: {
+                            src: "/img/politic/pol-lg2.jpg",
+                            alt: "hero image"
+                          }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "post-cat post-absolute" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v("politic")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "postbox__text pt-10" }, [
+                      _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                        _c("ul", [
+                          _c("li", [
+                            _c("i", { staticClass: "fas fa-calendar-alt" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("01 Sep 2018")])
+                          ]),
+                          _vm._v(" "),
+                          _c("li", [
+                            _c("i", { staticClass: "far fa-comment" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("(03)")])
+                          ])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h4", { staticClass: "title-16 pr-0" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v(
+                            "Moving From Buyer to Seller, Major League Soccer grothe Revenue In The World Wide. Immigration."
+                          )
+                        ])
+                      ])
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "row pt-30" }, [
+                _c("div", { staticClass: "col-xl-4 col-lg-6 col-md-6" }, [
+                  _c("div", { staticClass: "postbox mb-30" }, [
+                    _c("div", { staticClass: "postbox__thumb" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _c("img", {
+                          attrs: {
+                            src: "/img/politic/sm-pol1.jpg",
+                            alt: "hero image"
+                          }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "postbox__text pt-10" }, [
+                      _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                        _c("ul", [
+                          _c("li", [
+                            _c("i", { staticClass: "fas fa-calendar-alt" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("01 Sep 2018")])
+                          ]),
+                          _vm._v(" "),
+                          _c("li", [
+                            _c("i", { staticClass: "far fa-comment" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("(03)")])
+                          ])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h4", { staticClass: "pr-0" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v(
+                            "Off the Menu Midtown East Was Gets Wanderlust Cafe."
+                          )
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "col-xl-4 col-lg-6 col-md-6" }, [
+                  _c("div", { staticClass: "postbox mb-30" }, [
+                    _c("div", { staticClass: "postbox__thumb" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _c("img", {
+                          attrs: {
+                            src: "/img/politic/sm-pol2.jpg",
+                            alt: "hero image"
+                          }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "postbox__text pt-10" }, [
+                      _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                        _c("ul", [
+                          _c("li", [
+                            _c("i", { staticClass: "fas fa-calendar-alt" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("01 Sep 2018")])
+                          ]),
+                          _vm._v(" "),
+                          _c("li", [
+                            _c("i", { staticClass: "far fa-comment" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("(03)")])
+                          ])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h4", { staticClass: "pr-0" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v(
+                            "The New Health Care: Worklac Wellness Programs."
+                          )
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "col-xl-4 col-lg-6 col-md-6" }, [
+                  _c("div", { staticClass: "postbox mb-30" }, [
+                    _c("div", { staticClass: "postbox__thumb" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _c("img", {
+                          attrs: {
+                            src: "/img/politic/sm-pol3.jpg",
+                            alt: "hero image"
+                          }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "postbox__text pt-10" }, [
+                      _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                        _c("ul", [
+                          _c("li", [
+                            _c("i", { staticClass: "fas fa-calendar-alt" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("01 Sep 2018")])
+                          ]),
+                          _vm._v(" "),
+                          _c("li", [
+                            _c("i", { staticClass: "far fa-comment" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("(03)")])
+                          ])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h4", { staticClass: "pr-0" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v(
+                            "Plan to Punish Immigrants for Using Welfare Could."
+                          )
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "col-xl-4 col-lg-6 col-md-6" }, [
+                  _c("div", { staticClass: "postbox mb-30" }, [
+                    _c("div", { staticClass: "postbox__thumb" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _c("img", {
+                          attrs: {
+                            src: "/img/politic/sm-pol4.jpg",
+                            alt: "hero image"
+                          }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "postbox__text pt-10" }, [
+                      _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                        _c("ul", [
+                          _c("li", [
+                            _c("i", { staticClass: "fas fa-calendar-alt" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("01 Sep 2018")])
+                          ]),
+                          _vm._v(" "),
+                          _c("li", [
+                            _c("i", { staticClass: "far fa-comment" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("(03)")])
+                          ])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h4", { staticClass: "pr-0" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v(
+                            "The New Health Care: Worklac Wellness Programs."
+                          )
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "col-xl-4 col-lg-6 col-md-6" }, [
+                  _c("div", { staticClass: "postbox mb-30" }, [
+                    _c("div", { staticClass: "postbox__thumb" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _c("img", {
+                          attrs: {
+                            src: "/img/politic/sm-pol5.jpg",
+                            alt: "hero image"
+                          }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "postbox__text pt-10" }, [
+                      _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                        _c("ul", [
+                          _c("li", [
+                            _c("i", { staticClass: "fas fa-calendar-alt" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("01 Sep 2018")])
+                          ]),
+                          _vm._v(" "),
+                          _c("li", [
+                            _c("i", { staticClass: "far fa-comment" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("(03)")])
+                          ])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h4", { staticClass: "pr-0" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v(
+                            "Plan to Punish Immigrants for Using Welfare Could."
+                          )
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "col-xl-4 col-lg-6 col-md-6" }, [
+                  _c("div", { staticClass: "postbox mb-30" }, [
+                    _c("div", { staticClass: "postbox__thumb" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _c("img", {
+                          attrs: {
+                            src: "/img/politic/sm-pol6.jpg",
+                            alt: "hero image"
+                          }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "postbox__text pt-10" }, [
+                      _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                        _c("ul", [
+                          _c("li", [
+                            _c("i", { staticClass: "fas fa-calendar-alt" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("01 Sep 2018")])
+                          ]),
+                          _vm._v(" "),
+                          _c("li", [
+                            _c("i", { staticClass: "far fa-comment" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("(03)")])
+                          ])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h4", { staticClass: "pr-0" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v(
+                            "Plan to Punish Immigrants for Using Welfare Could."
+                          )
+                        ])
+                      ])
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "category-list-view pt-30" }, [
+                _c("div", { staticClass: "row" }, [
+                  _c("div", { staticClass: "col-xl-6 col-lg-6 col-md-6" }, [
+                    _c("div", { staticClass: "postbox mb-30" }, [
+                      _c("div", { staticClass: "postbox__thumb" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _c("img", {
+                            attrs: {
+                              src: "/img/politic/pol-list1.jpg",
+                              alt: "hero image"
+                            }
+                          })
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-xl-6 col-lg-6 col-md-6" }, [
+                    _c("div", { staticClass: "postbox__text mb-30" }, [
+                      _c("h4", { staticClass: "title-16 pr-0" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v(
+                            "Succession finale: jeremy strong keall’s struggles what comes next."
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                        _c("ul", [
+                          _c("li", [
+                            _c("i", { staticClass: "fas fa-calendar-alt" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("01 Sep 2018")])
+                          ]),
+                          _vm._v(" "),
+                          _c("li", [
+                            _c("i", { staticClass: "far fa-comment" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("(03)")])
+                          ])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "desc-text mb-20" }, [
+                        _c("p", [
+                          _vm._v(
+                            "But I must explain to you how all this mistaken idea of denouncing sure and praising pain was born and I\n                                            will give you a complete account."
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "a",
+                        {
+                          staticClass: "btn btn-soft",
+                          attrs: { href: "politic.html#" }
+                        },
+                        [_vm._v("read more")]
+                      )
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "row" }, [
+                  _c("div", { staticClass: "col-xl-6 col-lg-6 col-md-6" }, [
+                    _c("div", { staticClass: "postbox mb-30" }, [
+                      _c("div", { staticClass: "postbox__thumb" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _c("img", {
+                            attrs: {
+                              src: "/img/politic/pol-list2.jpg",
+                              alt: "hero image"
+                            }
+                          })
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-xl-6 col-lg-6 col-md-6" }, [
+                    _c("div", { staticClass: "postbox__text mb-30" }, [
+                      _c("h4", { staticClass: "title-16 pr-0" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v(
+                            "Critic’s notebook: deep dives into jutice from shakespeare and atticus finch"
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                        _c("ul", [
+                          _c("li", [
+                            _c("i", { staticClass: "fas fa-calendar-alt" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("01 Sep 2018")])
+                          ]),
+                          _vm._v(" "),
+                          _c("li", [
+                            _c("i", { staticClass: "far fa-comment" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("(03)")])
+                          ])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "desc-text mb-20" }, [
+                        _c("p", [
+                          _vm._v(
+                            "But I must explain to you how all this mistaken idea of denouncing sure and praising pain was born and I\n                                            will give you a complete account."
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "a",
+                        {
+                          staticClass: "btn btn-soft",
+                          attrs: { href: "politic.html#" }
+                        },
+                        [_vm._v("read more")]
+                      )
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "row" }, [
+                  _c("div", { staticClass: "col-xl-6 col-lg-6 col-md-6" }, [
+                    _c("div", { staticClass: "postbox mb-30" }, [
+                      _c("div", { staticClass: "postbox__thumb" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _c("img", {
+                            attrs: {
+                              src: "/img/politic/pol-list3.jpg",
+                              alt: "hero image"
+                            }
+                          })
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-xl-6 col-lg-6 col-md-6" }, [
+                    _c("div", { staticClass: "postbox__text mb-30" }, [
+                      _c("h4", { staticClass: "title-16 pr-0" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v(
+                            "Critic’s notebook: deep dives into jutice from shakespeare and atticus finch"
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                        _c("ul", [
+                          _c("li", [
+                            _c("i", { staticClass: "fas fa-calendar-alt" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("01 Sep 2018")])
+                          ]),
+                          _vm._v(" "),
+                          _c("li", [
+                            _c("i", { staticClass: "far fa-comment" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("(03)")])
+                          ])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "desc-text mb-20" }, [
+                        _c("p", [
+                          _vm._v(
+                            "But I must explain to you how all this mistaken idea of denouncing sure and praising pain was born and I\n                                            will give you a complete account."
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "a",
+                        {
+                          staticClass: "btn btn-soft",
+                          attrs: { href: "politic.html#" }
+                        },
+                        [_vm._v("read more")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "row mt-10 mb-60" }, [
+                _c("div", { staticClass: "col-xl-12" }, [
+                  _c("div", { staticClass: "pagination" }, [
+                    _c("ul", [
+                      _c("li", [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v("Prev")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("li", { staticClass: "active" }, [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _c("span", [_vm._v("1")])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("li", [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _c("span", [_vm._v("2")])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("li", [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _c("span", [_vm._v("3")])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("li", [
+                        _c("a", { attrs: { href: "politic.html#" } }, [
+                          _vm._v("Next")
+                        ])
+                      ])
+                    ])
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-xl-4 col-lg-4" }, [
+              _c("div", { staticClass: "widget mb-40" }, [
+                _c("a", { attrs: { href: "politic.html#" } }, [
+                  _c("img", {
+                    attrs: { src: "/img/add/add-sidebar.jpg", alt: "" }
+                  })
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "widget widget-border mb-40" }, [
+                _c("h3", { staticClass: "widget-title" }, [
+                  _vm._v("Popular posts")
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post__small mb-30" }, [
+                  _c("div", { staticClass: "post__small-thumb f-left" }, [
+                    _c("a", { attrs: { href: "politic.html#" } }, [
+                      _c("img", {
+                        attrs: {
+                          src: "/img/trendy/xs/xs-1.jpg",
+                          alt: "hero image"
+                        }
+                      })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                    _c("span", { staticClass: "sm-cat" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _vm._v("Fashion")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", { staticClass: "title-13 pr-0" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _vm._v(
+                          "Husar asks expenses authority to entitlements after Bruno"
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "post__small-text-meta" }, [
+                      _c("ul", [
+                        _c("li", [
+                          _c("i", { staticClass: "fas fa-calendar-alt" }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("01 Sep 2018")])
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post__small mb-30" }, [
+                  _c("div", { staticClass: "post__small-thumb f-left" }, [
+                    _c("a", { attrs: { href: "politic.html#" } }, [
+                      _c("img", {
+                        attrs: {
+                          src: "/img/trendy/xs/xs-2.jpg",
+                          alt: "hero image"
+                        }
+                      })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                    _c("span", { staticClass: "sm-cat" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _vm._v("Fashion")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", { staticClass: "title-13 pr-0" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _vm._v(
+                          "Researchers claim majo throug in the fight to cure fibrosis"
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "post__small-text-meta" }, [
+                      _c("ul", [
+                        _c("li", [
+                          _c("i", { staticClass: "fas fa-calendar-alt" }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("01 Sep 2018")])
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post__small mb-30" }, [
+                  _c("div", { staticClass: "post__small-thumb f-left" }, [
+                    _c("a", { attrs: { href: "politic.html#" } }, [
+                      _c("img", {
+                        attrs: {
+                          src: "/img/trendy/xs/xs-3.jpg",
+                          alt: "hero image"
+                        }
+                      })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                    _c("span", { staticClass: "sm-cat" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _vm._v("Fashion")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", { staticClass: "title-13 pr-0" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _vm._v(
+                          "Nahan downplays Liberal lership tensions after white ant"
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "post__small-text-meta" }, [
+                      _c("ul", [
+                        _c("li", [
+                          _c("i", { staticClass: "fas fa-calendar-alt" }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("01 Sep 2018")])
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post__small" }, [
+                  _c("div", { staticClass: "post__small-thumb f-left" }, [
+                    _c("a", { attrs: { href: "politic.html#" } }, [
+                      _c("img", {
+                        attrs: {
+                          src: "/img/trendy/xs/xs-4.jpg",
+                          alt: "hero image"
+                        }
+                      })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                    _c("span", { staticClass: "sm-cat" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _vm._v("Travel")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", { staticClass: "title-13 pr-0" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _vm._v(
+                          "Farmers plead for bullets to put down emaciated stock"
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "post__small-text-meta" }, [
+                      _c("ul", [
+                        _c("li", [
+                          _c("i", { staticClass: "fas fa-calendar-alt" }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("01 Sep 2018")])
+                        ])
+                      ])
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "widget widget-border mb-40" }, [
+                _c("h3", { staticClass: "widget-title" }, [
+                  _vm._v("Subscribe our Newsletter!")
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "Subscribe to our email newsletter to receive useful articles and special offers."
+                  )
+                ]),
+                _vm._v(" "),
+                _c(
+                  "form",
+                  {
+                    staticClass: "widget-subscribe",
+                    attrs: { action: "politic.html#" }
+                  },
+                  [
+                    _c("input", {
+                      attrs: {
+                        type: "email",
+                        placeholder: "Enter your email :"
+                      }
+                    }),
+                    _vm._v(" "),
+                    _c("button", { staticClass: "btn" }, [_vm._v("subscribe")])
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "widget widget-border mb-40" }, [
+                _c("h3", { staticClass: "widget-title" }, [
+                  _vm._v("Most visited")
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "postbox" }, [
+                  _c("div", { staticClass: "postbox__thumb" }, [
+                    _c("a", { attrs: { href: "politic.html#" } }, [
+                      _c("img", {
+                        attrs: {
+                          src: "/img/details/sidebar-post.jpg",
+                          alt: "hero image"
+                        }
+                      })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "postbox__text pt-15" }, [
+                    _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                      _c("ul", [
+                        _c("li", [
+                          _c("i", { staticClass: "fas fa-calendar-alt" }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("01 Sep 2018")])
+                        ]),
+                        _vm._v(" "),
+                        _c("li", [
+                          _c("i", { staticClass: "far fa-comment" }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("(03)")])
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", { staticClass: "title-16 pr-0" }, [
+                      _c("a", { attrs: { href: "politic.html#" } }, [
+                        _vm._v(
+                          "Paul Manafort’s Accountant Testifies She Helped Alter Financial Documents"
+                        )
+                      ])
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "widget widget-border mb-40" }, [
+                _c("h3", { staticClass: "widget-title" }, [
+                  _vm._v("Popular Tags")
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "tagcloud" }, [
+                  _c("a", { attrs: { href: "politic.html#" } }, [
+                    _vm._v("Fashion")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "politic.html#" } }, [
+                    _vm._v("Politic")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "politic.html#" } }, [
+                    _vm._v("Modern")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "politic.html#" } }, [
+                    _vm._v("Tips")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "politic.html#" } }, [
+                    _vm._v("Nav")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "politic.html#" } }, [
+                    _vm._v("Jason")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "politic.html#" } }, [
+                    _vm._v("Roster")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "politic.html#" } }, [
+                    _vm._v("Boat")
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("section", { staticClass: "app-area pb-60" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "grey-bg pt-55 pb-55 pl-60 pr-60" }, [
+            _c("div", { staticClass: "row" }, [
+              _c("div", { staticClass: "col-xl-6 col-lg-12" }, [
+                _c(
+                  "div",
+                  { staticClass: "app-text text-center text-xl-left" },
+                  [_c("h2", [_vm._v("Download our apps now")])]
+                )
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-xl-6 col-lg-12" }, [
+                _c(
+                  "div",
+                  { staticClass: "app-store text-center text-xl-right" },
+                  [
+                    _c("a", { attrs: { href: "politic.html#" } }, [
+                      _c("img", {
+                        attrs: { src: "/img/store/apple.png", alt: "" }
+                      })
+                    ]),
+                    _vm._v(" "),
+                    _c("a", { attrs: { href: "politic.html#" } }, [
+                      _c("img", {
+                        attrs: { src: "/img/store/google.png", alt: "" }
+                      })
+                    ])
+                  ]
+                )
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -40204,6 +46151,1020 @@ var render = function() {
   return _c("div")
 }
 var staticRenderFns = []
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/views/post/View.vue?vue&type=template&id=1b49cb78&scoped=true&":
+/*!******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/views/post/View.vue?vue&type=template&id=1b49cb78&scoped=true& ***!
+  \******************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("main", [
+      _c("div", { staticClass: "page-title-area" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-12" }, [
+              _c("div", { staticClass: "page-title text-center" }, [
+                _c("nav", { attrs: { "aria-label": "breadcrumb" } }, [
+                  _c(
+                    "ol",
+                    { staticClass: "breadcrumb justify-content-center" },
+                    [
+                      _c("li", { staticClass: "breadcrumb-item" }, [
+                        _c("a", { attrs: { href: "index.html" } }, [
+                          _vm._v("Home")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("li", { staticClass: "breadcrumb-item" }, [
+                        _c("a", { attrs: { href: "post-details.html#" } }, [
+                          _vm._v("Library")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        {
+                          staticClass: "breadcrumb-item active",
+                          attrs: { "aria-current": "page" }
+                        },
+                        [_vm._v(" About us")]
+                      )
+                    ]
+                  )
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("section", { staticClass: "post-details-area pt-60 pb-30" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-xl-8 col-lg-8" }, [
+              _c("div", { staticClass: "post-details" }, [
+                _c("h2", { staticClass: "details-title mb-15" }, [
+                  _vm._v(
+                    "Group continues to sell and market memberships to Premier\n                            country club despite."
+                  )
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "postbox__text-meta pb-30" }, [
+                  _c("ul", [
+                    _c("li", [
+                      _c("i", { staticClass: "far fa-user-circle" }),
+                      _vm._v(" "),
+                      _c("span", [_vm._v("Jonathon Doe")])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("i", { staticClass: "fas fa-calendar-alt" }),
+                      _vm._v(" "),
+                      _c("span", [_vm._v("01 Sep 2018")])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("i", { staticClass: "far fa-comment" }),
+                      _vm._v(" "),
+                      _c("span", [_vm._v("(03)")])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "share-post-link mb-30" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "facebook",
+                      attrs: { href: "post-details.html#" }
+                    },
+                    [_c("i", { staticClass: "fab fa-facebook-f" })]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "twitter",
+                      attrs: { href: "post-details.html#" }
+                    },
+                    [_c("i", { staticClass: "fab fa-twitter" })]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "instagram",
+                      attrs: { href: "post-details.html#" }
+                    },
+                    [_c("i", { staticClass: "fab fa-instagram" })]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "dribbble",
+                      attrs: { href: "post-details.html#" }
+                    },
+                    [_c("i", { staticClass: "fab fa-dribbble" })]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "pinterest",
+                      attrs: { href: "post-details.html#" }
+                    },
+                    [_c("i", { staticClass: "fab fa-pinterest-p" })]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "google-plus",
+                      attrs: { href: "post-details.html#" }
+                    },
+                    [_c("i", { staticClass: "fab fa-google-plus-g" })]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "pinterest",
+                      attrs: { href: "post-details.html#" }
+                    },
+                    [_c("i", { staticClass: "fab fa-pinterest-p" })]
+                  )
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post-thumb mb-25" }, [
+                  _c("img", {
+                    attrs: { src: "/img/details/post.jpg", alt: "" }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post-content" }, [
+                  _c("p", [
+                    _vm._v(
+                      "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt\n                                mollit anim id est Cura tbitur pretium\n                                tincidunt lacus. Nulla gravida orci a odio. Nullam varius turpis et commodo pharetra\n                                es ero biben dum elit nec luctus magna\n                                felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus\n                                erisus vulputate vehicula. Donec lobortis\n                                risus a elit. Etiam tempor. Ut ullamcorper ligula eu tempor congue eros est euismod\n                                turpis id tincidunt sapien risus."
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("blockquote", [
+                    _c("p", [
+                      _vm._v(
+                        "This is a simple example of a styled blockquote. A blockquote tag typically\n                                    specifies a section that is quoted from another\n                                    source of some sort, or highlighting text in your post."
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("footer", [_vm._v("Salim Rana")])
+                  ]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _vm._v(
+                      "But I must explain to you how all this mistaken idea of denouncing pleasure and\n                                praising pain was born and I will give you\n                                a complete account of the system, and expound the actual teachings of the great\n                                explorer of the truth, the master-builder\n                                of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it\n                                is pleasure, but because those who do\n                                not know how to pursue pleasure rationally encounter consequences that are extremely\n                                painful. Nor again is there anyone who\n                                loves or pursues or desires to obtain pain of itself, because it is pain, but\n                                because occasionally circumstances occur in\n                                which toil and pain can procure him some great pleasure. To take a trivial example,\n                                which of us ever undertakes laborious\n                                physical exercise, except to obtain some advantage from it? But who has any right to\n                                find fault with a man who chooses to\n                                enjoy a pleasure that has no annoying consequences, or one who avoids a pain that\n                                produces no resultant pleasure"
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "inner-post mb-20 mt-20" }, [
+                    _c("img", {
+                      attrs: { src: "/img/details/post-2.jpg", alt: "" }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _vm._v(
+                      "Gathering great you’ll it. Light all may. Wherein two they’re cattle night called\n                                likeness upon. Hath days he yielding whales\n                                morning to creature. Two Seasons second saying let third fourth tree doesn’t stars\n                                divide. They’re can’t fruitful is sea\n                                over that unto created days. To. Beginning don’t it second. Isn’t give earth created\n                                waters thing void, third."
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _vm._v(
+                      "Open likeness creepeth created he male behold that wherein wherein earth seas\n                                multiply from living two fruit together. Lesser\n                                firmament upon blessed dry sixth two signs living created abundantly replenish\n                                created. Fowl female appear also. Under unto\n                                was evening which gathered fourth sixth. Bearing have dominion set divide moved Kind\n                                very fruitful stars behold."
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "content__tags mt-30" }, [
+                  _c("span", [_vm._v("Post Tags:")]),
+                  _vm._v(" "),
+                  _c("span", { staticClass: "content__tags-list" }, [
+                    _c("a", { attrs: { href: "post-details.html#0" } }, [
+                      _vm._v("orci")
+                    ]),
+                    _vm._v(" "),
+                    _c("a", { attrs: { href: "post-details.html#0" } }, [
+                      _vm._v("lectus")
+                    ]),
+                    _vm._v(" "),
+                    _c("a", { attrs: { href: "post-details.html#0" } }, [
+                      _vm._v("varius")
+                    ]),
+                    _vm._v(" "),
+                    _c("a", { attrs: { href: "post-details.html#0" } }, [
+                      _vm._v("turpis")
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "author-meta  mt-60" }, [
+                  _c("div", { staticClass: "media flex-column flex-md-row" }, [
+                    _c("div", { staticClass: "media-left" }, [
+                      _c("a", { attrs: { href: "post-details.html#" } }, [
+                        _c("img", {
+                          attrs: { src: "/img/user/user-03.jpg", alt: "" }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "media-body" }, [
+                      _c("span", { staticClass: "media-heading" }, [
+                        _c("a", { attrs: { href: "post-details.html#" } }, [
+                          _vm._v("Richard")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("p", [
+                        _vm._v(
+                          "\n                                        Lorem ipsum dolor sit amet, consectetur adipi sicing elit, sed do eiu smod\n                                        tempor ut laboredolore magna aliqua. Ut enim ad\n                                        minim doing veniam, quis nostrud exerci tation ullamco laboris nisi. "
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "social" }, [
+                        _c(
+                          "a",
+                          {
+                            attrs: {
+                              href: "https://www.facebook.com/",
+                              target: "_blank"
+                            }
+                          },
+                          [_c("i", { staticClass: "fab fa-facebook-f" })]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "a",
+                          {
+                            attrs: {
+                              href: "https://twitter.com/",
+                              target: "_blank"
+                            }
+                          },
+                          [_c("i", { staticClass: "fab fa-twitter" })]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "a",
+                          {
+                            attrs: {
+                              href: "https://plus.google.com/discover",
+                              target: "_blank"
+                            }
+                          },
+                          [_c("i", { staticClass: "fab fa-google-plus-g" })]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "a",
+                          {
+                            attrs: {
+                              href: "https://www.instagram.com/",
+                              target: "_blank"
+                            }
+                          },
+                          [_c("i", { staticClass: "fab fa-linkedin-in" })]
+                        )
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "s-content__pagenav mt-60" }, [
+                  _c("div", { staticClass: "s-content__nav" }, [
+                    _c("div", { staticClass: "row" }, [
+                      _c("div", { staticClass: "col-md-6" }, [
+                        _c("div", { staticClass: "s-content__prev mb-30" }, [
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "post-details.html#0",
+                                rel: "prev"
+                              }
+                            },
+                            [
+                              _c("span", [_vm._v("Previous Post")]),
+                              _vm._v(
+                                "\n                                                Farmers plead for bullets to put down emaciated stock\n                                            "
+                              )
+                            ]
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "col-md-6" }, [
+                        _c(
+                          "div",
+                          {
+                            staticClass:
+                              "s-content__next mb-30 text-left text-md-right"
+                          },
+                          [
+                            _c(
+                              "a",
+                              {
+                                attrs: {
+                                  href: "post-details.html#0",
+                                  rel: "next"
+                                }
+                              },
+                              [
+                                _c("span", [_vm._v("Next Post")]),
+                                _vm._v(
+                                  "\n                                                Nahan downplays Liberal lership tensions after white ant\n                                            "
+                                )
+                              ]
+                            )
+                          ]
+                        )
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "also-like mt-30" }, [
+                  _c("div", { staticClass: "section-title mb-30" }, [
+                    _c("h2", [_vm._v("You may also like")])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "row" }, [
+                    _c("div", { staticClass: "col-lg-4 col-md-4" }, [
+                      _c("div", { staticClass: "postbox mb-30" }, [
+                        _c("div", { staticClass: "postbox__thumb" }, [
+                          _c("a", { attrs: { href: "post-details.html#" } }, [
+                            _c("img", {
+                              staticClass: "img-100",
+                              attrs: {
+                                src: "/img/trendy/sm1.jpg",
+                                alt: "hero image"
+                              }
+                            })
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "postbox__text pt-10" }, [
+                          _c(
+                            "div",
+                            { staticClass: "postbox__text-meta pb-10" },
+                            [
+                              _c("ul", [
+                                _c("li", [
+                                  _c("i", {
+                                    staticClass: "fas fa-calendar-alt"
+                                  }),
+                                  _vm._v(" "),
+                                  _c("span", [_vm._v("01 Sep 2018")])
+                                ]),
+                                _vm._v(" "),
+                                _c("li", [
+                                  _c("i", { staticClass: "far fa-comment" }),
+                                  _vm._v(" "),
+                                  _c("span", [_vm._v("(03)")])
+                                ])
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c("h4", { staticClass: "pr-0" }, [
+                            _c("a", { attrs: { href: "post-details.html#" } }, [
+                              _vm._v(
+                                "Paul Manafort’s Accountant Testifies\n                                                    She Helped Alter Financial"
+                              )
+                            ])
+                          ])
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "col-lg-4 col-md-4" }, [
+                      _c("div", { staticClass: "postbox mb-30" }, [
+                        _c("div", { staticClass: "postbox__thumb" }, [
+                          _c("a", { attrs: { href: "post-details.html#" } }, [
+                            _c("img", {
+                              staticClass: "img-100",
+                              attrs: {
+                                src: "/img/trendy/sm2.jpg",
+                                alt: "hero image"
+                              }
+                            })
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "postbox__text pt-10" }, [
+                          _c(
+                            "div",
+                            { staticClass: "postbox__text-meta pb-10" },
+                            [
+                              _c("ul", [
+                                _c("li", [
+                                  _c("i", {
+                                    staticClass: "fas fa-calendar-alt"
+                                  }),
+                                  _vm._v(" "),
+                                  _c("span", [_vm._v("01 Sep 2018")])
+                                ]),
+                                _vm._v(" "),
+                                _c("li", [
+                                  _c("i", { staticClass: "far fa-comment" }),
+                                  _vm._v(" "),
+                                  _c("span", [_vm._v("(03)")])
+                                ])
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c("h4", { staticClass: "pr-0" }, [
+                            _c("a", { attrs: { href: "post-details.html#" } }, [
+                              _vm._v(
+                                "Paul Manafort’s Accountant Testifies\n                                                    She Helped Alter Financial"
+                              )
+                            ])
+                          ])
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "col-lg-4 col-md-4" }, [
+                      _c("div", { staticClass: "postbox mb-30" }, [
+                        _c("div", { staticClass: "postbox__thumb" }, [
+                          _c("a", { attrs: { href: "post-details.html#" } }, [
+                            _c("img", {
+                              staticClass: "img-100",
+                              attrs: {
+                                src: "/img/trendy/sm3.jpg",
+                                alt: "hero image"
+                              }
+                            })
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "postbox__text pt-10" }, [
+                          _c(
+                            "div",
+                            { staticClass: "postbox__text-meta pb-10" },
+                            [
+                              _c("ul", [
+                                _c("li", [
+                                  _c("i", {
+                                    staticClass: "fas fa-calendar-alt"
+                                  }),
+                                  _vm._v(" "),
+                                  _c("span", [_vm._v("01 Sep 2018")])
+                                ]),
+                                _vm._v(" "),
+                                _c("li", [
+                                  _c("i", { staticClass: "far fa-comment" }),
+                                  _vm._v(" "),
+                                  _c("span", [_vm._v("(03)")])
+                                ])
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c("h4", { staticClass: "pr-0" }, [
+                            _c("a", { attrs: { href: "post-details.html#" } }, [
+                              _vm._v(
+                                "Paul Manafort’s Accountant Testifies\n                                                    She Helped Alter Financial"
+                              )
+                            ])
+                          ])
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post-comments mt-30" }, [
+                  _c("div", { staticClass: "section-title mb-30" }, [
+                    _c("h2", [_vm._v("Recent Comments")])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "latest-comments" }, [
+                    _c("ul", [
+                      _c("li", [
+                        _c("div", { staticClass: "comments-box" }, [
+                          _c("div", { staticClass: "comments-avatar" }, [
+                            _c("img", {
+                              attrs: { src: "/img/user/user-01.jpg", alt: "" }
+                            })
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "comments-text" }, [
+                            _c("div", { staticClass: "avatar-name" }, [
+                              _c("h5", [_vm._v("Omar Elnagar")]),
+                              _vm._v(" "),
+                              _c("span", [
+                                _vm._v("September 13, 2018 at 10:38 AM")
+                              ])
+                            ]),
+                            _vm._v(" "),
+                            _c("p", [
+                              _vm._v(
+                                "They call him Flipper Flipper faster than lightning. No one you\n                                                    see is smarter than he. They call\n                                                    him Flipper Flipper the faster than lightning. No one you see is\n                                                    smarter than he"
+                              )
+                            ]),
+                            _vm._v(" "),
+                            _c("a", { attrs: { href: "post-details.html#" } }, [
+                              _c("i", { staticClass: "fas fa-reply-all" }),
+                              _vm._v(" Reply")
+                            ])
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("ul", { staticClass: "comments-reply" }, [
+                          _c("li", [
+                            _c("div", { staticClass: "comments-box" }, [
+                              _c("div", { staticClass: "comments-avatar" }, [
+                                _c("img", {
+                                  attrs: {
+                                    src: "/img/user/user-02.jpg",
+                                    alt: ""
+                                  }
+                                })
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "comments-text" }, [
+                                _c("div", { staticClass: "avatar-name" }, [
+                                  _c("h5", [_vm._v("Omar Elnagar")]),
+                                  _vm._v(" "),
+                                  _c("span", [
+                                    _vm._v("September 13, 2018 at 10:38 AM")
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("p", [
+                                  _vm._v(
+                                    "They call him Flipper Flipper faster than lightning. No\n                                                            one you see is smarter than he. They\n                                                            call him Flipper Flipper the faster than lightning. No\n                                                            one you see is smarter than he"
+                                  )
+                                ]),
+                                _vm._v(" "),
+                                _c(
+                                  "a",
+                                  { attrs: { href: "post-details.html#" } },
+                                  [
+                                    _c("i", {
+                                      staticClass: "fas fa-reply-all"
+                                    }),
+                                    _vm._v(" Reply")
+                                  ]
+                                )
+                              ])
+                            ])
+                          ])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("li", [
+                        _c("div", { staticClass: "comments-box" }, [
+                          _c("div", { staticClass: "comments-avatar" }, [
+                            _c("img", {
+                              attrs: { src: "/img/user/user-05.jpg", alt: "" }
+                            })
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "comments-text" }, [
+                            _c("div", { staticClass: "avatar-name" }, [
+                              _c("h5", [_vm._v("Omar Elnagar")]),
+                              _vm._v(" "),
+                              _c("span", [
+                                _vm._v("September 13, 2018 at 10:38 AM")
+                              ])
+                            ]),
+                            _vm._v(" "),
+                            _c("p", [
+                              _vm._v(
+                                "They call him Flipper Flipper faster than lightning. No one you\n                                                    see is smarter than he. They call\n                                                    him Flipper Flipper the faster than lightning. No one you see is\n                                                    smarter than he"
+                              )
+                            ]),
+                            _vm._v(" "),
+                            _c("a", { attrs: { href: "post-details.html#" } }, [
+                              _c("i", { staticClass: "fas fa-reply-all" }),
+                              _vm._v(" Reply")
+                            ])
+                          ])
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post-comments-form mt-40 mb-40" }, [
+                  _c("div", { staticClass: "section-title mb-30" }, [
+                    _c("h2", [_vm._v("Recent Comments")])
+                  ]),
+                  _vm._v(" "),
+                  _c("form", { attrs: { action: "post-details.html#" } }, [
+                    _c("div", { staticClass: "row" }, [
+                      _c("div", { staticClass: "col-xl-6" }, [
+                        _c("input", {
+                          attrs: { type: "text", placeholder: "Your Name" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "col-xl-6" }, [
+                        _c("input", {
+                          attrs: { type: "text", placeholder: "Your Email" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "col-xl-12" }, [
+                        _c("textarea", {
+                          attrs: {
+                            name: "comments",
+                            id: "comments",
+                            cols: "30",
+                            rows: "10",
+                            placeholder: "Your Comments"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c(
+                          "button",
+                          {
+                            staticClass: "btn brand-btn",
+                            attrs: { type: "submit" }
+                          },
+                          [_vm._v("Send message")]
+                        )
+                      ])
+                    ])
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-xl-4 col-lg-4" }, [
+              _c("div", { staticClass: "widget mb-40" }, [
+                _c("a", { attrs: { href: "post-details.html#" } }, [
+                  _c("img", {
+                    attrs: { src: "/img/add/add-sidebar.jpg", alt: "" }
+                  })
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "widget widget-border mb-40" }, [
+                _c("h3", { staticClass: "widget-title" }, [
+                  _vm._v("Popular posts")
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post__small mb-30" }, [
+                  _c("div", { staticClass: "post__small-thumb f-left" }, [
+                    _c("a", { attrs: { href: "post-details.html#" } }, [
+                      _c("img", {
+                        attrs: {
+                          src: "/img/trendy/xs/xs-1.jpg",
+                          alt: "hero image"
+                        }
+                      })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                    _c("span", { staticClass: "sm-cat" }, [
+                      _c("a", { attrs: { href: "post-details.html#" } }, [
+                        _vm._v("Fashion")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", { staticClass: "title-13 pr-0" }, [
+                      _c("a", { attrs: { href: "post-details.html#" } }, [
+                        _vm._v(
+                          "Husar asks expenses authority to entitlements after\n                                        Bruno"
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "post__small-text-meta" }, [
+                      _c("ul", [
+                        _c("li", [
+                          _c("i", { staticClass: "fas fa-calendar-alt" }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("01 Sep 2018")])
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post__small mb-30" }, [
+                  _c("div", { staticClass: "post__small-thumb f-left" }, [
+                    _c("a", { attrs: { href: "post-details.html#" } }, [
+                      _c("img", {
+                        attrs: {
+                          src: "/img/trendy/xs/xs-2.jpg",
+                          alt: "hero image"
+                        }
+                      })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                    _c("span", { staticClass: "sm-cat" }, [
+                      _c("a", { attrs: { href: "post-details.html#" } }, [
+                        _vm._v("Fashion")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", { staticClass: "title-13 pr-0" }, [
+                      _c("a", { attrs: { href: "post-details.html#" } }, [
+                        _vm._v(
+                          "Researchers claim majo throug in the fight to cure\n                                        fibrosis"
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "post__small-text-meta" }, [
+                      _c("ul", [
+                        _c("li", [
+                          _c("i", { staticClass: "fas fa-calendar-alt" }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("01 Sep 2018")])
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post__small mb-30" }, [
+                  _c("div", { staticClass: "post__small-thumb f-left" }, [
+                    _c("a", { attrs: { href: "post-details.html#" } }, [
+                      _c("img", {
+                        attrs: {
+                          src: "/img/trendy/xs/xs-3.jpg",
+                          alt: "hero image"
+                        }
+                      })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                    _c("span", { staticClass: "sm-cat" }, [
+                      _c("a", { attrs: { href: "post-details.html#" } }, [
+                        _vm._v("Fashion")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", { staticClass: "title-13 pr-0" }, [
+                      _c("a", { attrs: { href: "post-details.html#" } }, [
+                        _vm._v(
+                          "Nahan downplays Liberal lership tensions after\n                                        white ant"
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "post__small-text-meta" }, [
+                      _c("ul", [
+                        _c("li", [
+                          _c("i", { staticClass: "fas fa-calendar-alt" }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("01 Sep 2018")])
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "post__small" }, [
+                  _c("div", { staticClass: "post__small-thumb f-left" }, [
+                    _c("a", { attrs: { href: "post-details.html#" } }, [
+                      _c("img", {
+                        attrs: {
+                          src: "/img/trendy/xs/xs-4.jpg",
+                          alt: "hero image"
+                        }
+                      })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "post__small-text fix pl-10" }, [
+                    _c("span", { staticClass: "sm-cat" }, [
+                      _c("a", { attrs: { href: "post-details.html#" } }, [
+                        _vm._v("Travel")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", { staticClass: "title-13 pr-0" }, [
+                      _c("a", { attrs: { href: "post-details.html#" } }, [
+                        _vm._v(
+                          "Farmers plead for bullets to put down emaciated\n                                        stock"
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "post__small-text-meta" }, [
+                      _c("ul", [
+                        _c("li", [
+                          _c("i", { staticClass: "fas fa-calendar-alt" }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("01 Sep 2018")])
+                        ])
+                      ])
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "widget widget-border mb-40" }, [
+                _c("h3", { staticClass: "widget-title" }, [
+                  _vm._v("Categories")
+                ]),
+                _vm._v(" "),
+                _c("ul", [
+                  _c("li", [
+                    _c("a", { attrs: { href: "post-details.html#" } }, [
+                      _vm._v("Business "),
+                      _c("span", [_vm._v("02")])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "post-details.html#" } }, [
+                      _vm._v("Politic "),
+                      _c("span", [_vm._v("05")])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "post-details.html#" } }, [
+                      _vm._v("Fashion "),
+                      _c("span", [_vm._v("01")])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "post-details.html#" } }, [
+                      _vm._v("Corporate "),
+                      _c("span", [_vm._v("03")])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "post-details.html#" } }, [
+                      _vm._v("Football "),
+                      _c("span", [_vm._v("07")])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "post-details.html#" } }, [
+                      _vm._v("Magazine "),
+                      _c("span", [_vm._v("06")])
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "widget widget-border mb-40" }, [
+                _c("h3", { staticClass: "widget-title" }, [
+                  _vm._v("Subscribe our Newsletter!")
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "Subscribe to our email newsletter to receive useful articles and special offers."
+                  )
+                ]),
+                _vm._v(" "),
+                _c(
+                  "form",
+                  {
+                    staticClass: "widget-subscribe",
+                    attrs: { action: "post-details.html#" }
+                  },
+                  [
+                    _c("input", {
+                      attrs: {
+                        type: "email",
+                        placeholder: "Enter your email :"
+                      }
+                    }),
+                    _vm._v(" "),
+                    _c("button", { staticClass: "btn" }, [_vm._v("subscribe")])
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "widget widget-border mb-40" }, [
+                _c("h3", { staticClass: "widget-title" }, [
+                  _vm._v("Most visited")
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "postbox" }, [
+                  _c("div", { staticClass: "postbox__thumb" }, [
+                    _c("a", { attrs: { href: "post-details.html#" } }, [
+                      _c("img", {
+                        attrs: {
+                          src: "/img/details/sidebar-post.jpg",
+                          alt: "hero image"
+                        }
+                      })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "postbox__text pt-15" }, [
+                    _c("div", { staticClass: "postbox__text-meta pb-10" }, [
+                      _c("ul", [
+                        _c("li", [
+                          _c("i", { staticClass: "fas fa-calendar-alt" }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("01 Sep 2018")])
+                        ]),
+                        _vm._v(" "),
+                        _c("li", [
+                          _c("i", { staticClass: "far fa-comment" }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("(03)")])
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", { staticClass: "title-16 pr-0" }, [
+                      _c("a", { attrs: { href: "post-details.html#" } }, [
+                        _vm._v(
+                          "Paul Manafort’s Accountant Testifies She Helped\n                                        Alter Financial Documents"
+                        )
+                      ])
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "widget widget-border mb-40" }, [
+                _c("h3", { staticClass: "widget-title" }, [
+                  _vm._v("Popular Tags")
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "tagcloud" }, [
+                  _c("a", { attrs: { href: "post-details.html#" } }, [
+                    _vm._v("Fashion")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "post-details.html#" } }, [
+                    _vm._v("Politic")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "post-details.html#" } }, [
+                    _vm._v("Modern")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "post-details.html#" } }, [
+                    _vm._v("Tips")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "post-details.html#" } }, [
+                    _vm._v("Nav")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "post-details.html#" } }, [
+                    _vm._v("Jason")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "post-details.html#" } }, [
+                    _vm._v("Roster")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "post-details.html#" } }, [
+                    _vm._v("Boat")
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -55775,6 +62736,75 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/components/fragments/Slider.vue":
+/*!******************************************************!*\
+  !*** ./resources/js/components/fragments/Slider.vue ***!
+  \******************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Slider_vue_vue_type_template_id_282c6038_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Slider.vue?vue&type=template&id=282c6038&scoped=true& */ "./resources/js/components/fragments/Slider.vue?vue&type=template&id=282c6038&scoped=true&");
+/* harmony import */ var _Slider_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Slider.vue?vue&type=script&lang=js& */ "./resources/js/components/fragments/Slider.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Slider_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Slider_vue_vue_type_template_id_282c6038_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Slider_vue_vue_type_template_id_282c6038_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  "282c6038",
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/fragments/Slider.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/fragments/Slider.vue?vue&type=script&lang=js&":
+/*!*******************************************************************************!*\
+  !*** ./resources/js/components/fragments/Slider.vue?vue&type=script&lang=js& ***!
+  \*******************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Slider_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib??ref--4-0!../../../../node_modules/vue-loader/lib??vue-loader-options!./Slider.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/fragments/Slider.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Slider_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/fragments/Slider.vue?vue&type=template&id=282c6038&scoped=true&":
+/*!*************************************************************************************************!*\
+  !*** ./resources/js/components/fragments/Slider.vue?vue&type=template&id=282c6038&scoped=true& ***!
+  \*************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Slider_vue_vue_type_template_id_282c6038_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/vue-loader/lib??vue-loader-options!./Slider.vue?vue&type=template&id=282c6038&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/fragments/Slider.vue?vue&type=template&id=282c6038&scoped=true&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Slider_vue_vue_type_template_id_282c6038_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Slider_vue_vue_type_template_id_282c6038_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
 /***/ "./resources/js/components/views/category/Index.vue":
 /*!**********************************************************!*\
   !*** ./resources/js/components/views/category/Index.vue ***!
@@ -56046,6 +63076,75 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Popular_vue_vue_type_template_id_07cada56_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Popular_vue_vue_type_template_id_07cada56_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/views/post/View.vue":
+/*!*****************************************************!*\
+  !*** ./resources/js/components/views/post/View.vue ***!
+  \*****************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _View_vue_vue_type_template_id_1b49cb78_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./View.vue?vue&type=template&id=1b49cb78&scoped=true& */ "./resources/js/components/views/post/View.vue?vue&type=template&id=1b49cb78&scoped=true&");
+/* harmony import */ var _View_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./View.vue?vue&type=script&lang=js& */ "./resources/js/components/views/post/View.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _View_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _View_vue_vue_type_template_id_1b49cb78_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _View_vue_vue_type_template_id_1b49cb78_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  "1b49cb78",
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/views/post/View.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/views/post/View.vue?vue&type=script&lang=js&":
+/*!******************************************************************************!*\
+  !*** ./resources/js/components/views/post/View.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_View_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./View.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/views/post/View.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_View_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/views/post/View.vue?vue&type=template&id=1b49cb78&scoped=true&":
+/*!************************************************************************************************!*\
+  !*** ./resources/js/components/views/post/View.vue?vue&type=template&id=1b49cb78&scoped=true& ***!
+  \************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_View_vue_vue_type_template_id_1b49cb78_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./View.vue?vue&type=template&id=1b49cb78&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/views/post/View.vue?vue&type=template&id=1b49cb78&scoped=true&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_View_vue_vue_type_template_id_1b49cb78_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_View_vue_vue_type_template_id_1b49cb78_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 
@@ -56347,9 +63446,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_views_post_News__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./components/views/post/News */ "./resources/js/components/views/post/News.vue");
 /* harmony import */ var _components_views_static_JoinUs__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./components/views/static/JoinUs */ "./resources/js/components/views/static/JoinUs.vue");
 /* harmony import */ var _components_views_static_Advertisement__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./components/views/static/Advertisement */ "./resources/js/components/views/static/Advertisement.vue");
+/* harmony import */ var _components_views_post_View__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./components/views/post/View */ "./resources/js/components/views/post/View.vue");
 
 
 vue__WEBPACK_IMPORTED_MODULE_1___default.a.use(vue_router__WEBPACK_IMPORTED_MODULE_0__["default"]);
+
 
 
 
@@ -56385,6 +63486,9 @@ var routes = [{
 }, {
   path: "/contacts",
   component: _components_views_static_Contacts__WEBPACK_IMPORTED_MODULE_3__["default"]
+}, {
+  path: "/post/:name",
+  component: _components_views_post_View__WEBPACK_IMPORTED_MODULE_10__["default"]
 }];
 /* harmony default export */ __webpack_exports__["default"] = (new vue_router__WEBPACK_IMPORTED_MODULE_0__["default"]({
   mode: "history",

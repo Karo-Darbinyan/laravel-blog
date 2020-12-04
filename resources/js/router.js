@@ -11,6 +11,7 @@ import Popular from "./components/views/post/Popular";
 import News from "./components/views/post/News";
 import JoinUs from "./components/views/static/JoinUs";
 import Advertisement from "./components/views/static/Advertisement";
+import View from "./components/views/post/View";
 
 const routes = [
     {path: "/", component: Index},
@@ -21,7 +22,8 @@ const routes = [
     {path: "/join-us", component: JoinUs},
     {path: "/advertisement", component: Advertisement},
     {path: "/categories", component: Index},
-    {path: "/contacts", component: Contacts}
+    {path: "/contacts", component: Contacts},
+    {path: "/post/:name", component: View}
 ];
 
 export default new VueRouter({

@@ -1,575 +1,1215 @@
 <template>
-
-    <div>
-        <h1>/</h1>
-        <!-- section -->
-        <div class="section">
-            <!-- container -->
+    <main>
+        <slider></slider>
+        <!-- features-area start -->
+        <section class="features-area pt-60 pb-30">
             <div class="container">
-                <!-- row -->
                 <div class="row">
-                    <!-- post -->
-                    <div class="col-md-6">
-                        <div class="post post-thumb">
-                            <a class="post-img" href="blog-post.html"><img src="img/post-1.jpg" alt=""></a>
-                            <div class="post-body">
-                                <div class="post-meta">
-                                    <a class="post-category cat-2" href="category.html">JavaScript</a>
-                                    <span class="post-date">March 27, 2018</span>
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="post__features mb-30">
+                            <div class="post__features-thumb" data-opacity="4" data-overlay="dark">
+                                <a href="index-2.html#"><img class="img-100" src="img/features/fea1.jpg" alt=""></a>
+                            </div>
+                            <div class="post__features-content">
+                                <h4><a href="index-2.html#">8 Month old rocks out as one man band in music</a></h4>
+                                <div class="post__features-author">
+                                    <span>Michel Delax</span>
                                 </div>
-                                <h3 class="post-title"><a href="blog-post.html">Chrome Extension Protects Against
-                                    JavaScript-Based CPU Side-Channel Attacks</a></h3>
                             </div>
                         </div>
                     </div>
-                    <!-- /post -->
-
-                    <!-- post -->
-                    <div class="col-md-6">
-                        <div class="post post-thumb">
-                            <a class="post-img" href="blog-post.html"><img src="img/post-2.jpg" alt=""></a>
-                            <div class="post-body">
-                                <div class="post-meta">
-                                    <a class="post-category cat-3" href="category.html">Jquery</a>
-                                    <span class="post-date">March 27, 2018</span>
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="post__features mb-30">
+                            <div class="post__features-thumb" data-opacity="4" data-overlay="dark">
+                                <a href="index-2.html#"><img class="img-100" src="img/features/fea2.jpg" alt=""></a>
+                            </div>
+                            <div class="post__features-content">
+                                <h4><a href="index-2.html#">Discover the world look and the world fresh nature</a></h4>
+                                <div class="post__features-author">
+                                    <span>Michel Delax</span>
                                 </div>
-                                <h3 class="post-title"><a href="blog-post.html">Ask HN: Does Anybody Still Use JQuery?</a>
-                                </h3>
                             </div>
                         </div>
                     </div>
-                    <!-- /post -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="post__features mb-30">
+                            <div class="post__features-thumb" data-opacity="4" data-overlay="dark">
+                                <a href="index-2.html#"><img class="img-100" src="img/features/fea3.jpg" alt=""></a>
+                            </div>
+                            <div class="post__features-content">
+                                <h4><a href="index-2.html#">The wave that’s building for not be blue so much</a></h4>
+                                <div class="post__features-author">
+                                    <span>Michel Delax</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 d-lg-none d-xl-block">
+                        <div class="post__features mb-30">
+                            <div class="post__features-thumb" data-opacity="4" data-overlay="dark">
+                                <a href="index-2.html#"><img class="img-100" src="img/features/fea4.jpg" alt=""></a>
+                            </div>
+                            <div class="post__features-content">
+                                <h4><a href="index-2.html#">AgoHorse-riding could impro your child’s intelligence</a>
+                                </h4>
+                                <div class="post__features-author">
+                                    <span>Michel Delax</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <!-- /row -->
+            </div>
+        </section>
+        <!-- features-area start end -->
 
-                <!-- row -->
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="section-title">
-                            <h2>Recent Posts</h2>
-                        </div>
-                    </div>
-
-                    <!-- post -->
-                    <div class="col-md-4">
-                        <div class="post">
-                            <a class="post-img" href="blog-post.html"><img src="img/post-3.jpg" alt=""></a>
-                            <div class="post-body">
-                                <div class="post-meta">
-                                    <a class="post-category cat-1" href="category.html">Web Design</a>
-                                    <span class="post-date">March 27, 2018</span>
+        <!-- features news -->
+        <section class="features-area pb-30">
+            <div class="container">
+                <div class="content-pad border pb-0">
+                    <div class="row">
+                        <div class="col-xl-3 col-lg-4 col-md-6">
+                            <div class="postbox mb-25">
+                                <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                    <a href="index-2.html#">
+                                        <img src="img/features/fea2/img1.jpg" alt="hero image">
+                                    </a>
                                 </div>
-                                <h3 class="post-title"><a href="blog-post.html">Pagedraw UI Builder Turns Your Website
-                                    Design Mockup Into Code Automatically</a></h3>
+                                <div class="postbox__text pt-20">
+                                    <div class="meta-top">
+                                            <span class="post-cat mb-10 mr-10">
+                                                <a href="index-2.html#" tabindex="0">politics</a>
+                                            </span>
+                                        <span><i class="fas fa-calendar-alt"></i> 01 Sep 2018</span>
+                                    </div>
+                                    <h4 class="title-16 pr-0">
+                                        <a href="index-2.html#">Hamels solid in debut as Cubs throttle Pirates 9-2</a>
+                                    </h4>
+                                    <div class="postbox__text-meta pb-10">
+                                        <ul>
+                                            <li>
+                                                <span>By Adrian M. Romero</span>
+                                            </li>
+                                            <li>
+                                                <span>Comments (05)</span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-md-6">
+                            <div class="postbox mb-25">
+                                <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                    <a href="index-2.html#">
+                                        <img src="img/features/fea2/img2.jpg" alt="hero image">
+                                    </a>
+                                </div>
+                                <div class="postbox__text pt-20">
+                                    <div class="meta-top">
+                                            <span class="post-cat mb-10 mr-10">
+                                                <a href="index-2.html#" tabindex="0">sports</a>
+                                            </span>
+                                        <span><i class="fas fa-calendar-alt"></i> 01 Sep 2018</span>
+                                    </div>
+                                    <h4 class="title-16 pr-0">
+                                        <a href="index-2.html#">Flight attendants Regulate temperatures planes</a>
+                                    </h4>
+                                    <div class="postbox__text-meta pb-10">
+                                        <ul>
+                                            <li>
+                                                <span>By Adrian M. Romero</span>
+                                            </li>
+                                            <li>
+                                                <span>Comments (05)</span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-md-6">
+                            <div class="postbox mb-25">
+                                <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                    <a href="index-2.html#">
+                                        <img src="img/features/fea2/img3.jpg" alt="hero image">
+                                    </a>
+                                </div>
+                                <div class="postbox__text pt-20">
+                                    <div class="meta-top">
+                                            <span class="post-cat mb-10 mr-10">
+                                                <a href="index-2.html#" tabindex="0">fashion</a>
+                                            </span>
+                                        <span><i class="fas fa-calendar-alt"></i> 01 Sep 2018</span>
+                                    </div>
+                                    <h4 class="title-16 pr-0">
+                                        <a href="index-2.html#">Aniston dishes sexism Friend reboot ideas</a>
+                                    </h4>
+                                    <div class="postbox__text-meta pb-10">
+                                        <ul>
+                                            <li>
+                                                <span>By Adrian M. Romero</span>
+                                            </li>
+                                            <li>
+                                                <span>Comments (05)</span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-6 col-md-6 d-lg-none d-xl-block">
+                            <div class="postbox mb-25">
+                                <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                    <a href="index-2.html#">
+                                        <img src="img/features/fea2/img4.jpg" alt="hero image">
+                                    </a>
+                                </div>
+                                <div class="postbox__text pt-20">
+                                    <div class="meta-top">
+                                            <span class="post-cat mb-10 mr-10">
+                                                <a href="index-2.html#" tabindex="0">travel</a>
+                                            </span>
+                                        <span><i class="fas fa-calendar-alt"></i> 01 Sep 2018</span>
+                                    </div>
+                                    <h4 class="title-16 pr-0">
+                                        <a href="index-2.html#">Killer of president cardiologis was a patient's son,</a>
+                                    </h4>
+                                    <div class="postbox__text-meta pb-10">
+                                        <ul>
+                                            <li>
+                                                <span>By Adrian M. Romero</span>
+                                            </li>
+                                            <li>
+                                                <span>Comments (05)</span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <!-- /post -->
-
-                    <!-- post -->
-                    <div class="col-md-4">
-                        <div class="post">
-                            <a class="post-img" href="blog-post.html"><img src="img/post-4.jpg" alt=""></a>
-                            <div class="post-body">
-                                <div class="post-meta">
-                                    <a class="post-category cat-2" href="category.html">JavaScript</a>
-                                    <span class="post-date">March 27, 2018</span>
-                                </div>
-                                <h3 class="post-title"><a href="blog-post.html">Chrome Extension Protects Against
-                                    JavaScript-Based CPU Side-Channel Attacks</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /post -->
-
-                    <!-- post -->
-                    <div class="col-md-4">
-                        <div class="post">
-                            <a class="post-img" href="blog-post.html"><img src="img/post-5.jpg" alt=""></a>
-                            <div class="post-body">
-                                <div class="post-meta">
-                                    <a class="post-category cat-3" href="category.html">Jquery</a>
-                                    <span class="post-date">March 27, 2018</span>
-                                </div>
-                                <h3 class="post-title"><a href="blog-post.html">Ask HN: Does Anybody Still Use JQuery?</a>
-                                </h3>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /post -->
-
-                    <div class="clearfix visible-md visible-lg"></div>
-
-                    <!-- post -->
-                    <div class="col-md-4">
-                        <div class="post">
-                            <a class="post-img" href="blog-post.html"><img src="img/post-6.jpg" alt=""></a>
-                            <div class="post-body">
-                                <div class="post-meta">
-                                    <a class="post-category cat-2" href="category.html">JavaScript</a>
-                                    <span class="post-date">March 27, 2018</span>
-                                </div>
-                                <h3 class="post-title"><a href="blog-post.html">Why Node.js Is The Coolest Kid On The
-                                    Backend Development Block!</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /post -->
-
-                    <!-- post -->
-                    <div class="col-md-4">
-                        <div class="post">
-                            <a class="post-img" href="blog-post.html"><img src="img/post-1.jpg" alt=""></a>
-                            <div class="post-body">
-                                <div class="post-meta">
-                                    <a class="post-category cat-4" href="category.html">Css</a>
-                                    <span class="post-date">March 27, 2018</span>
-                                </div>
-                                <h3 class="post-title"><a href="blog-post.html">CSS Float: A Tutorial</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /post -->
-
-                    <!-- post -->
-                    <div class="col-md-4">
-                        <div class="post">
-                            <a class="post-img" href="blog-post.html"><img src="img/post-2.jpg" alt=""></a>
-                            <div class="post-body">
-                                <div class="post-meta">
-                                    <a class="post-category cat-1" href="category.html">Web Design</a>
-                                    <span class="post-date">March 27, 2018</span>
-                                </div>
-                                <h3 class="post-title"><a href="blog-post.html">Tell-A-Tool: Guide To Web Design And
-                                    Development Tools</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /post -->
                 </div>
-                <!-- /row -->
+            </div>
+        </section>
+        <!-- features news end -->
 
-                <!-- row -->
+        <!-- latest news -->
+        <section class="sidebar-area pt-30 pb-30">
+            <div class="container">
                 <div class="row">
-                    <div class="col-md-8">
-                        <div class="row">
-                            <!-- post -->
-                            <div class="col-md-12">
-                                <div class="post post-thumb">
-                                    <a class="post-img" href="blog-post.html"><img src="img/post-2.jpg" alt=""></a>
-                                    <div class="post-body">
-                                        <div class="post-meta">
-                                            <a class="post-category cat-3" href="category.html">Jquery</a>
-                                            <span class="post-date">March 27, 2018</span>
+                    <div class="col-xl-8 col-lg-8">
+                        <div class="content-pad border pb-0 mb-50">
+                            <div class="row">
+                                <div class="col-xl-6 col-lg-4 col-md-5">
+                                    <div class="postbox mb-30">
+                                        <div class="postbox__thumb">
+                                            <a href="index-2.html#">
+                                                <img src="img/news2/ns1.jpg" alt="hero image">
+                                            </a>
                                         </div>
-                                        <h3 class="post-title"><a href="blog-post.html">Ask HN: Does Anybody Still Use
-                                            JQuery?</a></h3>
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-8 col-md-7">
+                                    <div class="postbox__text mb-30">
+                                        <div class="meta-top">
+                                                <span class="post-cat mb-10 mr-10">
+                                                    <a href="index-2.html#" tabindex="0">politics</a>
+                                                </span>
+                                            <span>
+                                                    <i class="fas fa-calendar-alt"></i> 01 Sep 2018</span>
+                                        </div>
+                                        <h4 class="title-16 pr-0">
+                                            <a href="index-2.html#">Succession finale: jeremy strong keall’s struggles
+                                                what comes next.</a>
+                                        </h4>
+                                        <div class="postbox__text-meta pb-10">
+                                            <ul>
+                                                <li>
+                                                    <i class="fas fa-calendar-alt"></i>
+                                                    <span>01 Sep 2018</span>
+                                                </li>
+                                                <li>
+                                                    <i class="far fa-comment"></i>
+                                                    <span>(03)</span>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="desc-text mb-20">
+                                            <p>But I must explain to you how all this mistaken idea of denouncing sure
+                                                and praising pain
+                                                was born and I will give you a complete account.</p>
+                                        </div>
+                                        <a href="index-2.html#" class="btn btn-soft">read more</a>
                                     </div>
                                 </div>
                             </div>
-                            <!-- /post -->
-
-                            <!-- post -->
-                            <div class="col-md-6">
-                                <div class="post">
-                                    <a class="post-img" href="blog-post.html"><img src="img/post-1.jpg" alt=""></a>
-                                    <div class="post-body">
-                                        <div class="post-meta">
-                                            <a class="post-category cat-4" href="category.html">Css</a>
-                                            <span class="post-date">March 27, 2018</span>
+                            <div class="row">
+                                <div class="col-xl-6 col-lg-4 col-md-5">
+                                    <div class="postbox mb-30">
+                                        <div class="postbox__thumb">
+                                            <a href="index-2.html#">
+                                                <img src="img/news2/ns2.jpg" alt="hero image">
+                                            </a>
                                         </div>
-                                        <h3 class="post-title"><a href="blog-post.html">CSS Float: A Tutorial</a></h3>
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-8 col-md-7">
+                                    <div class="postbox__text mb-30">
+                                        <div class="meta-top">
+                                                <span class="post-cat mb-10 mr-10">
+                                                    <a href="index-2.html#" tabindex="0">politics</a>
+                                                </span>
+                                            <span>
+                                                    <i class="fas fa-calendar-alt"></i> 01 Sep 2018</span>
+                                        </div>
+                                        <h4 class="title-16 pr-0">
+                                            <a href="index-2.html#">Easter Island s limiting tourism in an there no
+                                                attempt to preserve its culture</a>
+                                        </h4>
+                                        <div class="postbox__text-meta pb-10">
+                                            <ul>
+                                                <li>
+                                                    <i class="fas fa-calendar-alt"></i>
+                                                    <span>01 Sep 2018</span>
+                                                </li>
+                                                <li>
+                                                    <i class="far fa-comment"></i>
+                                                    <span>(03)</span>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="desc-text mb-20">
+                                            <p>But I must explain to you how all this mistaken idea of denouncing sure
+                                                and praising pain
+                                                was born and I will give you a complete account.</p>
+                                        </div>
+                                        <a href="index-2.html#" class="btn btn-soft">read more</a>
                                     </div>
                                 </div>
                             </div>
-                            <!-- /post -->
+                        </div>
 
-                            <!-- post -->
-                            <div class="col-md-6">
-                                <div class="post">
-                                    <a class="post-img" href="blog-post.html"><img src="img/post-2.jpg" alt=""></a>
-                                    <div class="post-body">
-                                        <div class="post-meta">
-                                            <a class="post-category cat-1" href="category.html">Web Design</a>
-                                            <span class="post-date">March 27, 2018</span>
+                        <div class="content-pad border pb-0 mb-50">
+                            <div class="news-tab-area">
+                                <div class="news-tab-part grey-bg clearfix mb-30">
+                                    <div class="title-theme f-left">
+                                        <h2>latest news</h2>
+                                    </div>
+                                    <ul class="nav news-tabs f-right" id="myTab" role="tablist">
+                                        <li class="nav-item">
+                                            <a class="nav-link active" id="home-tab" data-toggle="tab"
+                                               href="index-2.html#home" role="tab" aria-controls="home"
+                                               aria-selected="true">science </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" id="profile-tab" data-toggle="tab"
+                                               href="index-2.html#profile" role="tab" aria-controls="profile"
+                                               aria-selected="false">travel</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" id="contact-tab" data-toggle="tab"
+                                               href="index-2.html#contact" role="tab" aria-controls="contact"
+                                               aria-selected="false">fashion</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="tab-content" id="myTabContent">
+                                    <div class="tab-pane fade show active" id="home" role="tabpanel"
+                                         aria-labelledby="home-tab">
+                                        <div class="row">
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab1.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">DNA-testing companies pro mise not
+                                                                to share informa</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab2.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">Urban Meyer faces questions about
+                                                                domestic viole...</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab3.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">Giant hands lift new Vietnan bridge
+                                                                toward heavens</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab4.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">'Mars' actor says working on the
+                                                                NatGeo series</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab5.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">Congrats! Because you live Dhaka can
+                                                                book these</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab6.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">Patriots release WR Jordan Matthews
+                                                                after significant</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
-                                        <h3 class="post-title"><a href="blog-post.html">Tell-A-Tool: Guide To Web Design And
-                                            Development Tools</a></h3>
+                                    </div>
+                                    <div class="tab-pane fade" id="profile" role="tabpanel"
+                                         aria-labelledby="profile-tab">
+                                        <div class="row">
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab6.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">Patriots release WR Jordan Matthews
+                                                                after significant</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab2.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">Urban Meyer faces questions about
+                                                                domestic viole...</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab1.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">DNA-testing companies pro mise not
+                                                                to share informa</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab3.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">Giant hands lift new Vietnan bridge
+                                                                toward heavens</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab5.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">Congrats! Because you live Dhaka can
+                                                                book these</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab4.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">'Mars' actor says working on the
+                                                                NatGeo series</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="contact" role="tabpanel"
+                                         aria-labelledby="contact-tab">
+                                        <div class="row">
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab2.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">Urban Meyer faces questions about
+                                                                domestic viole...</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab5.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">Congrats! Because you live Dhaka can
+                                                                book these</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab1.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">DNA-testing companies pro mise not
+                                                                to share informa</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab6.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">Patriots release WR Jordan Matthews
+                                                                after significant</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab3.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">Giant hands lift new Vietnan bridge
+                                                                toward heavens</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                                <div class="postbox mb-25">
+                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
+                                                        <a href="index-2.html#">
+                                                            <img src="img/news2/tab4.jpg" alt="hero image">
+                                                        </a>
+                                                    </div>
+                                                    <div class="postbox__text pt-15">
+                                                        <div class="postbox__text-meta pb-10">
+                                                            <ul>
+                                                                <li>
+                                                                    <i class="fas fa-calendar-alt"></i>
+                                                                    <span>01 Sep 2018</span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-comment"></i>
+                                                                    <span>(03)</span>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <h4 class="title-14 font-600 pr-0">
+                                                            <a href="index-2.html#">'Mars' actor says working on the
+                                                                NatGeo series</a>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <!-- /post -->
+                        </div>
 
-                            <div class="clearfix visible-md visible-lg"></div>
-
-                            <!-- post -->
-                            <div class="col-md-6">
-                                <div class="post">
-                                    <a class="post-img" href="blog-post.html"><img src="img/post-4.jpg" alt=""></a>
-                                    <div class="post-body">
-                                        <div class="post-meta">
-                                            <a class="post-category cat-2" href="category.html">JavaScript</a>
-                                            <span class="post-date">March 27, 2018</span>
+                        <div class="content-pad border pb-0 mb-50">
+                            <div class="video-box">
+                                <div class="row">
+                                    <div class="col-xl-6 col-lg-6 col-md-6">
+                                        <div class="single-video embed-responsive embed-responsive-16by9 mb-30">
+                                            <iframe src="https://www.youtube.com/embed/X58woEyyPAc"></iframe>
                                         </div>
-                                        <h3 class="post-title"><a href="blog-post.html">Chrome Extension Protects Against
-                                            JavaScript-Based CPU Side-Channel Attacks</a></h3>
+                                    </div>
+                                    <div class="col-xl-6 col-lg-6 col-md-6">
+                                        <div class="single-video embed-responsive embed-responsive-16by9 mb-30">
+                                            <iframe src="https://www.youtube.com/embed/DcylVx2ex78"></iframe>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6 col-lg-6 col-md-6">
+                                        <div class="single-video embed-responsive embed-responsive-16by9 mb-30">
+                                            <iframe src="https://www.youtube.com/embed/9d8wWcJLnFI"></iframe>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6 col-lg-6 col-md-6">
+                                        <div class="single-video embed-responsive embed-responsive-16by9 mb-30">
+                                            <iframe src="https://www.youtube.com/embed/GOAEIMx39-w"></iframe>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <!-- /post -->
+                        </div>
 
-                            <!-- post -->
-                            <div class="col-md-6">
-                                <div class="post">
-                                    <a class="post-img" href="blog-post.html"><img src="img/post-5.jpg" alt=""></a>
-                                    <div class="post-body">
-                                        <div class="post-meta">
-                                            <a class="post-category cat-3" href="category.html">Jquery</a>
-                                            <span class="post-date">March 27, 2018</span>
+                        <div class="content-pad border pb-0 mb-50">
+                            <div class="row">
+                                <div class="col-xl-6 col-lg-6 col-md-6">
+                                    <div class="section-title mb-30">
+                                        <h2>Science</h2>
+                                    </div>
+
+                                    <div class="cat-sm-post">
+                                        <div class="post__small mb-30">
+                                            <div class="post__small-thumb f-left">
+                                                <a href="index-2.html#">
+                                                    <img src="img/trendy/xs/xs-1.jpg" alt="hero image">
+                                                </a>
+                                            </div>
+                                            <div class="post__small-text fix pl-10">
+                                                <h4 class="title-14 pr-0 mt-0">
+                                                    <a href="index-2.html#">Hobots or Job Training: Mnutuers Grapple
+                                                        With How to Improve.</a>
+                                                </h4>
+                                                <div class="post__small-text-meta">
+                                                    <ul>
+                                                        <li>
+                                                            <i class="fas fa-calendar-alt"></i>
+                                                            <span>01 Sep 2018</span>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
                                         </div>
-                                        <h3 class="post-title"><a href="blog-post.html">Ask HN: Does Anybody Still Use
-                                            JQuery?</a></h3>
+                                        <div class="post__small mb-30">
+                                            <div class="post__small-thumb f-left">
+                                                <a href="index-2.html#">
+                                                    <img src="img/trendy/xs/xs-2.jpg" alt="hero image">
+                                                </a>
+                                            </div>
+                                            <div class="post__small-text fix pl-10">
+                                                <h4 class="title-14 pr-0 mt-0">
+                                                    <a href="index-2.html#">Robots or Job Training: Manutues Grapple
+                                                        With How to Improve..</a>
+                                                </h4>
+                                                <div class="post__small-text-meta">
+                                                    <ul>
+                                                        <li>
+                                                            <i class="fas fa-calendar-alt"></i>
+                                                            <span>01 Sep 2018</span>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="post__small mb-30">
+                                            <div class="post__small-thumb f-left">
+                                                <a href="index-2.html#">
+                                                    <img src="img/trendy/xs/xs-3.jpg" alt="hero image">
+                                                </a>
+                                            </div>
+                                            <div class="post__small-text fix pl-10">
+                                                <h4 class="title-14 pr-0 mt-0">
+                                                    <a href="index-2.html#">Robots or Job Training: Manutues Grapple
+                                                        With How to Improve..</a>
+                                                </h4>
+                                                <div class="post__small-text-meta">
+                                                    <ul>
+                                                        <li>
+                                                            <i class="fas fa-calendar-alt"></i>
+                                                            <span>01 Sep 2018</span>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6">
+                                    <div class="section-title mb-30">
+                                        <h2>Travel</h2>
+                                    </div>
+
+                                    <div class="cat-sm-post">
+                                        <div class="post__small mb-30">
+                                            <div class="post__small-thumb f-left">
+                                                <a href="index-2.html#">
+                                                    <img src="img/trendy/xs/xs-4.jpg" alt="hero image">
+                                                </a>
+                                            </div>
+                                            <div class="post__small-text fix pl-10">
+                                                <h4 class="title-14 pr-0 mt-0">
+                                                    <a href="index-2.html#">Hobots or Job Training: Mnutuers Grapple
+                                                        With How to Improve.</a>
+                                                </h4>
+                                                <div class="post__small-text-meta">
+                                                    <ul>
+                                                        <li>
+                                                            <i class="fas fa-calendar-alt"></i>
+                                                            <span>01 Sep 2018</span>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="post__small mb-30">
+                                            <div class="post__small-thumb f-left">
+                                                <a href="index-2.html#">
+                                                    <img src="img/trendy/xs/xs-5.jpg" alt="hero image">
+                                                </a>
+                                            </div>
+                                            <div class="post__small-text fix pl-10">
+                                                <h4 class="title-14 pr-0 mt-0">
+                                                    <a href="index-2.html#">Robots or Job Training: Manutues Grapple
+                                                        With How to Improve..</a>
+                                                </h4>
+                                                <div class="post__small-text-meta">
+                                                    <ul>
+                                                        <li>
+                                                            <i class="fas fa-calendar-alt"></i>
+                                                            <span>01 Sep 2018</span>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="post__small mb-30">
+                                            <div class="post__small-thumb f-left">
+                                                <a href="index-2.html#">
+                                                    <img src="img/trendy/xs/xs-6.jpg" alt="hero image">
+                                                </a>
+                                            </div>
+                                            <div class="post__small-text fix pl-10">
+                                                <h4 class="title-14 pr-0 mt-0">
+                                                    <a href="index-2.html#">Robots or Job Training: Manutues Grapple
+                                                        With How to Improve..</a>
+                                                </h4>
+                                                <div class="post__small-text-meta">
+                                                    <ul>
+                                                        <li>
+                                                            <i class="fas fa-calendar-alt"></i>
+                                                            <span>01 Sep 2018</span>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <!-- /post -->
-
-                            <div class="clearfix visible-md visible-lg"></div>
-
-                            <!-- post -->
-                            <div class="col-md-6">
-                                <div class="post">
-                                    <a class="post-img" href="blog-post.html"><img src="img/post-3.jpg" alt=""></a>
-                                    <div class="post-body">
-                                        <div class="post-meta">
-                                            <a class="post-category cat-1" href="category.html">Web Design</a>
-                                            <span class="post-date">March 27, 2018</span>
-                                        </div>
-                                        <h3 class="post-title"><a href="blog-post.html">Pagedraw UI Builder Turns Your
-                                            Website Design Mockup Into Code Automatically</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- /post -->
-
-                            <!-- post -->
-                            <div class="col-md-6">
-                                <div class="post">
-                                    <a class="post-img" href="blog-post.html"><img src="img/post-4.jpg" alt=""></a>
-                                    <div class="post-body">
-                                        <div class="post-meta">
-                                            <a class="post-category cat-2" href="category.html">JavaScript</a>
-                                            <span class="post-date">March 27, 2018</span>
-                                        </div>
-                                        <h3 class="post-title"><a href="blog-post.html">Chrome Extension Protects Against
-                                            JavaScript-Based CPU Side-Channel Attacks</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- /post -->
                         </div>
                     </div>
-
-                    <div class="col-md-4">
-                        <!-- post widget -->
-                        <div class="aside-widget">
-                            <div class="section-title">
-                                <h2>Most Read</h2>
-                            </div>
-
-                            <div class="post post-widget">
-                                <a class="post-img" href="blog-post.html"><img src="img/widget-1.jpg" alt=""></a>
-                                <div class="post-body">
-                                    <h3 class="post-title"><a href="blog-post.html">Tell-A-Tool: Guide To Web Design And
-                                        Development Tools</a></h3>
-                                </div>
-                            </div>
-
-                            <div class="post post-widget">
-                                <a class="post-img" href="blog-post.html"><img src="img/widget-2.jpg" alt=""></a>
-                                <div class="post-body">
-                                    <h3 class="post-title"><a href="blog-post.html">Pagedraw UI Builder Turns Your Website
-                                        Design Mockup Into Code Automatically</a></h3>
-                                </div>
-                            </div>
-
-                            <div class="post post-widget">
-                                <a class="post-img" href="blog-post.html"><img src="img/widget-3.jpg" alt=""></a>
-                                <div class="post-body">
-                                    <h3 class="post-title"><a href="blog-post.html">Why Node.js Is The Coolest Kid On The
-                                        Backend Development Block!</a></h3>
-                                </div>
-                            </div>
-
-                            <div class="post post-widget">
-                                <a class="post-img" href="blog-post.html"><img src="img/widget-4.jpg" alt=""></a>
-                                <div class="post-body">
-                                    <h3 class="post-title"><a href="blog-post.html">Tell-A-Tool: Guide To Web Design And
-                                        Development Tools</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /post widget -->
-
-                        <!-- post widget -->
-                        <div class="aside-widget">
-                            <div class="section-title">
-                                <h2>Featured Posts</h2>
-                            </div>
-                            <div class="post post-thumb">
-                                <a class="post-img" href="blog-post.html"><img src="img/post-2.jpg" alt=""></a>
-                                <div class="post-body">
-                                    <div class="post-meta">
-                                        <a class="post-category cat-3" href="category.html">Jquery</a>
-                                        <span class="post-date">March 27, 2018</span>
-                                    </div>
-                                    <h3 class="post-title"><a href="blog-post.html">Ask HN: Does Anybody Still Use
-                                        JQuery?</a></h3>
-                                </div>
-                            </div>
-
-                            <div class="post post-thumb">
-                                <a class="post-img" href="blog-post.html"><img src="img/post-1.jpg" alt=""></a>
-                                <div class="post-body">
-                                    <div class="post-meta">
-                                        <a class="post-category cat-2" href="category.html">JavaScript</a>
-                                        <span class="post-date">March 27, 2018</span>
-                                    </div>
-                                    <h3 class="post-title"><a href="blog-post.html">Chrome Extension Protects Against
-                                        JavaScript-Based CPU Side-Channel Attacks</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /post widget -->
-
-                        <!-- ad -->
-                        <div class="aside-widget text-center">
-                            <a href="index.html#" style="display: inline-block;margin: auto;">
-                                <img class="img-responsive" src="img/ad-1.jpg" alt="">
+                    <div class="col-xl-4 col-lg-4">
+                        <div class="widget mb-40">
+                            <a href="index-2.html#">
+                                <img src="img/add/add-sidebar.jpg" alt="">
                             </a>
                         </div>
-                        <!-- /ad -->
+                        <div class="widget widget-border mb-40">
+                            <h3 class="widget-title">Popular posts</h3>
+                            <div class="post__small mb-30">
+                                <div class="post__small-thumb f-left">
+                                    <a href="index-2.html#">
+                                        <img src="img/trendy/xs/xs-1.jpg" alt="hero image">
+                                    </a>
+                                </div>
+                                <div class="post__small-text fix pl-10">
+                                        <span class="sm-cat">
+                                            <a href="index-2.html#">Fashion</a>
+                                        </span>
+                                    <h4 class="title-13 pr-0">
+                                        <a href="index-2.html#">Husar asks expenses authority to entitlements after
+                                            Bruno</a>
+                                    </h4>
+                                    <div class="post__small-text-meta">
+                                        <ul>
+                                            <li>
+                                                <i class="fas fa-calendar-alt"></i>
+                                                <span>01 Sep 2018</span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="post__small mb-30">
+                                <div class="post__small-thumb f-left">
+                                    <a href="index-2.html#">
+                                        <img src="img/trendy/xs/xs-2.jpg" alt="hero image">
+                                    </a>
+                                </div>
+                                <div class="post__small-text fix pl-10">
+                                        <span class="sm-cat">
+                                            <a href="index-2.html#">Fashion</a>
+                                        </span>
+                                    <h4 class="title-13 pr-0">
+                                        <a href="index-2.html#">Researchers claim majo throug in the fight to cure
+                                            fibrosis</a>
+                                    </h4>
+                                    <div class="post__small-text-meta">
+                                        <ul>
+                                            <li>
+                                                <i class="fas fa-calendar-alt"></i>
+                                                <span>01 Sep 2018</span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="post__small mb-30">
+                                <div class="post__small-thumb f-left">
+                                    <a href="index-2.html#">
+                                        <img src="img/trendy/xs/xs-3.jpg" alt="hero image">
+                                    </a>
+                                </div>
+                                <div class="post__small-text fix pl-10">
+                                        <span class="sm-cat">
+                                            <a href="index-2.html#">Fashion</a>
+                                        </span>
+                                    <h4 class="title-13 pr-0">
+                                        <a href="index-2.html#">Nahan downplays Liberal lership tensions after white
+                                            ant</a>
+                                    </h4>
+                                    <div class="post__small-text-meta">
+                                        <ul>
+                                            <li>
+                                                <i class="fas fa-calendar-alt"></i>
+                                                <span>01 Sep 2018</span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="post__small">
+                                <div class="post__small-thumb f-left">
+                                    <a href="index-2.html#">
+                                        <img src="img/trendy/xs/xs-4.jpg" alt="hero image">
+                                    </a>
+                                </div>
+                                <div class="post__small-text fix pl-10">
+                                        <span class="sm-cat">
+                                            <a href="index-2.html#">Travel</a>
+                                        </span>
+                                    <h4 class="title-13 pr-0">
+                                        <a href="index-2.html#">Farmers plead for bullets to put down emaciated
+                                            stock</a>
+                                    </h4>
+                                    <div class="post__small-text-meta">
+                                        <ul>
+                                            <li>
+                                                <i class="fas fa-calendar-alt"></i>
+                                                <span>01 Sep 2018</span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="widget widget-border mb-40">
+                            <h3 class="widget-title">Categories</h3>
+                            <ul>
+                                <li>
+                                    <a href="index-2.html#">Business
+                                        <span>02</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="index-2.html#">Politic
+                                        <span>05</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="index-2.html#">Fashion
+                                        <span>01</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="index-2.html#">Corporate
+                                        <span>03</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="index-2.html#">Football
+                                        <span>07</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="index-2.html#">Magazine
+                                        <span>06</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="widget widget-border mb-40">
+                            <h3 class="widget-title">Subscribe our Newsletter!</h3>
+                            <p>Subscribe to our email newsletter to receive useful articles and special offers.</p>
+                            <form class="widget-subscribe" action="index-2.html#">
+                                <input type="email" placeholder="Enter your email :">
+                                <button class="btn">subscribe</button>
+                            </form>
+                        </div>
+                        <div class="widget widget-border mb-40">
+                            <h3 class="widget-title">Most visited</h3>
+                            <div class="postbox">
+                                <div class="postbox__thumb">
+                                    <a href="index-2.html#">
+                                        <img src="img/details/sidebar-post.jpg" alt="hero image">
+                                    </a>
+                                </div>
+                                <div class="postbox__text pt-15">
+                                    <div class="postbox__text-meta pb-10">
+                                        <ul>
+                                            <li>
+                                                <i class="fas fa-calendar-alt"></i>
+                                                <span>01 Sep 2018</span>
+                                            </li>
+                                            <li>
+                                                <i class="far fa-comment"></i>
+                                                <span>(03)</span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <h4 class="title-16 pr-0">
+                                        <a href="index-2.html#">Paul Manafort’s Accountant Testifies She Helped Alter
+                                            Financial Documents</a>
+                                    </h4>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <!-- /row -->
             </div>
-            <!-- /container -->
-        </div>
-        <!-- /section -->
+        </section>
+        <!-- latest news end -->
 
-        <!-- section -->
-        <div class="section section-grey">
-            <!-- container -->
+        <!-- app-area start -->
+        <section class="app-area pb-60">
             <div class="container">
-                <!-- row -->
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="section-title text-center">
-                            <h2>Featured Posts</h2>
-                        </div>
-                    </div>
-
-                    <!-- post -->
-                    <div class="col-md-4">
-                        <div class="post">
-                            <a class="post-img" href="blog-post.html"><img src="img/post-4.jpg" alt=""></a>
-                            <div class="post-body">
-                                <div class="post-meta">
-                                    <a class="post-category cat-2" href="category.html">JavaScript</a>
-                                    <span class="post-date">March 27, 2018</span>
-                                </div>
-                                <h3 class="post-title"><a href="blog-post.html">Chrome Extension Protects Against
-                                    JavaScript-Based CPU Side-Channel Attacks</a></h3>
+                <div class="grey-bg pt-55 pb-55 pl-60 pr-60">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-12">
+                            <div class="app-text text-center text-xl-left">
+                                <h2>Download our apps now</h2>
                             </div>
                         </div>
-                    </div>
-                    <!-- /post -->
-
-                    <!-- post -->
-                    <div class="col-md-4">
-                        <div class="post">
-                            <a class="post-img" href="blog-post.html"><img src="img/post-5.jpg" alt=""></a>
-                            <div class="post-body">
-                                <div class="post-meta">
-                                    <a class="post-category cat-3" href="category.html">Jquery</a>
-                                    <span class="post-date">March 27, 2018</span>
-                                </div>
-                                <h3 class="post-title"><a href="blog-post.html">Ask HN: Does Anybody Still Use JQuery?</a>
-                                </h3>
+                        <div class="col-xl-6 col-lg-12">
+                            <div class="app-store text-center text-xl-right">
+                                <a href="index-2.html#"><img src="img/store/apple.png" alt=""></a>
+                                <a href="index-2.html#"><img src="img/store/google.png" alt=""></a>
                             </div>
                         </div>
-                    </div>
-                    <!-- /post -->
-
-                    <!-- post -->
-                    <div class="col-md-4">
-                        <div class="post">
-                            <a class="post-img" href="blog-post.html"><img src="img/post-3.jpg" alt=""></a>
-                            <div class="post-body">
-                                <div class="post-meta">
-                                    <a class="post-category cat-1" href="category.html">Web Design</a>
-                                    <span class="post-date">March 27, 2018</span>
-                                </div>
-                                <h3 class="post-title"><a href="blog-post.html">Pagedraw UI Builder Turns Your Website
-                                    Design Mockup Into Code Automatically</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /post -->
-                </div>
-                <!-- /row -->
-            </div>
-            <!-- /container -->
-        </div>
-        <!-- /section -->
-
-        <!-- section -->
-        <div class="section">
-            <!-- container -->
-            <div class="container">
-                <!-- row -->
-                <div class="row">
-                    <div class="col-md-8">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="section-title">
-                                    <h2>Most Read</h2>
-                                </div>
-                            </div>
-                            <!-- post -->
-                            <div class="col-md-12">
-                                <div class="post post-row">
-                                    <a class="post-img" href="blog-post.html"><img src="img/post-4.jpg" alt=""></a>
-                                    <div class="post-body">
-                                        <div class="post-meta">
-                                            <a class="post-category cat-2" href="category.html">JavaScript</a>
-                                            <span class="post-date">March 27, 2018</span>
-                                        </div>
-                                        <h3 class="post-title"><a href="blog-post.html">Chrome Extension Protects Against
-                                            JavaScript-Based CPU Side-Channel Attacks</a></h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- /post -->
-
-                            <!-- post -->
-                            <div class="col-md-12">
-                                <div class="post post-row">
-                                    <a class="post-img" href="blog-post.html"><img src="img/post-6.jpg" alt=""></a>
-                                    <div class="post-body">
-                                        <div class="post-meta">
-                                            <a class="post-category cat-2" href="category.html">JavaScript</a>
-                                            <span class="post-date">March 27, 2018</span>
-                                        </div>
-                                        <h3 class="post-title"><a href="blog-post.html">Why Node.js Is The Coolest Kid On
-                                            The Backend Development Block!</a></h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- /post -->
-
-                            <!-- post -->
-                            <div class="col-md-12">
-                                <div class="post post-row">
-                                    <a class="post-img" href="blog-post.html"><img src="img/post-1.jpg" alt=""></a>
-                                    <div class="post-body">
-                                        <div class="post-meta">
-                                            <a class="post-category cat-4" href="category.html">Css</a>
-                                            <span class="post-date">March 27, 2018</span>
-                                        </div>
-                                        <h3 class="post-title"><a href="blog-post.html">CSS Float: A Tutorial</a></h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- /post -->
-
-                            <!-- post -->
-                            <div class="col-md-12">
-                                <div class="post post-row">
-                                    <a class="post-img" href="blog-post.html"><img src="img/post-2.jpg" alt=""></a>
-                                    <div class="post-body">
-                                        <div class="post-meta">
-                                            <a class="post-category cat-3" href="category.html">Jquery</a>
-                                            <span class="post-date">March 27, 2018</span>
-                                        </div>
-                                        <h3 class="post-title"><a href="blog-post.html">Ask HN: Does Anybody Still Use
-                                            JQuery?</a></h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- /post -->
-
-                            <div class="col-md-12">
-                                <div class="section-row">
-                                    <button class="primary-button center-block">Load More</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-4">
-                        <!-- ad -->
-                        <div class="aside-widget text-center">
-                            <a href="index.html#" style="display: inline-block;margin: auto;">
-                                <img class="img-responsive" src="img/ad-1.jpg" alt="">
-                            </a>
-                        </div>
-                        <!-- /ad -->
-
-                        <!-- catagories -->
-                        <div class="aside-widget">
-                            <div class="section-title">
-                                <h2>Catagories</h2>
-                            </div>
-                            <div class="category-widget">
-                                <ul>
-                                    <li><a href="index.html#" class="cat-1">Web Design<span>340</span></a></li>
-                                    <li><a href="index.html#" class="cat-2">JavaScript<span>74</span></a></li>
-                                    <li><a href="index.html#" class="cat-4">JQuery<span>41</span></a></li>
-                                    <li><a href="index.html#" class="cat-3">CSS<span>35</span></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!-- /catagories -->
-
-                        <!-- tags -->
-                        <div class="aside-widget">
-                            <div class="tags-widget">
-                                <ul>
-                                    <li><a href="index.html#">Chrome</a></li>
-                                    <li><a href="index.html#">CSS</a></li>
-                                    <li><a href="index.html#">Tutorial</a></li>
-                                    <li><a href="index.html#">Backend</a></li>
-                                    <li><a href="index.html#">JQuery</a></li>
-                                    <li><a href="index.html#">Design</a></li>
-                                    <li><a href="index.html#">Development</a></li>
-                                    <li><a href="index.html#">JavaScript</a></li>
-                                    <li><a href="index.html#">Website</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!-- /tags -->
                     </div>
                 </div>
-                <!-- /row -->
             </div>
-            <!-- /container -->
-        </div>
-        <!-- /section -->
-    </div>
+        </section>
+        <!-- app-area end -->
+
+    </main>
 </template>
 
 <script>
+
+import Slider from "../../fragments/Slider";
+
 export default {
-    name: "Index"
+    name: "Index",
+    components: {
+        Slider: Slider
+    }
 }
 </script>
 
