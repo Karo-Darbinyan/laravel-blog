@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\Api\v1\IndexController;
+use App\Http\Controllers\Api\v1\PostController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -14,8 +16,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::resource('v1/posts', \App\Http\Controllers\Api\v1\IndexController::class);
-//Route::resource('v1/posts/{id}', \App\Http\Controllers\Api\v1\IndexController::class);
+Route::resource('v1/index', IndexController::class);
+Route::resource('v1/post', PostController::class);
 
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();

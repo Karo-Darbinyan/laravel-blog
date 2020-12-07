@@ -68,120 +68,30 @@
             <div class="container">
                 <div class="content-pad border pb-0">
                     <div class="row">
-                        <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div v-for="post_1 in posts_1" class="col-xl-3 col-lg-4 col-md-6">
                             <div class="postbox mb-25">
                                 <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
-                                    <a href="index-2.html#">
-                                        <img src="img/features/fea2/img1.jpg" alt="hero image">
-                                    </a>
+                                    <router-link :to="'/post/' + post_1.slug">
+                                        <img :src="'/storage/' + post_1.image" alt="hero image">
+                                    </router-link>
                                 </div>
                                 <div class="postbox__text pt-20">
                                     <div class="meta-top">
                                             <span class="post-cat mb-10 mr-10">
-                                                <a href="index-2.html#" tabindex="0">politics</a>
+                                                <router-link :to="'/post/' + post_1.category.slug" tabindex="0">{{ post_1.category.name }}</router-link>
                                             </span>
-                                        <span><i class="fas fa-calendar-alt"></i> 01 Sep 2018</span>
+                                        <span><i class="fas fa-calendar-alt"></i> {{ date_format(post_1.created_at) }}</span>
                                     </div>
                                     <h4 class="title-16 pr-0">
-                                        <a href="index-2.html#">Hamels solid in debut as Cubs throttle Pirates 9-2</a>
+                                        <router-link :to="'/post/' + post_1.slug">{{ post_1.title }}</router-link>
                                     </h4>
                                     <div class="postbox__text-meta pb-10">
                                         <ul>
                                             <li>
-                                                <span>By Adrian M. Romero</span>
+                                                <span>{{ post_1.user.name }}</span>
                                             </li>
                                             <li>
-                                                <span>Comments (05)</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6">
-                            <div class="postbox mb-25">
-                                <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
-                                    <a href="index-2.html#">
-                                        <img src="img/features/fea2/img2.jpg" alt="hero image">
-                                    </a>
-                                </div>
-                                <div class="postbox__text pt-20">
-                                    <div class="meta-top">
-                                            <span class="post-cat mb-10 mr-10">
-                                                <a href="index-2.html#" tabindex="0">sports</a>
-                                            </span>
-                                        <span><i class="fas fa-calendar-alt"></i> 01 Sep 2018</span>
-                                    </div>
-                                    <h4 class="title-16 pr-0">
-                                        <a href="index-2.html#">Flight attendants Regulate temperatures planes</a>
-                                    </h4>
-                                    <div class="postbox__text-meta pb-10">
-                                        <ul>
-                                            <li>
-                                                <span>By Adrian M. Romero</span>
-                                            </li>
-                                            <li>
-                                                <span>Comments (05)</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6">
-                            <div class="postbox mb-25">
-                                <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
-                                    <a href="index-2.html#">
-                                        <img src="img/features/fea2/img3.jpg" alt="hero image">
-                                    </a>
-                                </div>
-                                <div class="postbox__text pt-20">
-                                    <div class="meta-top">
-                                            <span class="post-cat mb-10 mr-10">
-                                                <a href="index-2.html#" tabindex="0">fashion</a>
-                                            </span>
-                                        <span><i class="fas fa-calendar-alt"></i> 01 Sep 2018</span>
-                                    </div>
-                                    <h4 class="title-16 pr-0">
-                                        <a href="index-2.html#">Aniston dishes sexism Friend reboot ideas</a>
-                                    </h4>
-                                    <div class="postbox__text-meta pb-10">
-                                        <ul>
-                                            <li>
-                                                <span>By Adrian M. Romero</span>
-                                            </li>
-                                            <li>
-                                                <span>Comments (05)</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-6 col-md-6 d-lg-none d-xl-block">
-                            <div class="postbox mb-25">
-                                <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
-                                    <a href="index-2.html#">
-                                        <img src="img/features/fea2/img4.jpg" alt="hero image">
-                                    </a>
-                                </div>
-                                <div class="postbox__text pt-20">
-                                    <div class="meta-top">
-                                            <span class="post-cat mb-10 mr-10">
-                                                <a href="index-2.html#" tabindex="0">travel</a>
-                                            </span>
-                                        <span><i class="fas fa-calendar-alt"></i> 01 Sep 2018</span>
-                                    </div>
-                                    <h4 class="title-16 pr-0">
-                                        <a href="index-2.html#">Killer of president cardiologis was a patient's son,</a>
-                                    </h4>
-                                    <div class="postbox__text-meta pb-10">
-                                        <ul>
-                                            <li>
-                                                <span>By Adrian M. Romero</span>
-                                            </li>
-                                            <li>
-                                                <span>Comments (05)</span>
+                                                <span>Comments ({{ post_1.views }})</span>
                                             </li>
                                         </ul>
                                     </div>
@@ -318,164 +228,39 @@
                                     <div class="tab-pane fade show active" id="home" role="tabpanel"
                                          aria-labelledby="home-tab">
                                         <div class="row">
-                                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                            <div v-for="latest_post in latest_posts" class="col-xl-4 col-lg-6 col-md-6">
                                                 <div class="postbox mb-25">
                                                     <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
-                                                        <a href="index-2.html#">
-                                                            <img src="img/news2/tab1.jpg" alt="hero image">
-                                                        </a>
+                                                        <router-link :to="'/post/' + latest_post.slug">
+                                                            <img :src="'/storage/' + latest_post.image"
+                                                                 alt="hero image">
+                                                        </router-link>
                                                     </div>
                                                     <div class="postbox__text pt-15">
                                                         <div class="postbox__text-meta pb-10">
                                                             <ul>
                                                                 <li>
                                                                     <i class="fas fa-calendar-alt"></i>
-                                                                    <span>01 Sep 2018</span>
+                                                                    <span>
+                                                                        {{
+                                                                            date_format(latest_post.created_at, 'DD MMM YYYY')
+                                                                        }}
+                                                                    </span>
+                                                                </li>
+                                                                <li>
+                                                                    <i class="far fa-eye"></i>
+                                                                    <span>({{ latest_post.views }})</span>
                                                                 </li>
                                                                 <li>
                                                                     <i class="far fa-comment"></i>
-                                                                    <span>(03)</span>
+                                                                    <span>({{ latest_post.id }})</span>
                                                                 </li>
                                                             </ul>
                                                         </div>
                                                         <h4 class="title-14 font-600 pr-0">
-                                                            <a href="index-2.html#">DNA-testing companies pro mise not
-                                                                to share informa</a>
-                                                        </h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xl-4 col-lg-6 col-md-6">
-                                                <div class="postbox mb-25">
-                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
-                                                        <a href="index-2.html#">
-                                                            <img src="img/news2/tab2.jpg" alt="hero image">
-                                                        </a>
-                                                    </div>
-                                                    <div class="postbox__text pt-15">
-                                                        <div class="postbox__text-meta pb-10">
-                                                            <ul>
-                                                                <li>
-                                                                    <i class="fas fa-calendar-alt"></i>
-                                                                    <span>01 Sep 2018</span>
-                                                                </li>
-                                                                <li>
-                                                                    <i class="far fa-comment"></i>
-                                                                    <span>(03)</span>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <h4 class="title-14 font-600 pr-0">
-                                                            <a href="index-2.html#">Urban Meyer faces questions about
-                                                                domestic viole...</a>
-                                                        </h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xl-4 col-lg-6 col-md-6">
-                                                <div class="postbox mb-25">
-                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
-                                                        <a href="index-2.html#">
-                                                            <img src="img/news2/tab3.jpg" alt="hero image">
-                                                        </a>
-                                                    </div>
-                                                    <div class="postbox__text pt-15">
-                                                        <div class="postbox__text-meta pb-10">
-                                                            <ul>
-                                                                <li>
-                                                                    <i class="fas fa-calendar-alt"></i>
-                                                                    <span>01 Sep 2018</span>
-                                                                </li>
-                                                                <li>
-                                                                    <i class="far fa-comment"></i>
-                                                                    <span>(03)</span>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <h4 class="title-14 font-600 pr-0">
-                                                            <a href="index-2.html#">Giant hands lift new Vietnan bridge
-                                                                toward heavens</a>
-                                                        </h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xl-4 col-lg-6 col-md-6">
-                                                <div class="postbox mb-25">
-                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
-                                                        <a href="index-2.html#">
-                                                            <img src="img/news2/tab4.jpg" alt="hero image">
-                                                        </a>
-                                                    </div>
-                                                    <div class="postbox__text pt-15">
-                                                        <div class="postbox__text-meta pb-10">
-                                                            <ul>
-                                                                <li>
-                                                                    <i class="fas fa-calendar-alt"></i>
-                                                                    <span>01 Sep 2018</span>
-                                                                </li>
-                                                                <li>
-                                                                    <i class="far fa-comment"></i>
-                                                                    <span>(03)</span>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <h4 class="title-14 font-600 pr-0">
-                                                            <a href="index-2.html#">'Mars' actor says working on the
-                                                                NatGeo series</a>
-                                                        </h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xl-4 col-lg-6 col-md-6">
-                                                <div class="postbox mb-25">
-                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
-                                                        <a href="index-2.html#">
-                                                            <img src="img/news2/tab5.jpg" alt="hero image">
-                                                        </a>
-                                                    </div>
-                                                    <div class="postbox__text pt-15">
-                                                        <div class="postbox__text-meta pb-10">
-                                                            <ul>
-                                                                <li>
-                                                                    <i class="fas fa-calendar-alt"></i>
-                                                                    <span>01 Sep 2018</span>
-                                                                </li>
-                                                                <li>
-                                                                    <i class="far fa-comment"></i>
-                                                                    <span>(03)</span>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <h4 class="title-14 font-600 pr-0">
-                                                            <a href="index-2.html#">Congrats! Because you live Dhaka can
-                                                                book these</a>
-                                                        </h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xl-4 col-lg-6 col-md-6">
-                                                <div class="postbox mb-25">
-                                                    <div class="postbox__thumb" data-overlay="dark" data-opacity="2">
-                                                        <a href="index-2.html#">
-                                                            <img src="img/news2/tab6.jpg" alt="hero image">
-                                                        </a>
-                                                    </div>
-                                                    <div class="postbox__text pt-15">
-                                                        <div class="postbox__text-meta pb-10">
-                                                            <ul>
-                                                                <li>
-                                                                    <i class="fas fa-calendar-alt"></i>
-                                                                    <span>01 Sep 2018</span>
-                                                                </li>
-                                                                <li>
-                                                                    <i class="far fa-comment"></i>
-                                                                    <span>(03)</span>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <h4 class="title-14 font-600 pr-0">
-                                                            <a href="index-2.html#">Patriots release WR Jordan Matthews
-                                                                after significant</a>
+                                                            <router-link :to="'/post/' + latest_post.slug">
+                                                                {{ latest_post.title }}
+                                                            </router-link>
                                                         </h4>
                                                     </div>
                                                 </div>
@@ -1000,137 +785,14 @@
                                 <img src="img/add/add-sidebar.jpg" alt="">
                             </a>
                         </div>
-                        <div class="widget widget-border mb-40">
-                            <h3 class="widget-title">Popular posts</h3>
-                            <div class="post__small mb-30">
-                                <div class="post__small-thumb f-left">
-                                    <a href="index-2.html#">
-                                        <img src="img/trendy/xs/xs-1.jpg" alt="hero image">
-                                    </a>
-                                </div>
-                                <div class="post__small-text fix pl-10">
-                                        <span class="sm-cat">
-                                            <a href="index-2.html#">Fashion</a>
-                                        </span>
-                                    <h4 class="title-13 pr-0">
-                                        <a href="index-2.html#">Husar asks expenses authority to entitlements after
-                                            Bruno</a>
-                                    </h4>
-                                    <div class="post__small-text-meta">
-                                        <ul>
-                                            <li>
-                                                <i class="fas fa-calendar-alt"></i>
-                                                <span>01 Sep 2018</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="post__small mb-30">
-                                <div class="post__small-thumb f-left">
-                                    <a href="index-2.html#">
-                                        <img src="img/trendy/xs/xs-2.jpg" alt="hero image">
-                                    </a>
-                                </div>
-                                <div class="post__small-text fix pl-10">
-                                        <span class="sm-cat">
-                                            <a href="index-2.html#">Fashion</a>
-                                        </span>
-                                    <h4 class="title-13 pr-0">
-                                        <a href="index-2.html#">Researchers claim majo throug in the fight to cure
-                                            fibrosis</a>
-                                    </h4>
-                                    <div class="post__small-text-meta">
-                                        <ul>
-                                            <li>
-                                                <i class="fas fa-calendar-alt"></i>
-                                                <span>01 Sep 2018</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="post__small mb-30">
-                                <div class="post__small-thumb f-left">
-                                    <a href="index-2.html#">
-                                        <img src="img/trendy/xs/xs-3.jpg" alt="hero image">
-                                    </a>
-                                </div>
-                                <div class="post__small-text fix pl-10">
-                                        <span class="sm-cat">
-                                            <a href="index-2.html#">Fashion</a>
-                                        </span>
-                                    <h4 class="title-13 pr-0">
-                                        <a href="index-2.html#">Nahan downplays Liberal lership tensions after white
-                                            ant</a>
-                                    </h4>
-                                    <div class="post__small-text-meta">
-                                        <ul>
-                                            <li>
-                                                <i class="fas fa-calendar-alt"></i>
-                                                <span>01 Sep 2018</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="post__small">
-                                <div class="post__small-thumb f-left">
-                                    <a href="index-2.html#">
-                                        <img src="img/trendy/xs/xs-4.jpg" alt="hero image">
-                                    </a>
-                                </div>
-                                <div class="post__small-text fix pl-10">
-                                        <span class="sm-cat">
-                                            <a href="index-2.html#">Travel</a>
-                                        </span>
-                                    <h4 class="title-13 pr-0">
-                                        <a href="index-2.html#">Farmers plead for bullets to put down emaciated
-                                            stock</a>
-                                    </h4>
-                                    <div class="post__small-text-meta">
-                                        <ul>
-                                            <li>
-                                                <i class="fas fa-calendar-alt"></i>
-                                                <span>01 Sep 2018</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        <popular_posts></popular_posts>
                         <div class="widget widget-border mb-40">
                             <h3 class="widget-title">Categories</h3>
                             <ul>
-                                <li>
-                                    <a href="index-2.html#">Business
-                                        <span>02</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index-2.html#">Politic
-                                        <span>05</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index-2.html#">Fashion
-                                        <span>01</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index-2.html#">Corporate
-                                        <span>03</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index-2.html#">Football
-                                        <span>07</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index-2.html#">Magazine
-                                        <span>06</span>
-                                    </a>
+                                <li v-for="category in categories">
+                                    <router-link :to="'/category/' + category.slug">{{ category.name }}
+                                        <span>{{ category.posts_count }}</span>
+                                    </router-link>
                                 </li>
                             </ul>
                         </div>
@@ -1204,11 +866,37 @@
 <script>
 
 import Slider from "../../fragments/Slider";
+import popular_posts from "../../views/post/Popular";
+import axios from "axios";
+import moment from "moment";
 
 export default {
     name: "Index",
     components: {
-        Slider: Slider
+        Slider: Slider,
+        popular_posts: popular_posts
+    },
+    data() {
+        return {
+            slider_posts: [],
+            latest_posts: [],
+            categories: [],
+            posts_1: []
+        };
+    },
+    mounted() {
+        axios.get("/api/v1/index")
+            .then(response => {
+                this.categories = response.data.categories;
+                this.slider_posts = response.data.slider_posts;
+                this.latest_posts = response.data.latest_posts;
+                this.posts_1 = response.data.posts_1;
+            })
+    },
+    methods: {
+        date_format: function (date, format) {
+            return moment(date).format(format || 'DD MMM YYYY');
+        }
     }
 }
 </script>

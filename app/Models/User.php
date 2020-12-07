@@ -44,6 +44,8 @@ use Illuminate\Notifications\Notifiable;
  * @method static Builder|User whereUpdatedAt($value)
  * @mixin \Eloquent
  * @property-read \App\Models\Post|null $post
+ * @property-read \Illuminate\Database\Eloquent\Collection|\App\Models\Post[] $posts
+ * @property-read int|null $posts_count
  */
 class User extends \TCG\Voyager\Models\User
 {

@@ -5,6 +5,8 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\Relations\HasOne;
 use Illuminate\Support\Facades\Auth;
 use TCG\Voyager\Facades\Voyager;
 use TCG\Voyager\Traits\Resizable;
@@ -57,8 +59,10 @@ use TCG\Voyager\Traits\Translatable;
  * @method static Builder|Post withTranslation($locale = null, $fallback = true)
  * @method static Builder|Post withTranslations($locales = null, $fallback = true)
  * @mixin \Eloquent
+ * @property int $views
+ * @method static Builder|Post whereViews($value)
  */
-class Post extends Model
+class Post extends \TCG\Voyager\Models\Post
 {
     use Translatable;
     use Resizable;
@@ -97,25 +101,26 @@ class Post extends Model
     }
 
     /**
-     * @return \Illuminate\Database\Eloquent\Relations\HasOne
+     * @return BelongsTo
      */
     public function category()
     {
-        return $this->belongsTo(Voyager::modelClass('Category'));
+        return $this->belongsTo(Category::class, 'category_id');
     }
-
-    public function user()
-    {
-        return $this->hasOne('App\Models\User', 'id');
-    }
-
 
     /**
-     * Получить пользователя, владеющего данным телефоном.
+     * @return BelongsTo
      */
-    public function user1()
+    public function user()
     {
-        return $this->belongsTo('App\Models\User', 'author_id');
+        return $this->belongsTo(User::class, 'author_id');
     }
 
+    /**
+     * @return BelongsTo
+     */
+    public function tag()
+    {
+        return $this->belongsTo(Tag::class, 'author_id');
+    }
 }
